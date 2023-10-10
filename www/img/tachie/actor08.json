@@ -1,0 +1,20 @@
+{"frames": {
+
+"actor08_body_1.png":
+{
+	"frame": {"x":1,"y":1,"w":662,"h":736},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":32,"w":662,"h":736},
+	"sourceSize": {"w":1024,"h":768}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor08.webp",
+	"format": "RGBA8888",
+	"size": {"w":664,"h":738},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ba132fa44196b28e3bc45b926539cded:446458a01926da6265090d7ebe780e90:aa5d94d3d277b7cf953a45105568c834$"
+}
+}

@@ -1,0 +1,20 @@
+{"frames": {
+
+"02_07_01_01.png":
+{
+	"frame": {"x":1,"y":1,"w":1024,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":768},
+	"sourceSize": {"w":1024,"h":768}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero02_07.webp",
+	"format": "RGBA8888",
+	"size": {"w":1026,"h":770},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dd677d8d55130c2fd3be0b836ab6d93f:08f862609db2810d4fdec04bc96f6005:d7d7c29cf14c8ae491a0c68f1133a4bb$"
+}
+}
