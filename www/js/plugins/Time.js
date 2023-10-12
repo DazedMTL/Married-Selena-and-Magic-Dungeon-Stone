@@ -37,7 +37,7 @@ var Saba;
             }
             var day = $gameVariables.value(14);
             this._lastDay = day;
-            this.contents.drawText(day + '日目', 8, 0, 100, 32, 'left');
+            this.contents.drawText('Day ' + day, 8, 0, 100, 32, 'left');
             var time = $gameVariables.value(15);
             this._lastTime = time;
             var timeStr;

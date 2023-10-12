@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋１階",
+    "displayName": "Inn 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 24,
@@ -4339,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -4474,7 +4474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうぞお通り下さい。"
+                                "Please go ahead."
                             ]
                         },
                         {
@@ -4551,14 +4551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前、スタッフか？"
+                                "Are you a staff member? If so, you can pass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なら、通っていいぞ。"
+                                ""
                             ]
                         },
                         {
@@ -4679,7 +4679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てすと"
+                                "Test"
                             ]
                         },
                         {
@@ -4756,14 +4756,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはＶＩＰルームへの通用口だ。"
+                                "This is the entrance to the VIP room. If you're\nbeing called, you may pass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "呼ばれているなら通ってよし。"
+                                ""
                             ]
                         },
                         {
@@ -4884,7 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てすと"
+                                "Test"
                             ]
                         },
                         {
@@ -5055,14 +5055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リージョン３２が「通行可能」"
+                                "Region 32 is passable and Region 33 is\nimpassable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "リージョン３３が「通行不可」"
+                                ""
                             ]
                         },
                         {
@@ -5139,7 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てすと"
+                                "Test"
                             ]
                         },
                         {

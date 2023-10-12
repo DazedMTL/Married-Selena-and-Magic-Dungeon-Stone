@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "セレナの家",
+        "name": "Selena's house",
         "order": 37,
         "parentId": 9,
         "scrollX": 1030.5,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": false,
-        "name": "ゲーム開始位置",
+        "name": "Game start location",
         "order": 49,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "ダンジョン",
+        "name": "Dungeon",
         "order": 3,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "街",
+        "name": "Town",
         "order": 13,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "ダンジョン入り口",
+        "name": "Dungeon entrance",
         "order": 14,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "家",
+        "name": "House",
         "order": 36,
         "parentId": 0,
         "scrollX": 832,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "デバッグ",
+        "name": "Debug",
         "order": 1,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": false,
-        "name": "帰り道",
+        "name": "Way back home",
         "order": 38,
         "parentId": 9,
         "scrollX": 1038.5,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "メルの研究室",
+        "name": "Mel's laboratory",
         "order": 17,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": false,
-        "name": "ダンジョン",
+        "name": "Dungeon",
         "order": 39,
         "parentId": 9,
         "scrollX": 1038.5,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "家の前",
+        "name": "In front of the house",
         "order": 48,
         "parentId": 33,
         "scrollX": 1038.5,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "宿屋の部屋",
+        "name": "Inn room",
         "order": 18,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "壁尻",
+        "name": "Wall butt",
         "order": 11,
         "parentId": 4,
         "scrollX": 1038.5,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "ショップ",
+        "name": "Shop",
         "order": 15,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "ギルド１階",
+        "name": "Guild 1st floor",
         "order": 26,
         "parentId": 41,
         "scrollX": 1038.5,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "シーン回想用",
+        "name": "Scene flashback",
         "order": 2,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "ギルド２階",
+        "name": "Guild 2nd floor",
         "order": 27,
         "parentId": 41,
         "scrollX": 1030.5,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 16,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "チュートリアル",
+        "name": "Tutorial",
         "order": 7,
         "parentId": 4,
         "scrollX": 1038.5,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "ギルド外観",
+        "name": "Guild Exterior",
         "order": 28,
         "parentId": 41,
         "scrollX": 1038.5,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "浮浪者の家",
+        "name": "Homeless Shelter",
         "order": 24,
         "parentId": 37,
         "scrollX": 1038.5,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": false,
-        "name": "ラスボス戦",
+        "name": "Final Boss Battle",
         "order": 12,
         "parentId": 4,
         "scrollX": 1038.5,
@@ -256,7 +256,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "義父の家１F",
+        "name": "Father-in-law's house 1st floor",
         "order": 35,
         "parentId": 7,
         "scrollX": 1030.5,
@@ -265,7 +265,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "宿屋２階",
+        "name": "Inn 2nd floor",
         "order": 23,
         "parentId": 37,
         "scrollX": 1038.5,
@@ -283,7 +283,7 @@
     {
         "id": 33,
         "expanded": true,
-        "name": "マップ",
+        "name": "Map",
         "order": 40,
         "parentId": 0,
         "scrollX": 1038.5,
@@ -292,7 +292,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 21,
         "parentId": 37,
         "scrollX": 1038.5,
@@ -301,7 +301,7 @@
     {
         "id": 35,
         "expanded": false,
-        "name": "貧民街",
+        "name": "Slum",
         "order": 19,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -310,7 +310,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "市街",
+        "name": "Downtown",
         "order": 47,
         "parentId": 33,
         "scrollX": 1030,
@@ -319,7 +319,7 @@
     {
         "id": 37,
         "expanded": true,
-        "name": "売春中",
+        "name": "Prostitution in progress",
         "order": 20,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -328,7 +328,7 @@
     {
         "id": 38,
         "expanded": false,
-        "name": "路地裏",
+        "name": "Back alley",
         "order": 22,
         "parentId": 37,
         "scrollX": 1038.5,
@@ -355,7 +355,7 @@
     {
         "id": 41,
         "expanded": true,
-        "name": "ギルド",
+        "name": "Guild",
         "order": 25,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -364,7 +364,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "ギルド１階(リン)",
+        "name": "Guild 1st Floor (Rin)",
         "order": 29,
         "parentId": 41,
         "scrollX": 1038.5,
@@ -382,7 +382,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "街全体",
+        "name": "The entire town",
         "order": 32,
         "parentId": 7,
         "scrollX": 1046.5,
@@ -391,7 +391,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "ギルド外観",
+        "name": "Guild Exterior",
         "order": 31,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -400,7 +400,7 @@
     {
         "id": 46,
         "expanded": false,
-        "name": "ギルド２階(リン)",
+        "name": "Guild 2nd Floor (Rin)",
         "order": 30,
         "parentId": 41,
         "scrollX": 1030.5,
@@ -409,7 +409,7 @@
     {
         "id": 47,
         "expanded": false,
-        "name": "出産場所",
+        "name": "Birthplace",
         "order": 33,
         "parentId": 7,
         "scrollX": 1038.5,
@@ -418,7 +418,7 @@
     {
         "id": 48,
         "expanded": false,
-        "name": "義父の家",
+        "name": "Father-in-law's house",
         "order": 34,
         "parentId": 7,
         "scrollX": 1030.5,

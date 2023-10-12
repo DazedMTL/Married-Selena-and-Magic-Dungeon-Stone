@@ -4690,7 +4690,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "次のパートまで休みますか？"
+                    "Are we taking a break until the next part?"
                 ]
             },
             {
@@ -4698,8 +4698,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -5130,7 +5130,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "Ｈイベントが発生しないため、次のパートに進みます。"
+                    "I will proceed to the next part because the H\nevent did not occur."
                 ]
             },
             {
@@ -8854,7 +8854,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "どの場所から開始しますか？"
+                    "Which location do you want to start from?"
                 ]
             },
             {
@@ -8862,10 +8862,10 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "１層",
-                        "３層",
-                        "最下層",
-                        "戻る"
+                        "1st Floor",
+                        "3rd floor",
+                        "Bottom floor",
+                        "Go back"
                     ],
                     3,
                     0,
@@ -9080,7 +9080,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どの場所から開始しますか？"
+                    "Which location do you want to start from?"
                 ]
             },
             {
@@ -9088,9 +9088,9 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "１層",
-                        "３層",
-                        "戻る"
+                        "1st Floor",
+                        "3rd floor",
+                        "Go back"
                     ],
                     2,
                     0,
@@ -14044,7 +14044,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "お金を\\V[20]Ｇ落っことした！"
+                    "I dropped \\V[20] G of money!"
                 ]
             },
             {
@@ -15555,7 +15555,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どの階層から開始しますか？"
+                    "From which floor do you want to start?"
                 ]
             },
             {
@@ -15563,11 +15563,11 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "５層",
-                        "４層",
-                        "３層",
-                        "２層",
-                        "１層"
+                        "5th floor",
+                        "4th floor",
+                        "3rd floor",
+                        "2nd floor",
+                        "1st floor"
                     ],
                     -1,
                     0,
@@ -15718,7 +15718,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どの階層から開始しますか？"
+                    "From which floor do you want to start?"
                 ]
             },
             {
@@ -15726,10 +15726,10 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "４層",
-                        "３層",
-                        "２層",
-                        "１層"
+                        "4th floor",
+                        "3rd floor",
+                        "2nd floor",
+                        "Floor 1"
                     ],
                     -1,
                     0,
@@ -15860,7 +15860,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どの階層から開始しますか？"
+                    "From which floor do you want to start?"
                 ]
             },
             {
@@ -15868,9 +15868,9 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "３層",
-                        "２層",
-                        "１層"
+                        "3rd floor",
+                        "2nd floor",
+                        "Floor 1"
                     ],
                     -1,
                     0,
@@ -15981,7 +15981,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どの階層から開始しますか？"
+                    "From which floor do you want to start?"
                 ]
             },
             {
@@ -15989,8 +15989,8 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "２層",
-                        "１層"
+                        "2nd floor",
+                        "Floor 1"
                     ],
                     -1,
                     0,
@@ -16835,7 +16835,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "今は魔法のロープを使うことができません。"
+                    "I can't use magic ropes right now."
                 ]
             },
             {
@@ -16900,7 +16900,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "今は魔法のロープを使うことができません。"
+                    "I can't use magic ropes right now."
                 ]
             },
             {
@@ -16946,7 +16946,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "魔法のロープを使いますか？"
+                    "Are you going to use the magic ropes?"
                 ]
             },
             {
@@ -16954,8 +16954,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -42017,7 +42017,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "出産CGを表示しますか？"
+                    "Do you want to display the childbirth CG?"
                 ]
             },
             {
@@ -42025,8 +42025,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -43975,7 +43975,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "出産CGを表示しますか？"
+                    "Do you want to display the childbirth CG?"
                 ]
             },
             {
@@ -43983,8 +43983,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -47424,21 +47424,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "　セレナと魔石のダンジョン"
+                    "Selena and the Dungeon of Magic Stones Complete"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "　　　　　　　　　　　　　　　　　　　　　　　　　　完"
+                    ""
                 ]
             },
             {
@@ -47455,7 +47455,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "回想を全開放しますか？"
+                    "Do you want to unlock all the memories?"
                 ]
             },
             {
@@ -47463,8 +47463,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -47527,7 +47527,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "回想を全開放しました"
+                    "All memories have been unlocked."
                 ]
             },
             {
@@ -50810,8 +50810,8 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "通常",
-                        "ボテ腹"
+                        "Normal",
+                        "Bloated belly"
                     ],
                     -1,
                     0,
@@ -53907,7 +53907,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ボテ腹バージョンを閲覧しますか？"
+                    "Do you want to view the pregnant belly version?"
                 ]
             },
             {
@@ -53915,8 +53915,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -55621,7 +55621,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "処女バージョンをみますか？"
+                    "Do you want to watch the virgin version?"
                 ]
             },
             {
@@ -55629,8 +55629,8 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -60204,7 +60204,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "セレナの種親を決められます"
+                    "You can choose Selena's foster parent."
                 ]
             },
             {
@@ -60212,12 +60212,12 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "ラルゴ",
-                        "シン",
-                        "金持ち",
-                        "グルカ",
-                        "オーク",
-                        "適当な傭兵"
+                        "Largo",
+                        "Shin",
+                        "Rich person",
+                        "Guruka",
+                        "Orc",
+                        "Random mercenary"
                     ],
                     1,
                     0,
@@ -60442,7 +60442,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "リンの種親を決められます"
+                    "Rin's foster parent can be decided."
                 ]
             },
             {
@@ -60450,10 +60450,10 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "ラルゴ",
-                        "グルカ",
-                        "金持ちの息子",
-                        "適当な傭兵"
+                        "Largo",
+                        "Guruka",
+                        "Rich son",
+                        "Suitable mercenary"
                     ],
                     1,
                     0,
@@ -60654,7 +60654,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "出産相手を選んでください"
+                    "Please choose a partner for childbirth."
                 ]
             },
             {
@@ -60662,8 +60662,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "グルカ",
-                        "適当な傭兵"
+                        "Guruka",
+                        "Random mercenary"
                     ],
                     1,
                     0,
@@ -60806,7 +60806,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ソフィアの種親を決められます"
+                    "The foster parent for Sophia can be decided."
                 ]
             },
             {
@@ -60814,9 +60814,9 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "司祭",
-                        "ブルーノ",
-                        "適当な傭兵"
+                        "Priest",
+                        "Bruno",
+                        "Suitable mercenary"
                     ],
                     1,
                     0,

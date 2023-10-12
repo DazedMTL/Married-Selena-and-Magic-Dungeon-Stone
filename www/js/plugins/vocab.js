@@ -81,28 +81,29 @@ TextManager.param = function (paramId) {
 
 function getStageName(stage) {
     switch (stage) {
-        case 1: return '魔界';
-        case 2: return '世界樹の森';
-        case 3: return 'ピラミッド';
-        case 4: return 'フェニックスの巣';
-        case 5: return '万年氷洞';
+        case 1: return 'Demon World';
+        case 2: return 'World Tree Forest';
+        case 3: return 'Pyramid';
+        case 4: return 'Phoenix Nest';
+        case 5: return 'Eternal Ice Cave';
         case 6: return 'District 13';
+        default: return '';
     }
 }
 
 function getPlaceName(placeId) {
     switch (placeId) {
-        case Saba.HOME: return '自宅';
-        case Saba.SHOP: return 'ショップ「ボッタクル商店」';
-        case Saba.DUNGEON: return 'ダンジョン「深淵の迷宮」';
-        case Saba.GUILD: return '冒険者ギルド';
-        case Saba.FAVELA: return '貧民街';
-        case Saba.CITY: return 'マンダールの村';
-        case Saba.ROUKA: return '廊下';
-        case Saba.GAKUENCHO: return '学園長室';
-        case Saba.GAKUENCHO_MAE: return '学園長室の前';
-        case Saba.LAB: return 'メルの研究室';
-        case Saba.VAGRANT: return '浮浪者のねぐら';
+        case Saba.HOME: return 'Home';
+        case Saba.SHOP: return 'Shop Bottakuru Store';
+        case Saba.DUNGEON: return 'Dungeon Abyssal Labyrinth';
+        case Saba.GUILD: return 'Adventurers Guild';
+        case Saba.FAVELA: return 'Slums';
+        case Saba.CITY: return 'Mandar Village';
+        case Saba.ROUKA: return 'Hallway';
+        case Saba.GAKUENCHO: return 'Principal\'s Office';
+        case Saba.GAKUENCHO_MAE: return 'In Front of Principal\'s Office';
+        case Saba.LAB: return 'Mel\'s Laboratory';
+        case Saba.VAGRANT: return 'Vagrant\'s Hideout';
         default: return '';
     }
 }

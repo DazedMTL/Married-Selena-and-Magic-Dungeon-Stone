@@ -4900,14 +4900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リージョン３２が「通行可能」"
+                                "Region 32 is passable and Region 33 is\nimpassable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "リージョン３３が「通行不可」"
+                                ""
                             ]
                         },
                         {

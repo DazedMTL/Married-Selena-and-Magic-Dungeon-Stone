@@ -570,7 +570,7 @@ Imported['CategorySythesis'] = 1.00;
         if (this.price(item)) {
             this.drawText(this.price(item) + ' G', rect.x + rect.width - priceWidth, rect.y, priceWidth, 'right');
         } else {
-            this.drawText('素材 OK', rect.x + rect.width - priceWidth, rect.y, priceWidth, 'right');
+            this.drawText('Materials OK', rect.x + rect.width - priceWidth, rect.y, priceWidth, 'right');
 
         }
         this.changePaintOpacity(true);
@@ -627,13 +627,13 @@ Imported['CategorySythesis'] = 1.00;
         }
         var categories = DataManager.itemSecondaryCategories(item);
         var cate = this._category;
-        if (cate == 'ロナ') {
+        if (cate == 'Rona') {
             cate = 'シーフ';
         }
-        else if (cate == 'ソフィア') {
+        else if (cate == 'Sophia') {
             cate = 'プリースト';
         }
-        else if (cate == 'リン') {
+        else if (cate == 'Rin') {
             cate = 'ニンジャ';
         }
         if (item.wtypeId == 2 || item.wtypeId == 4 || item.wtypeId == 6) {
@@ -1731,10 +1731,10 @@ Imported['CategorySythesis'] = 1.00;
     Scene_CategorySynthesis.prototype.setParameters = function (args) {
         var categories = defaultSynthesisCategories;
         if (!$gameSwitches.value(241)) {
-            categories = ['セレナ'];
+            categories = ['Selena'];
         }
         else if (!$gameSwitches.value(568)) {
-            categories = ['セレナ', 'ロナ', 'ソフィア'];
+            categories = ['Selena', 'Rona', 'Sophia'];
         }
         var name = '';
         var picture = '';
@@ -1962,9 +1962,9 @@ Imported['CategorySythesis'] = 1.00;
         var item = this._recipeWindow.item();
         var price = getRecipePrice(item);
         if (price > 0) {
-            this._confirmWindow.setTexts([this._recipeWindow.item().name + 'を合成しますか？', '※素材購入費用が' + price + 'Gかかります']);
+            this._confirmWindow.setTexts([this._recipeWindow.item().name + ' - Synthesize?', 'Cost: ' + price + 'G']);
         } else {
-            this._confirmWindow.setText(this._recipeWindow.item().name + 'を合成しますか？');
+            this._confirmWindow.setText(this._recipeWindow.item().name + ' - Synthesize?');
         }
         this._confirmWindow.setInfo(true);
         this._confirmWindow.show();

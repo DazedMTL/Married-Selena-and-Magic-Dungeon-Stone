@@ -3272,7 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンに入りますか？"
+                                "Are you going into the dungeon?"
                             ]
                         },
                         {
@@ -3280,8 +3280,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

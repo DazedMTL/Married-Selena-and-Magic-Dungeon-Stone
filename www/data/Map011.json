@@ -2504,7 +2504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出産相手を選んでください"
+                                "Please choose a partner for childbirth."
                             ]
                         },
                         {
@@ -2512,9 +2512,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "グルカ",
-                                    "ロリコン",
-                                    "適当な傭兵"
+                                    "Guruka",
+                                    "Lolicon",
+                                    "Random mercenary"
                                 ],
                                 1,
                                 0,
@@ -2801,7 +2801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中出し回数アップ"
+                                "Increase in creampie count."
                             ]
                         },
                         {
@@ -2967,7 +2967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リンの種親を決められます"
+                                "Rin's foster parent can be decided."
                             ]
                         },
                         {
@@ -2975,10 +2975,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラルゴ",
-                                    "グルカ",
-                                    "金持ちの息子",
-                                    "適当な傭兵"
+                                    "Largo",
+                                    "Guruka",
+                                    "Rich son",
+                                    "Suitable mercenary"
                                 ],
                                 1,
                                 0,
@@ -3329,7 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セレナの種親を決められます"
+                                "You can choose Selena's foster parent."
                             ]
                         },
                         {
@@ -3337,10 +3337,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラルゴ",
-                                    "シン",
-                                    "金持ち",
-                                    "適当な傭兵"
+                                    "Largo",
+                                    "Shin",
+                                    "Rich person",
+                                    "Random mercenary"
                                 ],
                                 1,
                                 0,
@@ -3514,7 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想を全開放しますか？"
+                                "Do you want to unlock the flashback?"
                             ]
                         },
                         {
@@ -3522,8 +3522,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3574,7 +3574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想を全開放しました"
+                                "All flashbacks have been unlocked."
                             ]
                         },
                         {
@@ -4074,10 +4074,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラルゴ",
-                                    "シン",
-                                    "金持ち",
-                                    "適当な傭兵"
+                                    "Largo",
+                                    "Shin",
+                                    "Rich person",
+                                    "Random Mercenary\n\nReply: Hire a random mercenary"
                                 ],
                                 1,
                                 0,
@@ -4635,7 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丈夫な木片を手に入れた！"
+                                "I obtained a sturdy piece of wood!"
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソフィアの種親を決められます"
+                                "The foster parent for Sophia can be decided."
                             ]
                         },
                         {
@@ -5344,9 +5344,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "司祭",
-                                    "ブルーノ",
-                                    "適当な傭兵"
+                                    "Priest",
+                                    "Bruno",
+                                    "Suitable mercenary"
                                 ],
                                 1,
                                 0,
@@ -5641,11 +5641,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セレナ　グルカの子妊娠",
-                                    "セレナ　傭兵の子妊娠",
-                                    "セレナ　シンの子妊娠",
-                                    "セレナ　ラルゴの子妊娠",
-                                    "セレナ　妊娠なし"
+                                    "Selena is pregnant with Guruka's child",
+                                    "Selena, the Mercenary's Daughter, is Pregnant",
+                                    "Selena is pregnant with Shin's child",
+                                    "Selena is pregnant with Largo's child",
+                                    "Selena is not pregnant"
                                 ],
                                 4,
                                 0,
@@ -5805,10 +5805,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "リン　グルカの子妊娠",
-                                    "リン　ラルゴの子妊娠",
-                                    "リン　クラスメイトの子妊娠",
-                                    "リン　妊娠なし"
+                                    "Rin is pregnant with Guruka's child",
+                                    "Rin is pregnant with Largo's child",
+                                    "Rin, classmate's child is pregnant",
+                                    "Rin is not pregnant"
                                 ],
                                 3,
                                 0,
@@ -5941,10 +5941,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソフィア　司祭の子妊娠",
-                                    "ソフィア　金持ちの子妊娠",
-                                    "ソフィア　グルカの子妊娠",
-                                    "ソフィア　妊娠なし"
+                                    "Sofia, the priest's daughter, is pregnant",
+                                    "Sophia, the rich girl, is pregnant",
+                                    "Sofia is pregnant with Guruka's child",
+                                    "Sophia is not pregnant"
                                 ],
                                 3,
                                 0,
@@ -6084,9 +6084,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ロナ　ギルメンの子妊娠",
-                                    "ロナ　グルカの子妊娠",
-                                    "ロナ　妊娠なし"
+                                    "Rona got pregnant with a guild member's child\n\nReply: Congratulations!",
+                                    "Rona is pregnant with Guruka's child",
+                                    "Rona is not pregnant"
                                 ],
                                 2,
                                 0,

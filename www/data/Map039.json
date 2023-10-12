@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "深淵の迷宮B4F",
+    "displayName": "Abyssal Labyrinth B4F",
     "encounterList": [
         {
             "regionSet": [
@@ -2936,14 +2936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上の階に続く階段があります。"
+                                "There is a staircase leading to the upper floor.\nWill you use it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "使いますか？"
+                                ""
                             ]
                         },
                         {
@@ -2951,8 +2951,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3630,14 +3630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下に降りる階段があります。"
+                                "There are stairs going down. Will you use them?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "使いますか？"
+                                ""
                             ]
                         },
                         {
@@ -3645,8 +3645,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

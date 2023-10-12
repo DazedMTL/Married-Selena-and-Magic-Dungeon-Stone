@@ -12434,14 +12434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "傭兵部隊の名前を変えられます。"
+                                "Can you change the name of the mercenary unit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "変えますか？"
+                                ""
                             ]
                         },
                         {
@@ -12449,9 +12449,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "１グループ目の名前を変える",
-                                    "２グループ目の名前を変える",
-                                    "変えない"
+                                    "Change the name of Group 1?",
+                                    "Change the name of the second group?",
+                                    "No, I won't change it"
                                 ],
                                 2,
                                 0,
@@ -12543,14 +12543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "傭兵部隊の名前を変えられます。"
+                                "Can you change the name of the mercenary unit?\nWill you change it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "変えますか？"
+                                ""
                             ]
                         },
                         {
@@ -12558,8 +12558,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前を変える",
-                                    "変えない"
+                                    "Change the name",
+                                    "No, I won't change it"
                                 ],
                                 1,
                                 0,

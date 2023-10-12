@@ -24,31 +24,31 @@ var Saba;
     };
     function getChapterName() {
         if ($gameSwitches.value(268)) {
-            return '８層踏破';
+            return 'Floor 8 Cleared';
         }
         if ($gameSwitches.value(267)) {
-            return '８層攻略中';
+            return 'Currently Clearing Floor 8';
         }
         if ($gameSwitches.value(266)) {
-            return '７層攻略中';
+            return 'Currently Clearing Floor 7';
         }
         if ($gameSwitches.value(265)) {
-            return '６層攻略中';
+            return 'Currently Clearing Floor 6';
         }
         if ($gameSwitches.value(264)) {
-            return '５層攻略中';
+            return 'Currently Clearing Floor 5';
         }
         if ($gameSwitches.value(263)) {
-            return '４層攻略中';
+            return 'Currently Clearing Floor 4';
         }
         if ($gameSwitches.value(262)) {
-            return '３層攻略中';
+            return 'Currently Clearing Floor 3';
         }
         if ($gameSwitches.value(261)) {
-            return '２層攻略中';
+            return 'Currently Clearing Floor 2';
         }
         if ($gameSwitches.value(220)) {
-            return '１層攻略中';
+            return 'Currently Clearing Floor 1';
         }
         return 'Opening';
     }
