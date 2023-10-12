@@ -4,13 +4,13 @@ var Saba;
     var _Window_Options_prototype_addGeneralOptions = Window_Options.prototype.addGeneralOptions;
     Window_Options.prototype.addGeneralOptions = function () {
         _Window_Options_prototype_addGeneralOptions.call(this);
-        this.addCommand('スキップキー', 'skipKey');
-        this.addCommand('戦闘速度', 'battleSpeed');
+        this.addCommand('Skip', 'skipKey');
+        this.addCommand('Battle Speed', 'battleSpeed');
     };
     var _Window_Options_prototype_makeCommandList = Window_Options.prototype.makeCommandList;
     Window_Options.prototype.makeCommandList = function () {
         _Window_Options_prototype_makeCommandList.call(this);
-        this.addCommand('タイトルに戻る', 'gameEnd', true);
+        this.addCommand('Cancel', 'gameEnd', true);
     };
     var _Window_Options_prototype_statusText = Window_Options.prototype.statusText;
     Window_Options.prototype.statusText = function (index) {
@@ -20,7 +20,7 @@ var Saba;
             return value ? 'Ctrl' : 'Shift';
         }
         if (symbol == 'battleSpeed') {
-            return value ? '高速' : '普通';
+            return value ? 'Fast' : 'Normal';
         }
         if (symbol == 'gameEnd') {
             return '';

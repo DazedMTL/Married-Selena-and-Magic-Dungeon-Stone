@@ -230,7 +230,7 @@ var Saba;
                 ero.taneoya = $gameActors.actor(mobId - 400).name();
             }
             else {
-                ero.taneoya = '不明';
+                ero.taneoya = 'Unknown';
                 return;
             }
             if (ero.actorId == 1) {
@@ -489,7 +489,7 @@ var Saba;
         if (actorId == 1) {
             ero.hatsutaiken = $dataActors[8].name;
             var baby = {
-                'taneoya': 'ランディ',
+                'taneoya': 'Randy',
                 male: false,
                 type: 3
             };
@@ -498,19 +498,19 @@ var Saba;
         }
         if (actorId == 4) {
             var baby = {
-                'taneoya': '神父',
+                'taneoya': 'Priest',
                 male: false,
                 type: 0
             };
             ero.baby.push(baby);
             var baby = {
-                'taneoya': '不明',
+                'taneoya': 'Unknown',
                 male: true,
                 type: 1
             };
             ero.baby.push(baby);
             var baby = {
-                'taneoya': '不明',
+                'taneoya': 'Unknown',
                 male: false,
                 type: 2
             };
@@ -524,16 +524,16 @@ var Saba;
             var dice = randomBetween(0, 3);
             switch (dice) {
                 case 0:
-                    ero.taneoya = 'モブ';
+                    ero.taneoya = 'Mob';
                     break;
                 case 1:
-                    ero.taneoya = '学園長';
+                    ero.taneoya = 'Principal';
                     break;
                 case 2:
-                    ero.taneoya = 'ノリオ';
+                    ero.taneoya = 'Norio';
                     break;
                 case 3:
-                    ero.taneoya = '５文字まで';
+                    ero.taneoya = '5 People';
                     break;
             }
             this.doSyusan(actorId);
@@ -620,7 +620,7 @@ var Saba;
             var y = 10;
             x += 200;
             this.contents.fontSize = 24;
-            this.drawText('卵子耐久度', x - 52, y + 2);
+            this.drawText('Egg', x - 52, y + 2);
             var color1 = this.hpGaugeColor1();
             var color2 = this.hpGaugeColor2();
             var ero = $gameSystem.getEro(this._actor.actorId());
@@ -637,16 +637,16 @@ var Saba;
             var status = $gameSystem.getEro(this._actor.actorId());
             this.contents.fontSize = 24;
             var y = 94;
-            this.drawEroStatus2('膣開発度', status.chitsuLv, ' LV', 0, Saba.KAIRAKU_ICON, y - 10);
+            this.drawEroStatus2('Vagina', status.chitsuLv, ' LV', 0, Saba.PLEASURE_ICON, y - 10);
             this.drawEroGauge(0, status.chitsuPer);
             this.drawEroStatusText(status.chitsuLv, CHITSU_LV, 1, y - 17);
-            this.drawEroStatus2('クリ開発度', status.criLv, ' LV', 2, Saba.KAIRAKU_ICON, y - 10);
+            this.drawEroStatus2('Clitoris', status.criLv, ' LV', 2, Saba.PLEASURE_ICON, y - 10);
             this.drawEroGauge(2, status.criPer);
             this.drawEroStatusText(status.criLv, CRI_LV, 3, y - 17);
-            this.drawEroStatus2('アナル開発度', status.analLv, ' LV', 4, Saba.KAIRAKU_ICON, y - 10);
+            this.drawEroStatus2('Anal', status.analLv, ' LV', 4, Saba.PLEASURE_ICON, y - 10);
             this.drawEroGauge(4, status.analPer);
             this.drawEroStatusText(status.analLv, ANAL_LV, 5, y - 17);
-            this.drawEroStatus2('Ｍっ気', status.mazoLv, ' LV', 6, Saba.KAIRAKU_ICON, y - 10);
+            this.drawEroStatus2('Masochism', status.mazoLv, ' LV', 6, Saba.PLEASURE_ICON, y - 10);
             this.drawEroGauge(6, status.mazoPer);
             this.drawEroStatusText(status.mazoLv, MAZO_LV, 7, y - 17);
             /*
@@ -666,24 +666,24 @@ var Saba;
                 hatsutaiken = '処女';
             }
             //this.drawEroStatus('初体験の相手', hatsutaiken, '', 1, 1700, y - 10);
-            //this.drawEroStatus('乳首イキ回数', status.chikubiIki, ' 回', 8, 1696, y - 10);
-            //this.drawEroStatus('アナルイキ回数', status.analIki, ' 回', 9, 1710, y - 10);
+            //this.drawEroStatus('乳首イキ回数', status.chikubiIki, 'X', 8, 1696, y - 10);
+            //this.drawEroStatus('アナルイキ回数', status.analIki, 'X', 9, 1710, y - 10);
             var sexCount = status.sexCount;
             for (var i in status.mob) {
                 sexCount++;
             }
-            this.drawEroStatus('経験人数', sexCount, ' 人', 9, Saba.KEIKEN_ICON, y - 10);
-            this.drawEroStatus('中出し回数', status.nakadashi, ' 回', 10, 1711, y - 10);
-            this.drawEroStatus('口内射精回数', status.kounaisyasei, ' 回', 11, 1708, y - 10);
-            this.drawEroStatus('アナル射精回数', status.analsyasei, ' 回', 12, 1710, y - 10);
-            this.drawEroStatus('ぶっかけ回数', status.bukkake, ' 回', 13, 1707, y - 10);
-            this.drawEroStatus('キス回数', status.kiss, ' 回', 14, 1681, y - 10);
-            this.drawEroStatus('膣イキ回数', status.chitsuIki, ' 回', 15, 1700, y - 10);
-            this.drawEroStatus('クリイキ回数', status.criIki, ' 回', 16, 1698, y - 10);
-            this.drawEroStatus('妊娠回数', status.ninshin, ' 回', 17, Saba.NINSHIN_ICON, y - 10);
-            this.drawEroStatus('出産回数', status.syusan, ' 回', 18, Saba.SYUSAN_ICON, y - 10);
+            this.drawEroStatus('Partners', sexCount, '', 9, Saba.KEIKEN_ICON, y - 10);
+            this.drawEroStatus('Creampies', status.nakadashi, 'X', 10, 1711, y - 10);
+            this.drawEroStatus('Facials', status.kounaisyasei, 'X', 11, 1708, y - 10);
+            this.drawEroStatus('Anal Ejaculations', status.analsyasei, 'X', 12, 1710, y - 10);
+            this.drawEroStatus('Bukkake', status.bukkake, 'X', 13, 1707, y - 10);
+            this.drawEroStatus('Kisses', status.kiss, 'X', 14, 1681, y - 10);
+            this.drawEroStatus('Vaginal Orgasms', status.chitsuIki, 'X', 15, 1700, y - 10);
+            this.drawEroStatus('Clit Orgasms', status.criIki, 'X', 16, 1698, y - 10);
+            this.drawEroStatus('Pregnancies', status.ninshin, 'X', 17, Saba.NINSHIN_ICON, y - 10);
+            this.drawEroStatus('Births', status.syusan, 'X', 18, Saba.SYUSAN_ICON, y - 10);
             if (status.bote) {
-                this.drawTaneoya('身ごもっている子の親', status.taneoya, 19, Saba.SYUSAN_ICON, y - 10);
+                this.drawTaneoya('Parent of Child', status.taneoya, 19, Saba.SYUSAN_ICON, y - 10);
             }
             /*if (status.taneoya) {
                 this.drawEroStatus('お腹の子供の親', status.taneoya, '', 6, NINSHIN_ICON, y - 10);
@@ -779,7 +779,7 @@ var Saba;
             aka.y = y - 5;
             this._windowContentsSprite.addChild(aka);
             this.contents.fontSize = 13;
-            this.drawText('親:' + baby.taneoya, x + 0, y + 78, 70, 'center');
+            this.drawText('Parent:' + baby.taneoya, x + 0, y + 78, 70, 'center');
         };
         Window_EroStatus.prototype.drawEroStatus = function (title, value, text, line, icon, y) {
             var lineCount = 9;

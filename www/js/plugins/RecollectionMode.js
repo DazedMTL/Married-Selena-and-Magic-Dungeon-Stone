@@ -36,10 +36,10 @@ var rngd_recollection_mode_settings = {
     "rec_mode_window": {
         "x": 160,
         "y": 120,
-        "recollection_title": "回想モード",
-        "str_select_recollection": "回想を見る",
-        "str_select_cg": "CGを見る",
-        "str_select_back_title": "タイトルに戻る"
+        "recollection_title": "Recollection",
+        "str_select_recollection": "View Scenes",
+        "str_select_cg": "View CG",
+        "str_select_back_title": "Back"
     },
     //---------------------------------------------------------------------
     // ★ 回想リストウィンドウの設定を指定します

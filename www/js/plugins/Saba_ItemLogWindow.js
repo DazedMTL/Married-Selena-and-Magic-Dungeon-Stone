@@ -101,16 +101,16 @@ var Saba;
                 this.contents.fontSize = 24;
                 var name = item.name;
                 if (item.exp2) {
-                    this.contents.drawText('経験値ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Obtained EXP!!', xx - 20, 0, 300, 30, 'left');
                     AudioManager.playSe({ name: 'Item2', volume: 80, pitch: 100, pan: 0 });
                 }
                 else if (item.ero) {
-                    this.contents.drawText('淫欲Ｐゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Lust Increased!!', xx - 20, 0, 300, 30, 'left');
                     AudioManager.playSe({ name: 'Item2', volume: 80, pitch: 100, pan: 0 });
                 }
                 else if (item.id == 12) {
                     name = $gameVariables.value(20) + ' EXP';
-                    this.contents.drawText('宝箱経験値ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Obtained Treasure EXP!!', xx - 20, 0, 300, 30, 'left');
                     AudioManager.playSe({ name: 'Chime2', volume: 90, pitch: 100, pan: 0 });
                 }
                 else if (item.weaponId) {
@@ -139,7 +139,7 @@ var Saba;
                         name = weapon.name;
                     }
                     item = weapon;
-                    this.contents.drawText('武器ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Obtained Weapon!!', xx - 20, 0, 300, 30, 'left');
                     if (weapon.wtypeId == 2) {
                         AudioManager.playSe({ name: 'Sword5', volume: 80, pitch: 100, pan: 0 });
                     }
@@ -150,7 +150,7 @@ var Saba;
                 else if (item.etypeId > 0) {
                     if (item.id >= 500) {
                         AudioManager.playSe({ name: 'put2', volume: 80, pitch: 100, pan: 0 });
-                        this.contents.drawText('勲章ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                        this.contents.drawText('Obtained Medal!!', xx - 20, 0, 300, 30, 'left');
                     }
                     else {
                         AudioManager.playSe({ name: 'put2', volume: 80, pitch: 100, pan: 0 });
@@ -163,10 +163,10 @@ var Saba;
                 else {
                     if (item.id == 11) {
                         name = $gameVariables.value(20) + ' Ｇ';
-                        this.contents.drawText('お金ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                        this.contents.drawText('Obtained Gold!!', xx - 20, 0, 300, 30, 'left');
                     }
                     else {
-                        this.contents.drawText('アイテムゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                        this.contents.drawText('Obtained Item!!', xx - 20, 0, 300, 30, 'left');
                     }
                 }
                 this.contents.textColor = '#ffffff';
@@ -277,66 +277,67 @@ var Saba;
                 var icon = 84;
                 switch (this._type) {
                     case 0:
-                        text = '経験人数 ' + this._value + ' 人増加!!';
+                        text = 'Increase in Number of Partners: ' + this._value + '';
                         icon = Saba.KEIKEN_ICON;
                         break;
                     case 1:
-                        text = '中出し回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Creampies: ' + this._value + 'X';
                         icon = 1711;
                         break;
                     case 2:
-                        text = '口内射精回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Facial Ejaculations: ' + this._value + 'X';
                         icon = 1708;
                         break;
                     case 3:
-                        text = 'アナル射精回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Anal Ejaculations: ' + this._value + 'X';
                         icon = 1710;
                         break;
                     case 4:
-                        text = 'ぶっかけ回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Bukkake: ' + this._value + 'X';
                         icon = 1707;
                         break;
                     case 5:
-                        text = 'キス回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Kisses: ' + this._value + 'X';
                         icon = 1681;
                         break;
                     case 6:
-                        text = '膣イキ回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Vaginal Orgasms: ' + this._value + 'X';
                         icon = 1700;
                         break;
                     case 7:
-                        text = 'クリイキ回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Clitoral Orgasms: ' + this._value + 'X';
                         icon = 1698;
                         break;
                     case 8:
-                        text = '乳首イキ回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Nipple Orgasms: ' + this._value + 'X';
                         icon = 1696;
                         break;
                     case 9:
-                        text = 'アナルイキ回数 ' + this._value + ' 回アップ!!';
+                        text = 'Increase in Number of Anal Orgasms: ' + this._value + 'X';
                         icon = 1710;
                         break;
                     case 20:
-                        text = '膣開発度 ' + this._value + ' ptアップ!!';
+                        text = 'Increase in Vaginal Development: ' + this._value + ' pts!';
                         icon = Saba.KAIRAKU_ICON;
                         break;
                     case 21:
-                        text = 'クリ開発度 ' + this._value + ' ptアップ!!';
+                        text = 'Increase in Clitoral Development: ' + this._value + ' pts!';
                         icon = Saba.KAIRAKU_ICON;
                         break;
                     case 22:
-                        text = '乳首開発度 ' + this._value + ' ptアップ!!';
+                        text = 'Increase in Nipple Development: ' + this._value + ' pts!';
                         icon = Saba.KAIRAKU_ICON;
                         break;
                     case 23:
-                        text = 'アナル開発度 ' + this._value + ' ptアップ!!';
+                        text = 'Increase in Anal Development: ' + this._value + ' pts!';
                         icon = Saba.KAIRAKU_ICON;
                         break;
                     case 24:
-                        text = 'Ｍっ気 ' + this._value + ' ptアップ!!';
+                        text = 'Increase in M-ness: ' + this._value + ' pts!';
                         icon = 100;
                         break;
                 }
+                                
                 this.contents.textColor = '#ffffff';
                 this.contents.fontSize = 30;
                 this.drawIcon(icon, 2 + xx, 1);

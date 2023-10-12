@@ -1,79 +1,79 @@
 // menu
-TextManager.eroStatus = 'Hステータス';
-TextManager.skillTree = 'スキルツリー';
-TextManager.kigae = 'エロパーツ装備';
-TextManager.medal = '勲章';
-TextManager.organize = '冒険者編成';
-TextManager.mercenaryList = '冒険者一覧';
-TextManager.material = '素材';
+TextManager.eroStatus = 'H Status';
+TextManager.skillTree = 'Skill Tree';
+TextManager.kigae = 'Erotic Armor';
+TextManager.medal = 'Medal';
+TextManager.organize = 'Adv Organization';
+TextManager.mercenaryList = 'Adv List';
+TextManager.material = 'Raw Materials';
 
 // status
-TextManager.str = '力';
-TextManager.dex = '器用さ';
-TextManager.mgc = '魔力';
-TextManager.mdf = '魔防力';
-TextManager.vit = '体力';
-TextManager.agi = '速さ';
-TextManager.luk = '運';
-TextManager.mnd = '精神力';
-TextManager.cost = 'コスト';
+TextManager.str = 'Strength';
+TextManager.dex = 'Dexterity';
+TextManager.mgc = 'Magic';
+TextManager.mdf = 'Magic Defense';
+TextManager.vit = 'Stamina';
+TextManager.agi = 'Agility';
+TextManager.luk = 'Luck';
+TextManager.mnd = 'Spirit';
+TextManager.cost = 'Cost';
 
-TextManager.exp = '経験値';
-TextManager.drop = 'アイテムドロップ率';
-TextManager.rare = 'レアドロップ率';
-TextManager.weaponBonus = '獲得武器能力付与率';
+TextManager.exp = 'Experience';
+TextManager.drop = 'Item Drop Rate';
+TextManager.rare = 'Rare Drop Rate';
+TextManager.weaponBonus = 'Weapon Bonus Acquisition Rate';
 
 // in battle
-TextManager.damage = 'ダメージ';
-TextManager.hitRate = '命中';
-TextManager.cri = 'クリティカル率';
-TextManager.cancelSkill = 'キャンセル';
-TextManager.delay = '遅延＋';
-TextManager.alwaysHit = '必中';
+TextManager.damage = 'Damage';
+TextManager.hitRate = 'Hit Rate';
+TextManager.cri = 'Critical Rate';
+TextManager.cancelSkill = 'Cancel';
+TextManager.delay = 'Delay +';
+TextManager.alwaysHit = 'Always Hit';
 
 // skill description
-TextManager.newSkill = '新規習得';
-TextManager.cancel = 'キャンセル';
-TextManager.spCost = '消費ＳＰ';
-TextManager.bulletCost = '消費弾数';
-TextManager.tpCost = '消費奥義Ｐ';
-TextManager.damage = 'ダメージ';
-TextManager.recover = '回復';
-TextManager.cancelTargetSkill = 'スキルをキャンセルする';
-TextManager.delayTarget = '順番を 1 コマ遅らせる';
-TextManager.stunDemerit = 'スタン値減少';
-TextManager.stunUp = 'スタン値UP';
-TextManager.skipDamage = '継続ダメージ';
-TextManager.learningBonus = '習得ボーナス';
-TextManager.requiredSkill = '習得に必要なスキル';
-TextManager.targetAll = '全体攻撃';
-TextManager.ineffectiveBoss = 'ボスには無効';
-TextManager.ineffectiveBossBattle = 'ボス戦では無効';
-TextManager.cooldown = '硬直時間';
-TextManager.attackDown = '攻撃↓';
-TextManager.defDown = '防御↓';
-TextManager.mdfDown = '魔防↓';
-TextManager.normalHit = '通常の命中率になる';
-TextManager.waitMass = '駆動時間';
-TextManager.baseSuccessRate = '基本';
-TextManager.addState = '%1付与';
-TextManager.turn = '%1ターン';
-TextManager.turn2 = '%1〜%2ターン';
+TextManager.newSkill = 'New Skill';
+TextManager.cancel ='Cancel';
+TextManager.spCost = 'SP Cost';
+TextManager.bulletCost = 'Bullet Cost';
+TextManager.tpCost = 'TP Cost';
+TextManager.damage = 'Damage';
+TextManager.recover = 'Recover';
+TextManager.cancelTargetSkill = 'Cancel Target Skill';
+TextManager.delayTarget = 'Delay Target by 1 Turn';
+TextManager.stunDemerit = 'Stun Value Decreased';
+TextManager.stunUp = 'Stun Value Increased';
+TextManager.skipDamage = 'Continued Damage';
+TextManager.learningBonus = 'Learning Bonus';
+TextManager.requiredSkill = 'Required Skill for Learning';
+TextManager.targetAll = 'All Targets';
+TextManager.ineffectiveBoss = 'Ineffective Against Boss';
+TextManager.ineffectiveBossBattle = 'Ineffective in Boss Battles';
+TextManager.cooldown = 'Cooldown Time';
+TextManager.attackDown = 'Attack Down';
+TextManager.defDown = 'Defense Down';
+TextManager.mdfDown = 'Magic Defense Down';
+TextManager.normalHit = 'Normal Hit Rate';
+TextManager.waitMass = 'Drive Time';
+TextManager.baseSuccessRate = 'Base';
+TextManager.addState = 'Apply %1';
+TextManager.turn = '%1 Turn';
+TextManager.turn2 = '%1~%2 Turns';
 
 var _TextManager_param = TextManager.param;
 TextManager.param = function (paramId) {
     switch (paramId) {
-        case 2: return '攻撃力';
-        case 3: return '命中力(剣)';
-        case 4: return '攻撃力(追)';
-        case 5: return '追撃率(追)';
-        case 6: return '攻撃力(銃)';
-        case 7: return '命中力(銃)';
-        case 8: return '防御力';
-        case 9: return '魔力';
-        case 10: return '魔防力';
-        case 11: return '命中';
-        case 12: return '回避';
+        case 2: return 'Attack';
+        case 3: return 'Accuracy (Sword)';
+        case 4: return 'Attack (Chase)';
+        case 5: return 'Chase Rate (Chase)';
+        case 6: return 'Attack (Gun)';
+        case 7: return 'Accuracy (Gun)';
+        case 8: return 'Defense';
+        case 9: return 'Magic';
+        case 10: return 'Magic Defense';
+        case 11: return 'Accuracy';
+        case 12: return 'Evasion';
         default:
             return _TextManager_param.call(this, paramId);
     }

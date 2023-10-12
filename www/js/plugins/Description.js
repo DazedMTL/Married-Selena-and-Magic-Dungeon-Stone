@@ -22,7 +22,7 @@ var Saba;
         }
         if (armor.meta['startItem']) {
             var item = $dataItems[armor.meta['startItem']];
-            text += '\\C[2]' + item.name + '\\C[0]を所持してダンジョン探索を開始できる ';
+            text += '\\C[2]You can start the search with ' + item.name + '\\C[0]';
         }
         if (armor.meta['expUp']) {
             text += '\\C[2]' + TextManager.exp + '\\C[0] +' + armor.meta['expUp'] + '% ';
@@ -51,20 +51,20 @@ var Saba;
     function getMedalDescription(armor) {
         var text = armor.description;
         if (armor.meta['hint']) {
-            text = '\\C[16]獲得条件: \\C[0]' + armor.meta['hint'] + '\n';
+            text = '\\C[16]Requirements: \\C[0]' + armor.meta['hint'] + '\n';
         }
         var plusText = getPlusText(armor);
         if (plusText.length > 0) {
             //text += '\\C[16]装備効果:\\C[0] ' + plusText;
         }
         if (armor.meta['gold']) {
-            text += '\\C[16]取得効果:\\C[0] ' + armor.meta['gold'] + 'G を取得する';
+            text += '\\C[16]Results:\\C[0] Get ' + armor.meta['gold'] + 'G';
         }
         return text;
     }
     Saba.getMedalDescription = getMedalDescription;
     function getMedalHintDescription(armor) {
-        var text = '\\C[16]獲得条件: \\C[0]' + armor.meta['hint'] + '\n';
+        var text = '\\C[16]Requirements: \\C[0]' + armor.meta['hint'] + '\n';
         //text += '\\C[16]装備効果:\\C[0] ';
         //return text + getPlusText(armor);
         return text;
@@ -85,10 +85,10 @@ var Saba;
             if (!noSkill) {
                 text += '\\C[16]LV: \\C[0]' + actor2.level + ' / ' + actor2.maxLevel() + margin;
                 if (actor2.nextRequiredExp() < 0 || actor2.level == actor2.maxLevel()) {
-                    text += '\\C[16]次のLVまで: \\C[0]' + '最大LVです' + margin;
+                    text += '\\C[16]Next LV: \\C[0]' + 'Max LV' + margin;
                 }
                 else {
-                    text += '\\C[16]次のLVまで: \\C[0]' + actor2.nextRequiredExp() + margin;
+                    text += '\\C[16]Next LV: \\C[0]' + actor2.nextRequiredExp() + margin;
                 }
                 text += '\\C[16]HP: \\C[0]' + Saba.getMercenaryHp(armor) + margin;
                 text += '\n';
@@ -153,7 +153,7 @@ var Saba;
             text += '\n';
             var skillCount = 1;
             if (passiveData) {
-                text += '\\C[2]スキル: \\C[0]';
+                text += '\\C[2]Skill: \\C[0]';
                 text += '\\I[' + passiveData.iconIndex + ']';
                 text += passiveData.name;
                 text += '\n';
@@ -165,14 +165,14 @@ var Saba;
             var skillData = $dataSkills[skill];
             if (skillData) {
                 if (skillCount == 1) {
-                    text += '\\C[2]スキル: \\C[0]';
+                    text += '\\C[2]Skill: \\C[0]';
                 }
                 else {
-                    text += '\\C[2]スキル: \\C[0]';
+                    text += '\\C[2]Skill: \\C[0]';
                 }
                 text += '\\I[' + skillData.iconIndex + ']';
                 text += skillData.name;
-                text += '（発動率' + skillData.successRate + '％）';
+                text += '（Activate ' + skillData.successRate + '％）';
                 text += '\n';
                 text += '　　　　 　' + skillData.description;
                 text += '\n';
@@ -185,32 +185,32 @@ var Saba;
         var margin = '  ';
         var text = '';
         if (weapon.isGun()) {
-            text += '\\C[16]基礎ダメージ: \\C[0]' + weapon.skillDamage() + margin;
+            text += '\\C[16]Basic DMG: \\C[0]' + weapon.skillDamage() + margin;
         }
         else {
-            text += '\\C[16]攻撃力: \\C[0]' + weapon.atk() + margin;
+            text += '\\C[16]Attack: \\C[0]' + weapon.atk() + margin;
         }
-        text += '\\C[16]命中: \\C[0]' + weapon.hit() + '%' + margin;
+        text += '\\C[16]Hit Rate: \\C[0]' + weapon.hit() + '%' + margin;
         if (weapon.tsuigeki() > 0) {
-            text += '\\C[16]追撃: \\C[0]' + weapon.tsuigeki() + '%' + margin;
+            text += '\\C[16]Counter: \\C[0]' + weapon.tsuigeki() + '%' + margin;
         }
         if (!$gameParty.inBattle() && weapon.plusMax() > 0) {
-            text += '\\C[16]最大強化値: \\C[0]' + '+' + weapon.plusMax() + margin;
+            text += '\\C[16]Max Buff Value: \\C[0]' + '+' + weapon.plusMax() + margin;
         }
         text += weapon.obj().description;
         text += '\n';
         if (weapon.isGun()) {
-            text += '\\C[16]弾数: \\C[0]' + '    ' + margin;
-            text += '\\C[16]リロードまで: \\C[0]' + '    ' + margin;
+            text += '\\C[16]Bullets: \\C[0]' + '    ' + margin;
+            text += '\\C[16]Reload: \\C[0]' + '    ' + margin;
         }
         if (weapon.stunUpRate() > 0) {
-            text += '\\C[16]スタン値:\\C[0]' + '+' + weapon.stunUpRate() + '%' + margin;
+            text += '\\C[16]Stun:\\C[0]' + '+' + weapon.stunUpRate() + '%' + margin;
         }
         if (weapon.cri() > 0) {
-            text += '\\C[16]クリティカル:\\C[0]' + '+' + weapon.cri() + '%' + margin;
+            text += '\\C[16]Critical:\\C[0]' + '+' + weapon.cri() + '%' + margin;
         }
         if (weapon.delay() > 0) {
-            text += '\\C[16]ディレイ率:\\C[0]' + '' + weapon.delay() + '%' + margin;
+            text += '\\C[16]Delay:\\C[0]' + '' + weapon.delay() + '%' + margin;
         }
         return text;
     }
