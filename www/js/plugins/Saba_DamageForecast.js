@@ -437,7 +437,7 @@ var Saba;
                 return;
             }
             var text = enemy.name();
-            text += '　 \\C[16](攻撃力:' + enemy.atk + ')\\C[0]\n';
+            text += '　 \\C[16](Attack:' + enemy.atk + ')\\C[0]\n';
             /*var targets = enemy.getTargets();
             if (targets) {
                 for (var member of $gameParty.members()) {
