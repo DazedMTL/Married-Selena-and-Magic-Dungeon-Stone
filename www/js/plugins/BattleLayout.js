@@ -131,7 +131,7 @@ var Saba;
         //this.drawActorClass(actor, rect.x + 230, rect.y, 128);
     };
     Window_BattleStatus.prototype.standardFontSize = function () {
-        return 25;
+        return 18;
     };
     Window_BattleStatus.prototype.drawActorClass = function (actor, x, y, width) {
         var nickname = actor.nickname();
@@ -343,7 +343,7 @@ var Saba;
         if (this._actor.isMob()) {
             return;
         }
-        this.addCommand('オート', 'auto', this._actor.canAttack());
+        this.addCommand('Auto', 'auto', this._actor.canAttack());
     };
     var _Scene_Battle_prototype_createActorCommandWindow = Scene_Battle.prototype.createActorCommandWindow;
     Scene_Battle.prototype.createActorCommandWindow = function () {

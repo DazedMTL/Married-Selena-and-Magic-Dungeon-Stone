@@ -209,7 +209,7 @@ var Saba;
         };
         Scene_Mercenary.prototype.createConfirmWindow = function () {
             this._confirmWindow = new Saba.Window_Confirm(500);
-            this._confirmWindow.setText('この冒険者を雇いますか？');
+            this._confirmWindow.setText('Hire Adventurer?');
             this._confirmWindow.setHandler('ok', this.onConfirmOk.bind(this));
             this._confirmWindow.setHandler('cancel', this.onCancel.bind(this));
             this._confirmWindow.deactivate();
@@ -364,14 +364,14 @@ var Saba;
             var passive = skills[0];
             if (passive && !this._shortVer) {
                 var xx = 230;
-                this.contents.drawText('スキル', xx + 20, y, 200, lineHeight, 'left');
+                this.contents.drawText('Skill', xx + 20, y, 200, lineHeight, 'left');
                 y += lineHeight;
                 y += 4;
                 var passiveData = passive;
                 this.changeTextColor(this.normalColor());
                 this.contents.drawText(passiveData.name, xx + 55, y, 200, lineHeight, 'left');
                 if (passive.successRate < 100) {
-                    this.contents.drawText('(発動率:' + passive.successRate + '％)', xx + 280, y, 200, lineHeight, 'left');
+                    this.contents.drawText('(Trigger:' + passive.successRate + '％)', xx + 280, y, 200, lineHeight, 'left');
                 }
                 this.drawIcon(passiveData.iconIndex, xx + 20, y + 2);
                 y += lineHeight;
@@ -383,7 +383,7 @@ var Saba;
                 y = 200;
             }
             this.changeTextColor(this.systemColor());
-            this.contents.drawText('エロ能力', xx + 20, y - 10, 200, lineHeight, 'left');
+            this.contents.drawText('Ero', xx + 20, y - 10, 200, lineHeight, 'left');
             this.changeTextColor(this.normalColor());
             var rowData = MERCENARY_MAP[this._armor.id];
             var lineIndex = 0;
@@ -509,6 +509,7 @@ var Saba;
             if (!this._armor) {
                 return;
             }
+            this.contents.fontSize = 18;
             var lineHeight = 36;
             var y = 0;
             this.changeTextColor(this.systemColor());
@@ -517,12 +518,12 @@ var Saba;
             if (!this._shortVer) {
                 this.drawStatus('ＬＶ', actor.level, y, lineHeight, true);
                 y += lineHeight;
-                this.drawStatusAlphabet(actor, '力', 'str_', 0, lineHeight);
-                this.drawStatusAlphabet(actor, '魔力', 'mgc_', 1, lineHeight);
-                this.drawStatusAlphabet(actor, '体力', 'vit_', 2, lineHeight);
-                this.drawStatusAlphabet(actor, '精神力', 'mnd_', 3, lineHeight);
-                this.drawStatusAlphabet(actor, '速さ', 'agi_', 4, lineHeight);
-                this.drawStatusAlphabet(actor, '運', 'luk_', 5, lineHeight);
+                this.drawStatusAlphabet(actor, 'Str', 'str_', 0, lineHeight);
+                this.drawStatusAlphabet(actor, 'Mgc', 'mgc_', 1, lineHeight);
+                this.drawStatusAlphabet(actor, 'Vit', 'vit_', 2, lineHeight);
+                this.drawStatusAlphabet(actor, 'Mnd', 'mnd_', 3, lineHeight);
+                this.drawStatusAlphabet(actor, 'Agi', 'agi_', 4, lineHeight);
+                this.drawStatusAlphabet(actor, 'Luk', 'luk_', 5, lineHeight);
             }
             var xx = 200;
             if (this._shortVer) {
@@ -530,28 +531,28 @@ var Saba;
                 xx = 50;
             }
             this.changeTextColor(this.systemColor());
-            this.contents.drawText('セレナとの関係', xx, y - lineHeight, 200, lineHeight, 'left');
-            this.drawEroCount(actor, xx, 'セックス回数', 'sexCount', 1, lineHeight);
-            this.drawEroCount(actor, xx, 'アナル回数', 'anal', 2, lineHeight);
-            this.drawEroCount(actor, xx, '中出し回数', 'nakadashi', 3, lineHeight);
-            this.drawEroCount(actor, xx, '口内射精回数', 'kounaisyasei', 4, lineHeight);
-            this.drawEroCount(actor, xx, 'ぶっかけ回数', 'bukkake', 5, lineHeight);
-            this.drawEroCount(actor, xx, 'キス回数', 'kiss', 6, lineHeight);
-            this.drawEroCount(actor, xx, '孕ませ回数', 'haramase', 7, lineHeight);
+            this.contents.drawText('Relationship with Serena', xx, y - lineHeight, 200, lineHeight, 'left');
+            this.drawEroCount(actor, xx, 'Sex', 'sexCount', 1, lineHeight);
+            this.drawEroCount(actor, xx, 'Anal', 'anal', 2, lineHeight);
+            this.drawEroCount(actor, xx, 'Creampie', 'nakadashi', 3, lineHeight);
+            this.drawEroCount(actor, xx, 'Facial', 'kounaisyasei', 4, lineHeight);
+            this.drawEroCount(actor, xx, 'Bukkake', 'bukkake', 5, lineHeight);
+            this.drawEroCount(actor, xx, 'Kiss', 'kiss', 6, lineHeight);
+            this.drawEroCount(actor, xx, 'Impregnation', 'haramase', 7, lineHeight);
             y = 0;
             this.changeTextColor(this.systemColor());
             var skills = actor.skills();
             var passive = skills[0];
             if (passive && !this._shortVer) {
                 var xx = 430;
-                this.contents.drawText('スキル', xx + 20, y, 200, lineHeight, 'left');
+                this.contents.drawText('Skill', xx + 20, y, 200, lineHeight, 'left');
                 y += lineHeight;
                 y += 4;
                 var passiveData = passive;
                 this.changeTextColor(this.normalColor());
                 this.contents.drawText(passiveData.name, xx + 55, y, 200, lineHeight, 'left');
                 if (passive.successRate < 100) {
-                    this.contents.drawText('(発動率:' + passive.successRate + '％)', xx + 280, y, 200, lineHeight, 'left');
+                    this.contents.drawText('(Trigger:' + passive.successRate + '％)', xx + 280, y, 200, lineHeight, 'left');
                 }
                 this.drawIcon(passiveData.iconIndex, xx + 20, y + 2);
                 y += lineHeight;
@@ -563,7 +564,7 @@ var Saba;
                 y = 200;
             }
             this.changeTextColor(this.systemColor());
-            this.contents.drawText('エロ能力', xx + 20, y - 10, 200, lineHeight, 'left');
+            this.contents.drawText('Ero Skills', xx +20, y - 10, 200, lineHeight, 'left');
             /*
             this.contents.drawText('雇用条件', 0, y, 200, lineHeight, 'left');
             this.changeTextColor(this.normalColor());

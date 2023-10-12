@@ -38,7 +38,7 @@ var Saba;
         ;
         Scnee_EroActorSelect.prototype.createConfirmWindow = function () {
             this._confirmWindow = new Saba.Window_Confirm();
-            this._confirmWindow.setText('決定しますか？');
+            this._confirmWindow.setText('Confirm?');
             this._confirmWindow.setHandler('ok', this.onConfirmOk.bind(this));
             this._confirmWindow.setHandler('cancel', this.onConfirmCancel.bind(this));
             this._confirmWindow.deactivate();
@@ -62,7 +62,7 @@ var Saba;
                 this._msgWindow.activate();
                 return;
             }
-            this._confirmWindow.setText(actor.name() + 'を選択しますか？');
+            this._confirmWindow.setText(actor.name() + '?');
             this._confirmWindow.setInfo(true);
             this._confirmWindow.show();
             this._confirmWindow.activate();
@@ -103,8 +103,8 @@ var Saba;
         Window_EroActorSelect.prototype.refresh = function () {
             _super.prototype.refresh.call(this);
             this.changePaintOpacity(true);
-            this.drawTextEx('Ｈパートでは操作キャラクターを選択できます。', 70, 10);
-            this.drawTextEx('操作するキャラクターを選択してください', 70, 46);
+            this.drawTextEx('In H scenes, you can choose the character to control.', 70, 10);
+            this.drawTextEx('Please select the character you want to control.', 70, 46);
         };
         Window_EroActorSelect.prototype.standardPadding = function () {
             return 8;
@@ -148,11 +148,11 @@ var Saba;
             var ero = $gameSystem.getEro(actor.actorId());
             var h = 32;
             var xx = rect.x + 20;
-            this.drawText('選択回数:', xx, rect.y + 500 + h * 1, 150, 'left');
+            this.drawText('Selection:', xx, rect.y + 500 + h * 1, 150, 'left');
             this.drawText(ero.sexCount + '', xx, rect.y + 500 + h * 1, 200, 'right');
-            this.drawText('中出し回数:', xx, rect.y + 500 + h * 2, 150, 'left');
+            this.drawText('Creampie:', xx, rect.y + 500 + h * 2, 150, 'left');
             this.drawText(ero.nakadashi + '', xx, rect.y + 500 + h * 2, 200, 'right');
-            this.drawText('妊娠回数:', xx, rect.y + 500 + h * 3, 150, 'left');
+            this.drawText('Pregnancy:', xx, rect.y + 500 + h * 3, 150, 'left');
             this.drawText(ero.ninshin + '', xx, rect.y + 500 + h * 3, 200, 'right');
             if (this.hasNewEvent(actor)) {
                 var baseTexture = Saba.getSystemBaseTexture('skill_tree');

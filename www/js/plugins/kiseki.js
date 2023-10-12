@@ -32,14 +32,14 @@ var Saba;
     Window_BattleLog.prototype.startAction2 = function (subject, action, targets) {
         var item = action.item();
         this.push('waitForMovement');
-        this.push('addText', '%1は%2を準備している！'.format(subject.name(), item.name));
+        this.push('addText', '%1 is Preparing %2!'.format(subject.name(), item.name));
         this.push('waitForNewLine');
         this.push('wait');
     };
     Window_BattleLog.prototype.showDamage = function (subject, damage, callback) {
         this.push('waitForMovement');
         this.push('popupDamage', subject);
-        this.push('addText', '%1は %2 ダメージを受けた！'.format(subject.name(), damage));
+        this.push('addText', '%1 took %2 damage!'.format(subject.name(), damage));
         this.push('waitForNewLine');
         this.displayAffectedStatus(subject);
         this.push('wait');
@@ -69,14 +69,14 @@ var Saba;
     Window_BattleLog.prototype.displayCancel = function (target) {
         if (target.result().canceled) {
             this.push('waitForNewLine');
-            this.push('addText', '%1のスキルをキャンセルした！'.format(target.name()));
+            this.push('addText', 'Cancelled %1!'.format(target.name()));
             this.push('waitForNewLine');
         }
     };
     Window_BattleLog.prototype.displayDelay = function (target) {
         if (target.result().delay) {
             this.push('waitForNewLine');
-            this.push('addText', '%1の行動を%2マスを遅らせた！'.format(target.name(), target.result().delay));
+            this.push('addText', 'Celayed %1!'.format(target.name(), target.result().delay));
             this.push('waitForNewLine');
         }
     };
@@ -188,7 +188,7 @@ var Saba;
                 this.push('performRecovery', target);
             }
             if (target.result().hitCount > 0) {
-                this.push('addText', target.result().hitCount + '回ヒット！');
+                this.push('addText', target.result().hitCount + 'Double hit!');
             }
             this.push('addText', this.makeHpDamageText(target));
         }

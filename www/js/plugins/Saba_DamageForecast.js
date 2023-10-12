@@ -528,19 +528,19 @@ var Saba;
         this._helpWindow.show();
         if ([2].contains(item.scope)) {
             $gameTroop.selectAll();
-            this._helpWindow.setText('全体');
+            this._helpWindow.setText('All');
             return;
         }
         if ([3, 4, 5, 6].contains(this._item.scope)) {
             $gameTroop.selectAll();
             if (this._item.scope == 4) {
-                this._helpWindow.setText('ランダムな敵２体');
+                this._helpWindow.setText('Random 2');
             }
             else if (this._item.scope == 5) {
-                this._helpWindow.setText('ランダムな敵３体');
+                this._helpWindow.setText('Random 3');
             }
             else {
-                this._helpWindow.setText('ランダム');
+                this._helpWindow.setText('Random');
             }
             return;
         }

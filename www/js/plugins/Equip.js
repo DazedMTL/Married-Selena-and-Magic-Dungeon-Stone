@@ -185,19 +185,19 @@ var Saba;
         if (this.item() == null) {
             switch (this.index()) {
                 case 0:
-                    this._helpWindow.setText('回数制限のない武器です。\n力が高いほど攻撃力も上がります。');
+                    this._helpWindow.setText('This is a weapon with no usage limit.\nThe higher the power, the stronger the attack.');
                     break;
                 case 2:
-                    this._helpWindow.setText('弾を使って攻撃する武器です。\n誰が使っても同じ攻撃力になるのが特長です。');
+                    this._helpWindow.setText('This is a weapon that uses bullets to attack.\nIt has the feature that regardless of who uses it, the attack power remains the same.');
                     break;
                 case 1:
-                    this._helpWindow.setText('ここに装備した武器では能動的に攻撃ができませんが、\n追撃が発生した時にこの武器で攻撃することができます。');
+                    this._helpWindow.setText('With this weapon equipped, you cannot actively attack, but\nyou can attack with this weapon when a counterattack occurs.');
                     break;
                 case 3:
-                    this._helpWindow.setText('主に防御力があがる装備です。\nスロットがついているものは、スロット数だけ勲章を装備できます。');
+                    this._helpWindow.setText('This is mainly an equipment that increases defense power.\nItems with slots can equip as many badges as there are slots.');
                     break;
                 default:
-                    this._helpWindow.setText('勲章をセットできます。\n');
+                    this._helpWindow.setText('You can set badges.\n');
                     break;
             }
             return;

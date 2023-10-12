@@ -137,19 +137,19 @@ var Saba;
             switch (type) {
                 case 0:
                     n = enemy.atk2();
-                    name = '攻撃力';
+                    name = 'Attack';
                     break;
                 case 1:
                     n = enemy.def2();
-                    name = '防御力';
+                    name = 'Defense';
                     break;
                 case 2:
                     n = enemy.mdf2();
-                    name = '魔防力';
+                    name = 'Magic Defense';
                     break;
                 case 3:
                     n = enemy.agi;
-                    name = '素早さ';
+                    name = 'Agility';
                     break;
             }
             this.bitmap.fillRect(x - ww, y, w + ww * 2, h, 'rgba(0, 0, 0, 0.6)');

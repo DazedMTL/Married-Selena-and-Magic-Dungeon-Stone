@@ -875,7 +875,7 @@ var Saba;
         };
         Window_EroStatus.prototype.refreshMedal = function () {
             this.contents.fontSize = 26;
-            this.drawText('■獲得エロ称号', 30, 472, 200);
+            this.drawText('■ Erotic Title', 30, 472, 200);
             this.contents.fontSize = 22;
             this._medalCount = 0;
             this._medalMap = {};

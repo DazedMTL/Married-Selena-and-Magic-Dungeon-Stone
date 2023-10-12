@@ -31,7 +31,7 @@ var Saba;
             this.createItemWindow();
         };
         Scene_MercenaryList.prototype.createHelpWindow = function () {
-            this._helpWindow = new Window_Help(3);
+            this._helpWindow = new Window_Help(4);
             this.addWindow(this._helpWindow);
         };
         Scene_MercenaryList.prototype.selectMercenary = function () {
@@ -163,7 +163,7 @@ var Saba;
         Window_MecenaryItem2.prototype.drawTitle = function () {
             this.changeTextColor(this.systemColor());
             this.contents.fontSize = 22;
-            var titles = ['力', '魔', '体', '精', '速', '運'];
+            var titles = ['Pow', 'Mag', 'Bod', 'Spi', 'Spd', 'Luk'];
             var index = 0;
             for (var _i = 0, titles_1 = titles; _i < titles_1.length; _i++) {
                 var t = titles_1[_i];

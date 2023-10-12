@@ -417,10 +417,10 @@ var Saba;
             for (var _i = 0, mem_1 = mem; _i < mem_1.length; _i++) {
                 var m = mem_1[_i];
                 if ($gameVariables.value(1) == 0) {
-                    this.push('addText', '「' + m.name + '」は死んだ！');
+                    this.push('addText', '「' + m.name + '」is dead!');
                 }
                 else {
-                    this.push('addText', '「' + m.name + '」は倒れた！');
+                    this.push('addText', '「' + m.name + '」is dead!');
                 }
                 this.push('playMercenarySe');
                 this.push('wait');
@@ -740,7 +740,7 @@ var Saba;
         Window_MercenarySlot.prototype.drawTitle = function () {
             this.changeTextColor(this.systemColor());
             this.contents.fontSize = 22;
-            var titles = ['力', '魔', '体', '精', '速', '運'];
+            var titles = ['Pow', 'Mag', 'Bod', 'Spi', 'Spd', 'Luk']
             var index = 0;
             for (var _i = 0, titles_1 = titles; _i < titles_1.length; _i++) {
                 var t = titles_1[_i];
@@ -836,12 +836,12 @@ var Saba;
             _super.prototype.setHelpWindowItem.call(this, item);
         };
         Window_MercenarySlot.prototype.slotName = function (index) {
-            return '冒険者' + (index + 1);
+            return 'Member ' + (index + 1);
         };
         Window_MercenarySlot.prototype.playBuzzerSound = function () {
             _super.prototype.playBuzzerSound.call(this);
             if ($gameSwitches.value(1)) {
-                this._helpWindow.setText('\\C[18]冒険中は冒険者の編成ができません');
+                this._helpWindow.setText('\\C[18]Cannot organize during an adventure');
                 return;
             }
         };

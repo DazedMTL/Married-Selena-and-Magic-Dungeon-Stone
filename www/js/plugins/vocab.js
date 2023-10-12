@@ -3,8 +3,8 @@ TextManager.eroStatus = 'H Status';
 TextManager.skillTree = 'Skill Tree';
 TextManager.kigae = 'Erotic Armor';
 TextManager.medal = 'Medal';
-TextManager.organize = 'Adv Organization';
-TextManager.mercenaryList = 'Adv List';
+TextManager.organize = 'Organize';
+TextManager.mercenaryList = 'List';
 TextManager.material = 'Raw Materials';
 
 // status
