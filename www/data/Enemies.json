@@ -131,7 +131,7 @@
             }
         ],
         "gold": 4,
-        "name": "★ゴブリン",
+        "name": "★Goblin",
         "note": "<LV:15>",
         "params": [
             24,
@@ -213,7 +213,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ハイコボルト",
+        "name": "★Haikoboruto",
         "note": "<LV:16>",
         "params": [
             29,
@@ -357,7 +357,7 @@
             }
         ],
         "gold": 4,
-        "name": "★ゴブリンリーダー",
+        "name": "★Goblin Leader",
         "note": "<LV:15>",
         "params": [
             50,
@@ -729,7 +729,7 @@
             }
         ],
         "gold": 0,
-        "name": "◯ボス",
+        "name": "Circle Boss",
         "note": "",
         "params": [
             100,
@@ -825,7 +825,7 @@
             }
         ],
         "gold": 2,
-        "name": "★ワーウルフ",
+        "name": "★Werewolf",
         "note": "<LV:25>\n",
         "params": [
             31,
@@ -1016,7 +1016,7 @@
             }
         ],
         "gold": 3,
-        "name": "★コボルト",
+        "name": "★Kobold",
         "note": "<LV:15>",
         "params": [
             14,
@@ -1100,7 +1100,7 @@
             }
         ],
         "gold": 2,
-        "name": "毒ヘビ",
+        "name": "Poison Snake",
         "note": "<LV:11>",
         "params": [
             17,
@@ -1184,7 +1184,7 @@
             }
         ],
         "gold": 2,
-        "name": "魔界エノキ",
+        "name": "Demon World Enoki",
         "note": "<LV:12>",
         "params": [
             18,
@@ -1268,7 +1268,7 @@
             }
         ],
         "gold": 1,
-        "name": "殺人ナメクジ",
+        "name": "Murderous Slug",
         "note": "<LV:11>",
         "params": [
             14,
@@ -1464,7 +1464,7 @@
             }
         ],
         "gold": 6,
-        "name": "★ファイターLV6",
+        "name": "★Fighter LV6",
         "note": "<LV:27>",
         "params": [
             38,
@@ -1560,7 +1560,7 @@
             }
         ],
         "gold": 2,
-        "name": "★ワーウルフ",
+        "name": "★Werewolf",
         "note": "<LV:26>\n",
         "params": [
             33,
@@ -1649,7 +1649,7 @@
             }
         ],
         "gold": 2,
-        "name": "★グリーンスライム",
+        "name": "★Green Slime",
         "note": "<LV:25>\n",
         "params": [
             31,
@@ -1733,7 +1733,7 @@
             }
         ],
         "gold": 5,
-        "name": "★コアトル",
+        "name": "★Coatl",
         "note": "<LV:25>",
         "params": [
             40,
@@ -2070,7 +2070,7 @@
             }
         ],
         "gold": 2,
-        "name": "スライム",
+        "name": "Slime",
         "note": "<LV:21>\n",
         "params": [
             20,
@@ -2142,7 +2142,7 @@
             }
         ],
         "gold": 3,
-        "name": "ウルフ",
+        "name": "Wolf",
         "note": "<LV:21>\n",
         "params": [
             18,
@@ -2219,7 +2219,7 @@
             }
         ],
         "gold": 3,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "<LV:21>",
         "params": [
             29,
@@ -2298,7 +2298,7 @@
             }
         ],
         "gold": 6,
-        "name": "プリーストLV4",
+        "name": "Priest LV4",
         "note": "<LV:22>",
         "params": [
             34,
@@ -2367,7 +2367,7 @@
             }
         ],
         "gold": 3,
-        "name": "メイジLV3",
+        "name": "Mage LV3",
         "note": "<LV:22>\n",
         "params": [
             26,
@@ -2444,7 +2444,7 @@
             }
         ],
         "gold": 4,
-        "name": "シューター",
+        "name": "Shooter",
         "note": "<LV:22>",
         "params": [
             32,
@@ -2568,7 +2568,7 @@
             }
         ],
         "gold": 0,
-        "name": "◯ボス",
+        "name": "Circle Boss",
         "note": "",
         "params": [
             100,
@@ -2655,7 +2655,7 @@
             }
         ],
         "gold": 3,
-        "name": "ローグLV8",
+        "name": "Rogue LV8",
         "note": "",
         "params": [
             84,
@@ -2744,7 +2744,7 @@
             }
         ],
         "gold": 3,
-        "name": "グラップラーLV8",
+        "name": "Grappler LV8",
         "note": "",
         "params": [
             90,
@@ -2831,7 +2831,7 @@
             }
         ],
         "gold": 3,
-        "name": "シーフLV8",
+        "name": "Thief LV8",
         "note": "\n<y:380>",
         "params": [
             79,
@@ -2977,7 +2977,7 @@
             }
         ],
         "gold": 2,
-        "name": "★冒険者の死体",
+        "name": "★Adventurer's corpse",
         "note": "<LV:35>",
         "params": [
             48,
@@ -3059,7 +3059,7 @@
             }
         ],
         "gold": 2,
-        "name": "★グール",
+        "name": "★Ghoul",
         "note": "<LV:35>",
         "params": [
             60,
@@ -3141,7 +3141,7 @@
             }
         ],
         "gold": 4,
-        "name": "★ゾンビプラント",
+        "name": "★Zombie Plant",
         "note": "<LV:36>",
         "params": [
             59,
@@ -3230,7 +3230,7 @@
             }
         ],
         "gold": 4,
-        "name": "★スケルトンウォリアー",
+        "name": "Skeleton Warrior",
         "note": "<LV:36>",
         "params": [
             68,
@@ -3314,7 +3314,7 @@
             }
         ],
         "gold": 6,
-        "name": "★インフェルノ",
+        "name": "★Inferno",
         "note": "<LV:35>",
         "params": [
             57,
@@ -3433,7 +3433,7 @@
             }
         ],
         "gold": 3,
-        "name": "マーフィーズゴースト",
+        "name": "Murphy's Ghost",
         "note": "\n<y:370>",
         "params": [
             475,
@@ -3552,7 +3552,7 @@
             }
         ],
         "gold": 3,
-        "name": "マーフィーズゴースト",
+        "name": "Murphy's Ghost",
         "note": "\n<y:370>",
         "params": [
             475,
@@ -3634,7 +3634,7 @@
             }
         ],
         "gold": 2,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "<LV:31>",
         "params": [
             42,
@@ -3716,7 +3716,7 @@
             }
         ],
         "gold": 2,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "<LV:31>",
         "params": [
             36,
@@ -3788,7 +3788,7 @@
             }
         ],
         "gold": 3,
-        "name": "ローグLV7",
+        "name": "Rogue LV7",
         "note": "<LV:31>",
         "params": [
             34,
@@ -3922,7 +3922,7 @@
             }
         ],
         "gold": 5,
-        "name": "シーフLV7",
+        "name": "Thief LV7",
         "note": "<LV:31>\n\n<y:390>",
         "params": [
             33,
@@ -4011,7 +4011,7 @@
             }
         ],
         "gold": 2,
-        "name": "バンシー",
+        "name": "Banshee",
         "note": "<LV:31>",
         "params": [
             40,
@@ -4090,7 +4090,7 @@
             }
         ],
         "gold": 3,
-        "name": "グラップラーLV7",
+        "name": "Grappler LV7",
         "note": "<LV:32>",
         "params": [
             46,
@@ -4239,7 +4239,7 @@
             }
         ],
         "gold": 4,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "<LV:32>",
         "params": [
             46,
@@ -4328,7 +4328,7 @@
             }
         ],
         "gold": 2,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "<LV:32>",
         "params": [
             47,
@@ -4417,7 +4417,7 @@
             }
         ],
         "gold": 5,
-        "name": "★ネクロマンサー",
+        "name": "★Necromancer",
         "note": "<LV:36>\n<y:390>",
         "params": [
             77,
@@ -4620,7 +4620,7 @@
             }
         ],
         "gold": 3,
-        "name": "★グリフォン",
+        "name": "★Griffon",
         "note": "<LV:45>",
         "params": [
             75,
@@ -4709,7 +4709,7 @@
             }
         ],
         "gold": 3,
-        "name": "★サーベルタイガー",
+        "name": "★Saber Tiger",
         "note": "<LV:45>",
         "params": [
             97,
@@ -4788,7 +4788,7 @@
             }
         ],
         "gold": 2,
-        "name": "★バク",
+        "name": "★Baku",
         "note": "<LV:45>",
         "params": [
             122,
@@ -4867,7 +4867,7 @@
             }
         ],
         "gold": 6,
-        "name": "★キメラ",
+        "name": "★Chimera",
         "note": "<LV:45>",
         "params": [
             130,
@@ -4951,7 +4951,7 @@
             }
         ],
         "gold": 2,
-        "name": "★ワータイガー",
+        "name": "★Water Tiger",
         "note": "<LV:45>\n",
         "params": [
             157,
@@ -5030,7 +5030,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ミノタウルス",
+        "name": "★Minotaur",
         "note": "",
         "params": [
             192,
@@ -5233,7 +5233,7 @@
             }
         ],
         "gold": 2,
-        "name": "インプ",
+        "name": "Imp",
         "note": "<LV:41>",
         "params": [
             54,
@@ -5317,7 +5317,7 @@
             }
         ],
         "gold": 2,
-        "name": "オーク",
+        "name": "Orc",
         "note": "<LV:41>",
         "params": [
             75,
@@ -5394,7 +5394,7 @@
             }
         ],
         "gold": 2,
-        "name": "グレムリン",
+        "name": "Gremlin",
         "note": "<LV:41>",
         "params": [
             78,
@@ -5471,7 +5471,7 @@
             }
         ],
         "gold": 2,
-        "name": "レヴァナント",
+        "name": "Revenant",
         "note": "<LV:42>",
         "params": [
             99,
@@ -5540,7 +5540,7 @@
             }
         ],
         "gold": 5,
-        "name": "カーバンクル ",
+        "name": "Carbuncle",
         "note": "<LV:42>",
         "params": [
             73,
@@ -5614,7 +5614,7 @@
             }
         ],
         "gold": 5,
-        "name": "バンディットLV10",
+        "name": "Bandit LV10",
         "note": "<LV:41>",
         "params": [
             78,
@@ -5693,7 +5693,7 @@
             }
         ],
         "gold": 3,
-        "name": "アイアンメイデン",
+        "name": "Iron Maiden",
         "note": "<LV:43>",
         "params": [
             122,
@@ -5765,7 +5765,7 @@
             }
         ],
         "gold": 2,
-        "name": "ドワーフ",
+        "name": "Dwarf",
         "note": "<LV:43>",
         "params": [
             102,
@@ -5844,7 +5844,7 @@
             }
         ],
         "gold": 3,
-        "name": "フレイムリザード",
+        "name": "Flame Lizard",
         "note": "<LV:41>",
         "params": [
             87,
@@ -6022,7 +6022,7 @@
             }
         ],
         "gold": 3,
-        "name": "ポイズンジャイアント",
+        "name": "Poison Giant",
         "note": "",
         "params": [
             459,
@@ -6084,7 +6084,7 @@
             }
         ],
         "gold": 0,
-        "name": "■５面",
+        "name": "■Stage 5",
         "note": "",
         "params": [
             100,
@@ -6161,7 +6161,7 @@
             }
         ],
         "gold": 3,
-        "name": "★スレイプニル",
+        "name": "★Sleipnir",
         "note": "<LV:55>",
         "params": [
             170,
@@ -6250,7 +6250,7 @@
             }
         ],
         "gold": 3,
-        "name": "★サイクロプス",
+        "name": "★Cyclops",
         "note": "<LV:55>",
         "params": [
             245,
@@ -6334,7 +6334,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ダークメイジ",
+        "name": "Dark Mage",
         "note": "<LV:61>",
         "params": [
             132,
@@ -6413,7 +6413,7 @@
             }
         ],
         "gold": 5,
-        "name": "★パラディンLV14",
+        "name": "★Paladin LV14",
         "note": "<LV:55>\n<y:350>",
         "params": [
             134,
@@ -6497,7 +6497,7 @@
             }
         ],
         "gold": 5,
-        "name": "★ドラゴン",
+        "name": "★Dragon",
         "note": "<LV:55>",
         "params": [
             310,
@@ -6576,7 +6576,7 @@
             }
         ],
         "gold": 3,
-        "name": "プリーステスLV8",
+        "name": "Priestess LV8",
         "note": "<LV:51>",
         "params": [
             75,
@@ -6655,7 +6655,7 @@
             }
         ],
         "gold": 3,
-        "name": "メイジLV10",
+        "name": "Mage LV10",
         "note": "<LV:51>",
         "params": [
             83,
@@ -6801,7 +6801,7 @@
             }
         ],
         "gold": 2,
-        "name": "クリーピングコイン",
+        "name": "Creeping Coin",
         "note": "<LV:51>\n<y:270>",
         "params": [
             78,
@@ -6947,7 +6947,7 @@
             }
         ],
         "gold": 3,
-        "name": "ケルベロス",
+        "name": "Cerberus",
         "note": "<LV:52>",
         "params": [
             98,
@@ -7081,7 +7081,7 @@
             }
         ],
         "gold": 3,
-        "name": "ロックゴーレム",
+        "name": "Rock Golem",
         "note": "<LV:51>",
         "params": [
             89,
@@ -7143,7 +7143,7 @@
             }
         ],
         "gold": 6,
-        "name": "ワイバーン",
+        "name": "Wyvern",
         "note": "",
         "params": [
             100,
@@ -7222,7 +7222,7 @@
             }
         ],
         "gold": 4,
-        "name": "ニンジャLV11",
+        "name": "Ninja LV11",
         "note": "<LV:52>\n<y:370>",
         "params": [
             75,
@@ -7306,7 +7306,7 @@
             }
         ],
         "gold": 3,
-        "name": "ヴォーパルパニー",
+        "name": "Vorpal Panee",
         "note": "<LV:51>",
         "params": [
             93,
@@ -7395,7 +7395,7 @@
             }
         ],
         "gold": 2,
-        "name": "デビル",
+        "name": "Devil",
         "note": "<LV:51>",
         "params": [
             94,
@@ -7474,7 +7474,7 @@
             }
         ],
         "gold": 3,
-        "name": "ビーストウォリアー",
+        "name": "Beast Warrior",
         "note": "<LV:53>",
         "params": [
             122,
@@ -7558,7 +7558,7 @@
             }
         ],
         "gold": 3,
-        "name": "ヒレン",
+        "name": "Hiren",
         "note": "<LV:52>",
         "params": [
             102,
@@ -7620,7 +7620,7 @@
             }
         ],
         "gold": 0,
-        "name": "■６面",
+        "name": "■Stage 6",
         "note": "",
         "params": [
             100,
@@ -7823,7 +7823,7 @@
             }
         ],
         "gold": 3,
-        "name": "★サイクロプス",
+        "name": "★Cyclops",
         "note": "<LV:45>",
         "params": [
             40,
@@ -7902,7 +7902,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ポイズンジャイアント",
+        "name": "★Poison Giant",
         "note": "<LV:45>",
         "params": [
             40,
@@ -7981,7 +7981,7 @@
             }
         ],
         "gold": 3,
-        "name": "★スレイプニル",
+        "name": "★Sleipnir",
         "note": "<LV:45>",
         "params": [
             40,
@@ -8370,7 +8370,7 @@
             }
         ],
         "gold": 3,
-        "name": "メイジLV11",
+        "name": "Mage LV11",
         "note": "<LV:63>",
         "params": [
             31,
@@ -8449,7 +8449,7 @@
             }
         ],
         "gold": 3,
-        "name": "ロックゴーレム",
+        "name": "Rock Golem",
         "note": "<LV:45>",
         "params": [
             40,
@@ -8528,7 +8528,7 @@
             }
         ],
         "gold": 3,
-        "name": "ケルピー",
+        "name": "Kelpie",
         "note": "<LV:61>",
         "params": [
             40,
@@ -8607,7 +8607,7 @@
             }
         ],
         "gold": 3,
-        "name": "ダークプリースト",
+        "name": "Dark Priest",
         "note": "<LV:61>",
         "params": [
             40,
@@ -8686,7 +8686,7 @@
             }
         ],
         "gold": 3,
-        "name": "ビーストウォリアー",
+        "name": "Beast Warrior",
         "note": "<LV:62>",
         "params": [
             40,
@@ -8765,7 +8765,7 @@
             }
         ],
         "gold": 3,
-        "name": "ヴォーパルパニー",
+        "name": "Vorpal Panee",
         "note": "<LV:92>",
         "params": [
             40,
@@ -8844,7 +8844,7 @@
             }
         ],
         "gold": 3,
-        "name": "トロール",
+        "name": "Troll",
         "note": "<LV:45>",
         "params": [
             40,
@@ -8923,7 +8923,7 @@
             }
         ],
         "gold": 3,
-        "name": "ウォーロック",
+        "name": "Warlock",
         "note": "<LV:61>",
         "params": [
             40,
@@ -9047,7 +9047,7 @@
             }
         ],
         "gold": 0,
-        "name": "■７面",
+        "name": "■Stage 7",
         "note": "",
         "params": [
             100,
@@ -9250,7 +9250,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ガーディアン",
+        "name": "★Guardian",
         "note": "<LV:45>",
         "params": [
             40,
@@ -10304,7 +10304,7 @@
             }
         ],
         "gold": 0,
-        "name": "■８面",
+        "name": "■Stage 8",
         "note": "",
         "params": [
             100,
@@ -10383,7 +10383,7 @@
             }
         ],
         "gold": 3,
-        "name": "★オニ",
+        "name": "★Oni",
         "note": "<LV:45>",
         "params": [
             40,
@@ -10462,7 +10462,7 @@
             }
         ],
         "gold": 3,
-        "name": "★ファイアジャイアント",
+        "name": "★Fire Giant",
         "note": "<LV:45>",
         "params": [
             40,
@@ -10727,7 +10727,7 @@
             }
         ],
         "gold": 3,
-        "name": "★イフリート",
+        "name": "★Ifrit",
         "note": "<LV:45>",
         "params": [
             40,
@@ -11595,7 +11595,7 @@
             }
         ],
         "gold": 0,
-        "name": "■９面",
+        "name": "■Stage 9",
         "note": "",
         "params": [
             100,
@@ -12046,7 +12046,7 @@
             }
         ],
         "gold": 3,
-        "name": "リザードサムライ",
+        "name": "Lizard Samurai",
         "note": "<LV:91>",
         "params": [
             40,
@@ -12187,7 +12187,7 @@
             }
         ],
         "gold": 3,
-        "name": "ヒレン",
+        "name": "Hiren",
         "note": "<LV:93>",
         "params": [
             40,
@@ -12869,7 +12869,7 @@
             }
         ],
         "gold": 0,
-        "name": "■１０面",
+        "name": "■Stage 10",
         "note": "",
         "params": [
             100,
@@ -13061,7 +13061,7 @@
             }
         ],
         "gold": 3,
-        "name": "★グレーターデーモン",
+        "name": "Greater Demon",
         "note": "",
         "params": [
             666,
@@ -13148,7 +13148,7 @@
             }
         ],
         "gold": 3,
-        "name": "★グレーターデーモン",
+        "name": "Greater Demon",
         "note": "",
         "params": [
             40,
@@ -13345,7 +13345,7 @@
             }
         ],
         "gold": 3,
-        "name": "★マイルフィック",
+        "name": "★Milefick",
         "note": "<y:732>\n<x:420>",
         "params": [
             999,
@@ -13432,7 +13432,7 @@
             }
         ],
         "gold": 3,
-        "name": "★マイルフィック",
+        "name": "★Milefick",
         "note": "<y:730>",
         "params": [
             5,
@@ -13494,7 +13494,7 @@
             }
         ],
         "gold": 1,
-        "name": "スペーサー",
+        "name": "Spacer",
         "note": "",
         "params": [
             100,
@@ -63652,7 +63652,7 @@
             }
         ],
         "gold": 1,
-        "name": "学園長",
+        "name": "School Principal",
         "note": "",
         "params": [
             824,
@@ -63714,7 +63714,7 @@
             }
         ],
         "gold": 1,
-        "name": "学園長",
+        "name": "School Principal",
         "note": "",
         "params": [
             824,
@@ -63771,7 +63771,7 @@
             }
         ],
         "gold": 1,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "",
         "params": [
             25,

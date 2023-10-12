@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<LV:1>\n<掲載レシピ:W2>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -41,7 +41,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ブロンズダガー",
+        "name": "Bronze Dagger",
         "note": "<LV:2>\n<掲載レシピ:W3>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -69,7 +69,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ククリ",
+        "name": "Kukri",
         "note": "<LV:3>\n<掲載レシピ:W4>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -97,7 +97,7 @@
             }
         ],
         "iconIndex": 1088,
-        "name": "クナイ",
+        "name": "Kunai",
         "note": "<LV:4>\n<掲載レシピ:W5>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -125,7 +125,7 @@
             }
         ],
         "iconIndex": 1088,
-        "name": "デーモンナイフ",
+        "name": "Daemon Knife",
         "note": "<LV:5>\n<掲載レシピ:W6>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -153,7 +153,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルナイフ",
+        "name": "Mithril Knife",
         "note": "<LV:6>\n<掲載レシピ:W7>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -181,7 +181,7 @@
             }
         ],
         "iconIndex": 1088,
-        "name": "盗賊のナイフ",
+        "name": "Thief's Knife",
         "note": "<LV:7>\n<掲載レシピ:W8>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -209,7 +209,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ヴァジュラ",
+        "name": "Vajra",
         "note": "<LV:8>\n<分類:シーフ>\n\n\n",
         "params": [
             0,
@@ -303,7 +303,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "アイアンクロー",
+        "name": "Iron Claw",
         "note": "<LV:1>\n<掲載レシピ:W12>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -331,7 +331,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "バグナウ",
+        "name": "Bagnau",
         "note": "<LV:2>\n<掲載レシピ:W13>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -359,7 +359,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "熊手",
+        "name": "Bear Claw",
         "note": "<LV:3>\n<掲載レシピ:W14>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -387,7 +387,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "鉄の爪",
+        "name": "Iron Claw",
         "note": "<LV:4>\n<掲載レシピ:W15>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -415,7 +415,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "紅の爪",
+        "name": "Crimson Claw",
         "note": "<LV:5>\n<掲載レシピ:W16>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -443,7 +443,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ミスリルクロー",
+        "name": "Mithril Claw",
         "note": "<LV:6>\n<掲載レシピ:W17>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -471,7 +471,7 @@
             }
         ],
         "iconIndex": 1575,
-        "name": "疾風のクロー",
+        "name": "Gale Claw",
         "note": "<LV:7>\n<掲載レシピ:W18>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -499,7 +499,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ドラゴンファング",
+        "name": "Dragon Fang",
         "note": "<LV:8>\n\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -598,7 +598,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "チート刀",
+        "name": "Cheat Sword",
         "note": "<LV:1>\n<min:1>\n<max:3>\n<plusMax:10>",
         "params": [
             0,
@@ -631,7 +631,7 @@
             }
         ],
         "iconIndex": 1090,
-        "name": "宝剣･イシス",
+        "name": "Treasure Sword Isis",
         "note": "<LV:3>\n<rare>\n<str:2>",
         "params": [
             0,
@@ -697,7 +697,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "<LV:0>\n<分類:シーフ>\n\n",
         "params": [
             0,
@@ -923,7 +923,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "樫の杖",
+        "name": "Oak Staff",
         "note": "<LV:1>\n<掲載レシピ:W32>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -951,7 +951,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "さくらの杖",
+        "name": "Sakura's Staff",
         "note": "<LV:2>\n<掲載レシピ:W33>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -979,7 +979,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "知恵の杖",
+        "name": "Staff of Wisdom",
         "note": "<LV:3>\n<掲載レシピ:W34>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1007,7 +1007,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "力の杖",
+        "name": "Staff of Power",
         "note": "<LV:4>\n<掲載レシピ:W35>\n<分類:セレナ>",
         "params": [
             0,
@@ -1035,7 +1035,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "魔想の杖",
+        "name": "Wand of Magic Thoughts",
         "note": "<LV:5>\n<掲載レシピ:W36>\n<分類:セレナ>",
         "params": [
             0,
@@ -1063,7 +1063,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "魔導師の杖",
+        "name": "Mage's Staff",
         "note": "<LV:6>\n<掲載レシピ:W37>\n<分類:セレナ>",
         "params": [
             0,
@@ -1091,7 +1091,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "メーティス",
+        "name": "Metis",
         "note": "<LV:7>\n<掲載レシピ:W38>\n<分類:セレナ>",
         "params": [
             0,
@@ -1119,7 +1119,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "天界の杖",
+        "name": "Staff of the Celestial Realm",
         "note": "<LV:8>\n<分類:セレナ>",
         "params": [
             0,
@@ -1180,7 +1180,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "初級魔導書",
+        "name": "Beginner's Grimoire",
         "note": "<LV:0>\n\n<分類:セレナ>\n<合成材料:I71:1,I81:2>",
         "params": [
             0,
@@ -1208,7 +1208,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "中級魔導書",
+        "name": "Intermediate Grimoire",
         "note": "<LV:1>\n<掲載レシピ:W42>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1236,7 +1236,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "上級魔導書",
+        "name": "Advanced Grimoire",
         "note": "<LV:2>\n<掲載レシピ:W43>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1264,7 +1264,7 @@
             }
         ],
         "iconIndex": 186,
-        "name": "夢幻の書",
+        "name": "Book of Fantasia",
         "note": "<LV:3>\n<掲載レシピ:W44>\n<分類:セレナ>",
         "params": [
             0,
@@ -1292,7 +1292,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "カルディアの書",
+        "name": "Cardia's Book",
         "note": "<LV:4>\n<掲載レシピ:W45>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1320,7 +1320,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "プリンキピア",
+        "name": "Prinkipia",
         "note": "<LV:5>\n<掲載レシピ:W46>\n<分類:セレナ>",
         "params": [
             0,
@@ -1348,7 +1348,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "ヴァルハラの禁書",
+        "name": "Forbidden Book of Valhalla",
         "note": "<LV:6>\n<掲載レシピ:W47>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1376,7 +1376,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "アンフィニブック",
+        "name": "Infinity Book",
         "note": "<LV:7>\n<掲載レシピ:W48>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1404,7 +1404,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "グリモワール",
+        "name": "Grimoire",
         "note": "<LV:8>\n\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1465,7 +1465,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "<LV:0>\n<分類:セレナ>",
         "params": [
             0,
@@ -1823,7 +1823,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "翡翠の杖",
+        "name": "Jade Staff",
         "note": "<LV:1>\n<掲載レシピ:W62>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -1851,7 +1851,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "メイス",
+        "name": "Mace",
         "note": "<LV:2>\n<掲載レシピ:W63>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -1879,7 +1879,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "世界樹の杖",
+        "name": "World Tree Staff",
         "note": "<LV:3>\n<掲載レシピ:W64>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -1907,7 +1907,7 @@
             }
         ],
         "iconIndex": 111,
-        "name": "ヌンチャク",
+        "name": "Nunchaku",
         "note": "<LV:4>\n<掲載レシピ:W65>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -1935,7 +1935,7 @@
             }
         ],
         "iconIndex": 113,
-        "name": "ヘビーハンマー",
+        "name": "Heavy Hammer",
         "note": "<LV:5>\n<掲載レシピ:W66>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -1963,7 +1963,7 @@
             }
         ],
         "iconIndex": 221,
-        "name": "クロス",
+        "name": "Cross",
         "note": "<LV:6>\n<掲載レシピ:W67>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -1991,7 +1991,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "精霊の杖",
+        "name": "Spirit Staff",
         "note": "<LV:7>\n<掲載レシピ:W68>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2019,7 +2019,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "モーニングスター",
+        "name": "Morning Star",
         "note": "<LV:8>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2113,7 +2113,7 @@
             }
         ],
         "iconIndex": 227,
-        "name": "癒しの水",
+        "name": "Healing Water",
         "note": "<LV:1>\n<掲載レシピ:W72>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2141,7 +2141,7 @@
             }
         ],
         "iconIndex": 227,
-        "name": "守護の聖水",
+        "name": "Holy Water of Protection",
         "note": "<LV:2>\n<掲載レシピ:W73>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2169,7 +2169,7 @@
             }
         ],
         "iconIndex": 227,
-        "name": "破邪の聖水",
+        "name": "Holy Water of Exorcism",
         "note": "<LV:3>\n<掲載レシピ:W74>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2197,7 +2197,7 @@
             }
         ],
         "iconIndex": 227,
-        "name": "奇跡の聖水",
+        "name": "Miracle Holy Water",
         "note": "<LV:4>\n<掲載レシピ:W75>\n<分類:プリースト>\n\n\n",
         "params": [
             0,
@@ -2225,7 +2225,7 @@
             }
         ],
         "iconIndex": 625,
-        "name": "結界石",
+        "name": "Barrier Stone",
         "note": "<LV:5>\n<掲載レシピ:W76>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2253,7 +2253,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "水晶の宝珠",
+        "name": "Crystal Orb",
         "note": "<LV:6>\n<掲載レシピ:W77>\n<分類:プリースト>\n\n\n",
         "params": [
             0,
@@ -2281,7 +2281,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "祝福の宝珠",
+        "name": "Blessed Jewel",
         "note": "<LV:7>\n<掲載レシピ:W78>\n<分類:プリースト>\n\n\n",
         "params": [
             0,
@@ -2309,7 +2309,7 @@
             }
         ],
         "iconIndex": 186,
-        "name": "バイブル",
+        "name": "Bible",
         "note": "<LV:8>\n<分類:プリースト>\n\n",
         "params": [
             0,
@@ -2375,7 +2375,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "棍棒",
+        "name": "Club",
         "note": "<LV:0>\n\n",
         "params": [
             0,
@@ -2705,7 +2705,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "錆びた剣",
+        "name": "Rusty Sword",
         "note": "<LV:1>\n\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2733,7 +2733,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "アイアンソード",
+        "name": "Iron Sword",
         "note": "<LV:1>\n<掲載レシピ:W92>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2761,7 +2761,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアックス",
+        "name": "Hand Axe",
         "note": "<LV:2>\n<掲載レシピ:W93>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2789,7 +2789,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブロードソード",
+        "name": "Broadsword",
         "note": "<LV:3>\n<掲載レシピ:W94>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2817,7 +2817,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアックス",
+        "name": "Battle Axe",
         "note": "<LV:4>\n<掲載レシピ:W95>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2845,7 +2845,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "デュランダル",
+        "name": "Durandal",
         "note": "<LV:5>\n<掲載レシピ:W96>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2873,7 +2873,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "フランシスカ",
+        "name": "Francisca",
         "note": "<LV:6>\n<掲載レシピ:W97>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2901,7 +2901,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "<LV:7>\n<掲載レシピ:W98>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -2929,7 +2929,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ドラゴンスレイヤー",
+        "name": "Dragon Slayer",
         "note": "<LV:8>\n\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3023,7 +3023,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "<LV:1>\n<掲載レシピ:W102>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3051,7 +3051,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "<LV:2>\n<掲載レシピ:W103>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3079,7 +3079,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ヘビーアックス",
+        "name": "Heavy Axe",
         "note": "<LV:3>\n<掲載レシピ:W104>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3107,7 +3107,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "カタナ",
+        "name": "Katana",
         "note": "<LV:4>\n<掲載レシピ:W105>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3135,7 +3135,7 @@
             }
         ],
         "iconIndex": 123,
-        "name": "フランベルジュ",
+        "name": "Flamberge",
         "note": "<LV:5>\n<掲載レシピ:W106>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3163,7 +3163,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バルディッシュ",
+        "name": "Bardiche",
         "note": "<LV:6>\n<掲載レシピ:W107>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3191,7 +3191,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ツヴァイハンダー",
+        "name": "Zweihander",
         "note": "<LV:7>\n<掲載レシピ:W108>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3219,7 +3219,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "グレートアックス",
+        "name": "Great Axe",
         "note": "<LV:8>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3643,7 +3643,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "カタナ",
+        "name": "Katana",
         "note": "<LV:1>\n<掲載レシピ:W122>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3671,7 +3671,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "鬼殺し",
+        "name": "Demon Slayer",
         "note": "<LV:2>\n<掲載レシピ:W123>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -3699,7 +3699,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "月光",
+        "name": "Moonlight",
         "note": "<LV:3>\n<掲載レシピ:W124>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3727,7 +3727,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "魔物の太刀",
+        "name": "Demon Blade",
         "note": "<LV:4>\n<掲載レシピ:W125>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3755,7 +3755,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "グレン",
+        "name": "Glen",
         "note": "<LV:5>\n<掲載レシピ:W126>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3783,7 +3783,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "兜割り",
+        "name": "Helmet Splitter",
         "note": "<LV:6>\n<掲載レシピ:W127>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3811,7 +3811,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "首切りの刃",
+        "name": "Blade of Decapitation",
         "note": "<LV:7>\n<掲載レシピ:W128>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3839,7 +3839,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "村正",
+        "name": "Muramasa",
         "note": "<LV:8>\n<分類:ニンジャ>\n\n\n",
         "params": [
             0,
@@ -3933,7 +3933,7 @@
             }
         ],
         "iconIndex": 208,
-        "name": "吹き矢",
+        "name": "Blowgun",
         "note": "<LV:1>\n<掲載レシピ:W132>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3961,7 +3961,7 @@
             }
         ],
         "iconIndex": 208,
-        "name": "棒手裏剣",
+        "name": "Stick Shuriken",
         "note": "<LV:2>\n<掲載レシピ:W133>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -3989,7 +3989,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "四方手裏剣",
+        "name": "Four-sided Shuriken",
         "note": "<LV:3>\n<掲載レシピ:W134>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4017,7 +4017,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "卍手裏剣",
+        "name": "Swastika Shuriken",
         "note": "<LV:4>\n<掲載レシピ:W135>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4045,7 +4045,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "月影",
+        "name": "Moon Shadow",
         "note": "<LV:5>\n<掲載レシピ:W136>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4073,7 +4073,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "渦葉",
+        "name": "Whirlleaf",
         "note": "<LV:6>\n<掲載レシピ:W137>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4101,7 +4101,7 @@
             }
         ],
         "iconIndex": 208,
-        "name": "三光剣",
+        "name": "Three Light Sword",
         "note": "<LV:7>\n<掲載レシピ:W138>\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4129,7 +4129,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "手裏剣",
+        "name": "Shuriken",
         "note": "<LV:8>\n\n<分類:ニンジャ>\n\n",
         "params": [
             0,
@@ -4591,7 +4591,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ハルピュイア",
+        "name": "Harpyia",
         "note": "<LV:2>\n<bullet:2>\n<reloadTime:5>\n<skill:1302>",
         "params": [
             0,
@@ -4609,7 +4609,7 @@
     {
         "id": 153,
         "animationId": 111,
-        "description": "敵を凍結状態にする",
+        "description": "Freeze the enemy.",
         "etypeId": 1,
         "traits": [
             {
@@ -4624,7 +4624,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "アイスキャノン",
+        "name": "Ice Cannon",
         "note": "<LV:2>\n<bullet:1>\n<reloadTime:4>\n<skill:1303>",
         "params": [
             0,
@@ -4657,7 +4657,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "スモークシュート",
+        "name": "Smoke Shoot",
         "note": "<LV:3>\n<bullet:2>\n<reloadTime:6>\n<skill:1304>",
         "params": [
             0,
@@ -4690,7 +4690,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "火炎放射器",
+        "name": "Flamethrower",
         "note": "<LV:3>\n<bullet:1>\n<reloadTime:3>\n<skill:1305>",
         "params": [
             0,
@@ -4723,7 +4723,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "レールガン",
+        "name": "Railgun",
         "note": "<LV:3>\n<bullet:2>\n<reloadTime:8>\n<skill:1306>",
         "params": [
             0,
@@ -4756,7 +4756,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "フラッシュガン",
+        "name": "Flashgun",
         "note": "<LV:1>\n<bullet:1>\n<reloadTime:7>\n<skill:1303>",
         "params": [
             0,
@@ -4789,7 +4789,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ヒュプノス",
+        "name": "Hypnos",
         "note": "<LV:1>\n<bullet:2>\n<reloadTime:3>\n<skill:1302>",
         "params": [
             0,
@@ -8122,7 +8122,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ハンドガン",
+        "name": "Handgun",
         "note": "<LV:1>",
         "params": [
             0,
@@ -8155,7 +8155,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ストライクイーグル",
+        "name": "Strike Eagle",
         "note": "<LV:2>",
         "params": [
             0,
@@ -8188,7 +8188,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "スピットファイア",
+        "name": "Spitfire",
         "note": "",
         "params": [
             0,
@@ -8221,7 +8221,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "シュヴァルベ",
+        "name": "Schwalbe",
         "note": "",
         "params": [
             0,
@@ -8254,7 +8254,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "サジタリウス",
+        "name": "Sagittarius",
         "note": "",
         "params": [
             0,
@@ -8287,7 +8287,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラックバレット",
+        "name": "Black Bullet",
         "note": "",
         "params": [
             0,

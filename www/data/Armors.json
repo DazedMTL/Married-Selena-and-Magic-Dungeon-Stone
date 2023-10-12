@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "麻の服",
+        "name": "Hemp Clothes",
         "note": "<LV:1>\n<掲載レシピ:A2>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ローブ",
+        "name": "Robe",
         "note": "<LV:2>\n<掲載レシピ:A3>\n<分類:セレナ>\n<合成材料:I81:3>",
         "params": [
             2,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "白のローブ",
+        "name": "White Robe",
         "note": "<LV:3>\n<掲載レシピ:A4>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "癒しの服",
+        "name": "Healing Robe",
         "note": "<LV:4>\n<掲載レシピ:A5>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             6,
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "魔術師のローブ",
+        "name": "Magician's Robe",
         "note": "<LV:5>\n<掲載レシピ:A6>\n<分類:セレナ>\n<合成材料:丈夫な木片:3>",
         "params": [
             7,
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "妖精のローブ",
+        "name": "Fairy Robe",
         "note": "<LV:6>\n<掲載レシピ:A7>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             8,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "アストラルガード",
+        "name": "Astral Guard",
         "note": "<LV:7>\n<掲載レシピ:A8>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             10,
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "賢者のローブ",
+        "name": "Sage's Robe",
         "note": "<LV:8>\n<分類:セレナ>\n<合成材料:I81:4>",
         "params": [
             11,
@@ -277,7 +277,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 133,
-        "name": "布帽子",
+        "name": "Cloth Hat",
         "note": "<LV:1>\n<掲載レシピ:A12>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -298,7 +298,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 134,
-        "name": "サークレット",
+        "name": "Circlet",
         "note": "<LV:2>\n<掲載レシピ:A13>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -319,7 +319,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 130,
-        "name": "羽帽子",
+        "name": "Feathered Hat",
         "note": "<LV:3>\n<掲載レシピ:A14>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -340,7 +340,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 134,
-        "name": "フェアリーバンド",
+        "name": "Fairy Band",
         "note": "<LV:4>\n<掲載レシピ:A15>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -367,7 +367,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "魔導師の帽子",
+        "name": "Mage's Hat",
         "note": "<LV:5>\n<掲載レシピ:A16>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -394,7 +394,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "ティンクルスター",
+        "name": "Twinkle Star",
         "note": "<LV:6>\n<掲載レシピ:A17>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -421,7 +421,7 @@
             }
         ],
         "iconIndex": 1845,
-        "name": "クラウンフード",
+        "name": "Crown Hood",
         "note": "<LV:7>\n<掲載レシピ:A18>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -448,7 +448,7 @@
             }
         ],
         "iconIndex": 1846,
-        "name": "エンジェルサークレット",
+        "name": "Angel Circlet",
         "note": "<LV:8>\n\n<分類:セレナ>\n",
         "params": [
             0,
@@ -529,7 +529,7 @@
             }
         ],
         "iconIndex": 969,
-        "name": "銅の指輪",
+        "name": "Copper Ring",
         "note": "<LV:1>\n<掲載レシピ:A22>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -556,7 +556,7 @@
             }
         ],
         "iconIndex": 742,
-        "name": "新緑のブローチ",
+        "name": "Fresh Green Brooch",
         "note": "<LV:2>\n<掲載レシピ:A23>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -583,7 +583,7 @@
             }
         ],
         "iconIndex": 159,
-        "name": "魔力の指輪",
+        "name": "Ring of Magic Power",
         "note": "<LV:3>\n<掲載レシピ:A24>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -610,7 +610,7 @@
             }
         ],
         "iconIndex": 971,
-        "name": "シルバーブレスレット",
+        "name": "Silver Bracelet",
         "note": "<LV:4>\n<掲載レシピ:A25>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -637,7 +637,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "癒しの指輪",
+        "name": "Healing Ring",
         "note": "<LV:5>\n<掲載レシピ:A26>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -664,7 +664,7 @@
             }
         ],
         "iconIndex": 1859,
-        "name": "水晶のブローチ",
+        "name": "Crystal Brooch",
         "note": "<LV:6>\n<掲載レシピ:A27>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -691,7 +691,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "精霊の指輪",
+        "name": "Ring of the Spirit",
         "note": "<LV:7>\n<掲載レシピ:A28>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -718,7 +718,7 @@
             }
         ],
         "iconIndex": 1857,
-        "name": "光の指輪",
+        "name": "Ring of Light",
         "note": "<LV:8>\n\n<分類:セレナ>\n",
         "params": [
             0,
@@ -799,7 +799,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "貝の首飾り",
+        "name": "Shell Necklace",
         "note": "<LV:1>\n<掲載レシピ:A32>\n<分類:セレナ>\n<合成材料:I101:3,I63:1>",
         "params": [
             0,
@@ -826,7 +826,7 @@
             }
         ],
         "iconIndex": 158,
-        "name": "真紅のイヤリング",
+        "name": "Crimson Earrings",
         "note": "<LV:2>\n<掲載レシピ:A33>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -853,7 +853,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "守護の首飾り",
+        "name": "Guardian Necklace",
         "note": "<LV:3>\n<掲載レシピ:A34>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -880,7 +880,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "魔力の髪飾り",
+        "name": "Magic Hair Ornament",
         "note": "<LV:4>\n<掲載レシピ:A35>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -907,7 +907,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "シルフネックレス",
+        "name": "Sylph Necklace",
         "note": "<LV:5>\n<掲載レシピ:A36>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -934,7 +934,7 @@
             }
         ],
         "iconIndex": 158,
-        "name": "力のイヤリング",
+        "name": "Earring of Strength",
         "note": "<LV:6>\n<掲載レシピ:A37>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -961,7 +961,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ガーディアン",
+        "name": "Guardian",
         "note": "<LV:7>\n<掲載レシピ:A38>\n<分類:セレナ>\n",
         "params": [
             0,
@@ -988,7 +988,7 @@
             }
         ],
         "iconIndex": 158,
-        "name": "魔導のイヤリング",
+        "name": "Magic Earrings",
         "note": "<LV:8>\n\n<分類:セレナ>\n",
         "params": [
             0,
@@ -1069,7 +1069,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "貝の首飾り",
+        "name": "Shell Necklace",
         "note": "<LV:1>\n<掲載レシピ:A42>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -1339,7 +1339,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "コットンシャツ",
+        "name": "Cotton Shirt",
         "note": "<LV:1>\n<掲載レシピ:A52>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1366,7 +1366,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "レザージャケット",
+        "name": "Leather Jacket",
         "note": "<LV:2>\n<掲載レシピ:A53>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1393,7 +1393,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "バトルベスト",
+        "name": "Battle Vest",
         "note": "<LV:3>\n<掲載レシピ:A54>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1420,7 +1420,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ビーストベスト",
+        "name": "Beast Vest",
         "note": "<LV:4>\n<掲載レシピ:A55>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1447,7 +1447,7 @@
             }
         ],
         "iconIndex": 1851,
-        "name": "黒装束",
+        "name": "Black attire",
         "note": "<LV:5>\n<掲載レシピ:A56>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1474,7 +1474,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "盗賊ギルドの鎧",
+        "name": "Thief Guild Armor",
         "note": "<LV:6>\n<掲載レシピ:A57>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1501,7 +1501,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "サラマンダーベスト",
+        "name": "Salamander Vest",
         "note": "<LV:7>\n<掲載レシピ:A58>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1528,7 +1528,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ブリュンヒルデ",
+        "name": "Brynhildr",
         "note": "<LV:8>\n\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1609,7 +1609,7 @@
             }
         ],
         "iconIndex": 1852,
-        "name": "布の靴",
+        "name": "Cloth Shoes",
         "note": "<LV:1>\n<掲載レシピ:A62>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1636,7 +1636,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "レザーブーツ",
+        "name": "Leather Boots",
         "note": "<LV:2>\n<掲載レシピ:A63>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1663,7 +1663,7 @@
             }
         ],
         "iconIndex": 1852,
-        "name": "盗賊の靴",
+        "name": "Thief's Shoes",
         "note": "<LV:3>\n<掲載レシピ:A64>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1690,7 +1690,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "フェザーブーツ",
+        "name": "Feather Boots",
         "note": "<LV:4>\n<掲載レシピ:A65>\n<分類:シーフ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -1717,7 +1717,7 @@
             }
         ],
         "iconIndex": 1852,
-        "name": "アクセルシューズ",
+        "name": "Axel Shoes",
         "note": "<LV:5>\n<掲載レシピ:A66>\n<分類:シーフ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -1744,7 +1744,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "バトルレッグ",
+        "name": "Battle Leg",
         "note": "<LV:6>\n<掲載レシピ:A67>\n<分類:シーフ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -1771,7 +1771,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "マジックブーツ",
+        "name": "Magic Boots",
         "note": "<LV:7>\n<掲載レシピ:A68>\n<分類:シーフ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -1798,7 +1798,7 @@
             }
         ],
         "iconIndex": 141,
-        "name": "オリハルコンレッグ",
+        "name": "Orichalcum Leggings",
         "note": "<LV:8>\n<分類:シーフ>\n<合成材料:I81:4>",
         "params": [
             4,
@@ -1879,7 +1879,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "リボン",
+        "name": "Ribbon",
         "note": "<LV:1>\n<掲載レシピ:A72>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1906,7 +1906,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "クローク",
+        "name": "Cloak",
         "note": "<LV:2>\n<掲載レシピ:A73>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1933,7 +1933,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "盗賊のマント",
+        "name": "Thief's Mantle",
         "note": "<LV:3>\n<掲載レシピ:A74>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1960,7 +1960,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "フェザーマント",
+        "name": "Feather Mantle",
         "note": "<LV:4>\n<掲載レシピ:A75>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -1987,7 +1987,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "ルーンマント",
+        "name": "Rune Mantle",
         "note": "<LV:5>\n<掲載レシピ:A76>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2014,7 +2014,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "ファントムマント",
+        "name": "Phantom Mantle",
         "note": "<LV:6>\n<掲載レシピ:A77>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2041,7 +2041,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "エルヴンマント",
+        "name": "Elven Mantle",
         "note": "<LV:7>\n<掲載レシピ:A78>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2068,7 +2068,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "怪盗のマント",
+        "name": "Phantom Thief's Cape",
         "note": "<LV:8>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2149,7 +2149,7 @@
             }
         ],
         "iconIndex": 195,
-        "name": "鍵のお守り",
+        "name": "Key Amulet",
         "note": "<LV:1>\n<掲載レシピ:A82>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2176,7 +2176,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ディフェンスシンボル",
+        "name": "Defense Symbol",
         "note": "<LV:2>\n<掲載レシピ:A83>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2203,7 +2203,7 @@
             }
         ],
         "iconIndex": 182,
-        "name": "ラッキークローバー",
+        "name": "Lucky Clover",
         "note": "<LV:3>\n<掲載レシピ:A84>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2230,7 +2230,7 @@
             }
         ],
         "iconIndex": 315,
-        "name": "貝のお守り",
+        "name": "Shell Amulet",
         "note": "<LV:4>\n<掲載レシピ:A85>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2257,7 +2257,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "ホーリーシンボル",
+        "name": "Holy Symbol",
         "note": "<LV:5>\n<掲載レシピ:A86>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2284,7 +2284,7 @@
             }
         ],
         "iconIndex": 297,
-        "name": "ラッキーフェザー",
+        "name": "Lucky Feather",
         "note": "<LV:6>\n<掲載レシピ:A87>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2311,7 +2311,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ミスティシンボル",
+        "name": "Misty Symbol",
         "note": "<LV:7>\n<掲載レシピ:A88>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2338,7 +2338,7 @@
             }
         ],
         "iconIndex": 167,
-        "name": "盗賊の紋章",
+        "name": "Thief's Emblem",
         "note": "<LV:8>\n<分類:シーフ>\n",
         "params": [
             0,
@@ -2689,7 +2689,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "皮の鎧",
+        "name": "Leather Armor",
         "note": "<LV:1>\n<掲載レシピ:A102>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2716,7 +2716,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ハードレザー",
+        "name": "Hard Leather",
         "note": "<LV:2>\n<掲載レシピ:A103>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2743,7 +2743,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "鉄の胸当て",
+        "name": "Iron Breastplate",
         "note": "<LV:3>\n<掲載レシピ:A104>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2770,7 +2770,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "バトルプレート",
+        "name": "Battle Plate",
         "note": "<LV:4>\n<掲載レシピ:A105>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2797,7 +2797,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "聖なる胸当て",
+        "name": "Holy Breastplate",
         "note": "<LV:5>\n<掲載レシピ:A106>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2824,7 +2824,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "マジックプレート",
+        "name": "Magic Plate",
         "note": "<LV:6>\n<掲載レシピ:A107>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2851,7 +2851,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ミスリルアーマー",
+        "name": "Mithril Armor",
         "note": "<LV:7>\n<掲載レシピ:A108>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2878,7 +2878,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ルーンメイル",
+        "name": "Rune Mail",
         "note": "<LV:8>\n\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2959,7 +2959,7 @@
             }
         ],
         "iconIndex": 937,
-        "name": "木の盾",
+        "name": "Wooden Shield",
         "note": "<LV:1>\n<掲載レシピ:A112>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -2986,7 +2986,7 @@
             }
         ],
         "iconIndex": 929,
-        "name": "皮の盾",
+        "name": "Leather Shield",
         "note": "<LV:2>\n<掲載レシピ:A113>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3013,7 +3013,7 @@
             }
         ],
         "iconIndex": 955,
-        "name": "魚鱗の盾",
+        "name": "Fish Scale Shield",
         "note": "<LV:3>\n<掲載レシピ:A114>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3040,7 +3040,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "銀の盾",
+        "name": "Silver Shield",
         "note": "<LV:4>\n<掲載レシピ:A115>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3067,7 +3067,7 @@
             }
         ],
         "iconIndex": 961,
-        "name": "魔法の盾",
+        "name": "Magic Shield",
         "note": "<LV:5>\n<掲載レシピ:A116>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3094,7 +3094,7 @@
             }
         ],
         "iconIndex": 940,
-        "name": "エレメンタルシールド",
+        "name": "Elemental Shield",
         "note": "<LV:6>\n<掲載レシピ:A117>\n<分類:プリースト>\n\n\n",
         "params": [
             0,
@@ -3121,7 +3121,7 @@
             }
         ],
         "iconIndex": 956,
-        "name": "龍鱗の盾",
+        "name": "Dragon Scale Shield",
         "note": "<LV:7>\n<掲載レシピ:A118>\n<分類:プリースト>\n<合成材料:I81:4>",
         "params": [
             0,
@@ -3148,7 +3148,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "聖なる盾",
+        "name": "Holy Shield",
         "note": "<LV:8>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3229,7 +3229,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "キッチンミトン",
+        "name": "Kitchen Mitt",
         "note": "<LV:1>\n<掲載レシピ:A122>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3256,7 +3256,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "コットングローブ",
+        "name": "Cotton Gloves",
         "note": "<LV:2>\n<掲載レシピ:A123>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3283,7 +3283,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "プリティミトン",
+        "name": "Pretty Mitten",
         "note": "<LV:3>\n<掲載レシピ:A124>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3310,7 +3310,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "レザーグローブ",
+        "name": "Leather Gloves",
         "note": "<LV:4>\n<掲載レシピ:A125>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3337,7 +3337,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "プリーストグローブ",
+        "name": "Priest Glove",
         "note": "<LV:5>\n<掲載レシピ:A126>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3364,7 +3364,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "ヒーラーグローブ",
+        "name": "Healer's Gloves",
         "note": "<LV:6>\n<掲載レシピ:A127>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3391,7 +3391,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "マジックグローブ",
+        "name": "Magic Glove",
         "note": "<LV:7>\n<掲載レシピ:A128>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3418,7 +3418,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "ホーリーグローブ",
+        "name": "Holy Glove",
         "note": "<LV:8>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3499,7 +3499,7 @@
             }
         ],
         "iconIndex": 584,
-        "name": "癒しのオーブ",
+        "name": "Healing Orb",
         "note": "<LV:1>\n<掲載レシピ:A132>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3526,7 +3526,7 @@
             }
         ],
         "iconIndex": 650,
-        "name": "幻惑のオーブ",
+        "name": "Enchanting Orb",
         "note": "<LV:2>\n<掲載レシピ:A133>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3553,7 +3553,7 @@
             }
         ],
         "iconIndex": 589,
-        "name": "遠視のオーブ",
+        "name": "Far Sight Orb",
         "note": "<LV:3>\n<掲載レシピ:A134>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3580,7 +3580,7 @@
             }
         ],
         "iconIndex": 640,
-        "name": "火炎のオーブ",
+        "name": "Flame Orb",
         "note": "<LV:4>\n<掲載レシピ:A135>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3607,7 +3607,7 @@
             }
         ],
         "iconIndex": 653,
-        "name": "神秘のオーブ",
+        "name": "Mysterious Orb",
         "note": "<LV:5>\n<掲載レシピ:A136>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3634,7 +3634,7 @@
             }
         ],
         "iconIndex": 625,
-        "name": "灼熱のオーブ",
+        "name": "Orb of Scorching Heat",
         "note": "<LV:6>\n<掲載レシピ:A137>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3661,7 +3661,7 @@
             }
         ],
         "iconIndex": 629,
-        "name": "破邪のオーブ",
+        "name": "Orb of Exorcism",
         "note": "<LV:7>\n<掲載レシピ:A138>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3688,7 +3688,7 @@
             }
         ],
         "iconIndex": 585,
-        "name": "審判のオーブ",
+        "name": "Judgment Orb",
         "note": "<LV:8>\n<分類:プリースト>\n",
         "params": [
             0,
@@ -3769,7 +3769,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ブレストプレート",
+        "name": "Breastplate",
         "note": "<LV:1>\n<掲載レシピ:A152>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3796,7 +3796,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "鉄の兜",
+        "name": "Iron Helmet",
         "note": "<LV:2>\n<掲載レシピ:A173>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -3931,7 +3931,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫紋",
+        "name": "Lewd Mark",
         "note": "<acce:7>\n<backAcce:7>",
         "params": [
             0,
@@ -3958,7 +3958,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首A",
+        "name": "Black Nipples A",
         "note": "<acce:8>\n<backAcce:8>\n<alpha:15>\n<group:1>",
         "params": [
             0,
@@ -3985,7 +3985,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首B",
+        "name": "Black Nipples B",
         "note": "<acce:8>\n<backAcce:8>\n<alpha:30>\n<group:1>",
         "params": [
             0,
@@ -4066,7 +4066,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "スティールガード",
+        "name": "Steel Guard",
         "note": "<LV:2>\n<掲載レシピ:A153>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4093,7 +4093,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "チェインメイル",
+        "name": "Chain Mail",
         "note": "<LV:3>\n<掲載レシピ:A154>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4120,7 +4120,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "プレートアーマー",
+        "name": "Plate Armor",
         "note": "<LV:4>\n<掲載レシピ:A155>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4147,7 +4147,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ブリガンダイン",
+        "name": "Brigandine",
         "note": "<LV:5>\n<掲載レシピ:A156>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4174,7 +4174,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "フォートレス",
+        "name": "Fortress",
         "note": "<LV:6>\n<掲載レシピ:A157>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4201,7 +4201,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ミスリルアーマー",
+        "name": "Mithril Armor",
         "note": "<LV:7>\n<掲載レシピ:A158>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4228,7 +4228,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "アストラルアーマー",
+        "name": "Astral Armor",
         "note": "<LV:8>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4309,7 +4309,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "鉄の盾",
+        "name": "Iron Shield",
         "note": "<LV:1>\n<掲載レシピ:A162>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4336,7 +4336,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "はがねの盾",
+        "name": "Steel Shield",
         "note": "<LV:2>\n<掲載レシピ:A163>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4363,7 +4363,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "銀の盾",
+        "name": "Silver Shield",
         "note": "<LV:3>\n<掲載レシピ:A164>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4390,7 +4390,7 @@
             }
         ],
         "iconIndex": 957,
-        "name": "タワーシールド",
+        "name": "Tower Shield",
         "note": "<LV:4>\n<掲載レシピ:A165>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4417,7 +4417,7 @@
             }
         ],
         "iconIndex": 953,
-        "name": "ナイトシールド",
+        "name": "Knight Shield",
         "note": "<LV:5>\n<掲載レシピ:A166>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4444,7 +4444,7 @@
             }
         ],
         "iconIndex": 935,
-        "name": "力の盾",
+        "name": "Shield of Strength",
         "note": "<LV:6>\n<掲載レシピ:A167>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4471,7 +4471,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ミスリルシールド",
+        "name": "Mithril Shield",
         "note": "<LV:7>\n<掲載レシピ:A168>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4498,7 +4498,7 @@
             }
         ],
         "iconIndex": 959,
-        "name": "イージスの盾",
+        "name": "Aegis Shield",
         "note": "<LV:8>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4579,7 +4579,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "皮の兜",
+        "name": "Leather Helmet",
         "note": "<LV:1>\n<掲載レシピ:A172>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4633,7 +4633,7 @@
             }
         ],
         "iconIndex": 1843,
-        "name": "角兜",
+        "name": "Horned Helmet",
         "note": "<LV:3>\n<掲載レシピ:A174>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4660,7 +4660,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "はがねの兜",
+        "name": "Steel Helmet",
         "note": "<LV:4>\n<掲載レシピ:A175>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4687,7 +4687,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "銀の兜",
+        "name": "Silver Helmet",
         "note": "<LV:5>\n<掲載レシピ:A176>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4714,7 +4714,7 @@
             }
         ],
         "iconIndex": 1844,
-        "name": "ナイトヘルム",
+        "name": "Knight Helm",
         "note": "<LV:6>\n<掲載レシピ:A177>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4741,7 +4741,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ミスリルヘルム",
+        "name": "Mithril Helm",
         "note": "<LV:7>\n<掲載レシピ:A178>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4768,7 +4768,7 @@
             }
         ],
         "iconIndex": 1844,
-        "name": "勇者の兜",
+        "name": "Hero's Helmet",
         "note": "<LV:8>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4849,7 +4849,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "銅の小手",
+        "name": "Copper Gauntlets",
         "note": "<LV:1>\n<掲載レシピ:A182>\n<分類:ファイター>\n",
         "params": [
             0,
@@ -4876,7 +4876,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "はがねの小手",
+        "name": "Steel Gauntlets",
         "note": "<LV:2>\n<掲載レシピ:A183>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -4903,7 +4903,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "銀の小手",
+        "name": "Silver Gauntlets",
         "note": "<LV:3>\n<掲載レシピ:A184>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -4930,7 +4930,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ダイヤの小手",
+        "name": "Diamond Gauntlets",
         "note": "<LV:4>\n<掲載レシピ:A185>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -4957,7 +4957,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ミスリルの小手",
+        "name": "Mithril Gauntlets",
         "note": "<LV:5>\n<掲載レシピ:A186>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -4984,7 +4984,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "鬼神の小手",
+        "name": "Demon God's Gauntlet",
         "note": "<LV:6>\n<掲載レシピ:A187>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -5011,7 +5011,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "イージスの小手",
+        "name": "Aegis Gauntlets",
         "note": "<LV:7>\n<掲載レシピ:A188>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -5038,7 +5038,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ガントレット",
+        "name": "Gauntlet",
         "note": "<LV:8>\n<分類:ニンジャ>\n",
         "params": [
             0,
@@ -5389,7 +5389,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "裸",
+        "name": "Naked",
         "note": "<outer:a>",
         "params": [
             0,
@@ -5416,7 +5416,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "戦闘服",
+        "name": "Battle suit",
         "note": "<outer:b>\n",
         "params": [
             0,
@@ -5443,7 +5443,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "戦闘服B",
+        "name": "Battle Suit B",
         "note": "<outer:d>",
         "params": [
             0,
@@ -5470,7 +5470,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "売春婦の服",
+        "name": "Prostitute's clothes",
         "note": "<outer:c>",
         "params": [
             0,
@@ -5497,7 +5497,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "私服",
+        "name": "Casual clothes",
         "note": "<outer:e>",
         "params": [
             0,
@@ -5524,7 +5524,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラー服",
+        "name": "Sailor uniform",
         "note": "<outer:f>",
         "params": [
             0,
@@ -5551,7 +5551,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ニーソのみ",
+        "name": "Knee-high socks",
         "note": "<outer:h>",
         "params": [
             0,
@@ -5578,7 +5578,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "した脱ぎ",
+        "name": "Undressing from below",
         "note": "<outer:d>",
         "params": [
             0,
@@ -5605,7 +5605,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "裸エプロン",
+        "name": "Naked Apron",
         "note": "<outer:g>",
         "params": [
             0,
@@ -5632,7 +5632,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "した脱ぎ",
+        "name": "Undressing from below",
         "note": "<outer:h>",
         "params": [
             0,
@@ -5659,7 +5659,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マフラー",
+        "name": "Muffler",
         "note": "<outer:c>",
         "params": [
             0,
@@ -5686,7 +5686,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "忍者服",
+        "name": "Ninja Outfit",
         "note": "<outer:i>\n<noBote>",
         "params": [
             0,
@@ -5713,7 +5713,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラーした脱ぎ",
+        "name": "Sailor Uniform Stripping",
         "note": "<outer:i>",
         "params": [
             0,
@@ -5929,7 +5929,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツなし",
+        "name": "No panties",
         "note": "<innerBottom:a>",
         "params": [
             0,
@@ -5956,7 +5956,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツA",
+        "name": "Shorts A",
         "note": "<innerBottom:b>\n<innerBottomBote:g>",
         "params": [
             0,
@@ -5983,7 +5983,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツB",
+        "name": "Shorts B",
         "note": "<innerBottom:c>\n<innerBottomBote:e>",
         "params": [
             0,
@@ -6037,7 +6037,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "拘束具なし",
+        "name": "No restraints.",
         "note": "<innerBottom:a>",
         "params": [
             0,
@@ -6064,7 +6064,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "拘束具あり",
+        "name": "With restraints",
         "note": "<innerBottom:b>",
         "params": [
             0,
@@ -6118,7 +6118,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラなし",
+        "name": "No bra",
         "note": "<innerTop:a>",
         "params": [
             0,
@@ -6145,7 +6145,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラA",
+        "name": "Bra A",
         "note": "<innerTop:b>\n<innerTopBote:g>",
         "params": [
             0,
@@ -6172,7 +6172,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラB",
+        "name": "Bra B",
         "note": "<innerTop:c>\n<innerTopBote:e>",
         "params": [
             0,
@@ -6199,7 +6199,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラC",
+        "name": "Bra C",
         "note": "<innerTop:d>\n<innerTopBote:f>",
         "params": [
             0,
@@ -6469,7 +6469,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液A",
+        "name": "Semen A",
         "note": "<acce:3>\n<frontAcce:3>",
         "params": [
             0,
@@ -6496,7 +6496,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液B",
+        "name": "Semen B",
         "note": "<acce:4>\n<frontAcce:4>",
         "params": [
             0,
@@ -6523,7 +6523,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液C",
+        "name": "Semen C",
         "note": "<acce:2>\n<frontAcce:2>",
         "params": [
             0,
@@ -6550,7 +6550,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液D",
+        "name": "Semen D",
         "note": "<acce:6>\n<frontAcce:6>",
         "params": [
             0,
@@ -6577,7 +6577,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液",
+        "name": "Dripping Semen",
         "note": "<acce:5>\n<backAcce:5>\n<order:240>",
         "params": [
             0,
@@ -6631,7 +6631,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫紋",
+        "name": "Lewd Mark",
         "note": "<acce:7>\n<backAcce:7>\n<bote>",
         "params": [
             0,
@@ -6658,7 +6658,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首A",
+        "name": "Black Nipples A",
         "note": "<acce:8>\n<backAcce:8>\n<alpha:15>\n<group:1>",
         "params": [
             0,
@@ -6685,7 +6685,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首B",
+        "name": "Black Nipples B",
         "note": "<acce:8>\n<backAcce:8>\n<alpha:50>\n<group:1>",
         "params": [
             0,
@@ -6712,7 +6712,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首C",
+        "name": "Black Nipples C",
         "note": "<acce:8>\n<backAcce:8>\n<alpha:100>\n<group:1>",
         "params": [
             0,
@@ -6766,7 +6766,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳首ピアス",
+        "name": "Nipple Piercing",
         "note": "<acce:1>\n<backAcce:1>",
         "params": [
             0,
@@ -6793,7 +6793,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "へそピアス",
+        "name": "Belly Button Piercing",
         "note": "<acce:9>\n<backAcce:9>\n<bote>",
         "params": [
             0,
@@ -6820,7 +6820,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "首輪",
+        "name": "Collar",
         "note": "<acce:10>\n<middleAcce:10>\n",
         "params": [
             0,
@@ -6847,7 +6847,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛A",
+        "name": "Pubic Hair A",
         "note": "<acce:15>\n<backAcce:15>\n",
         "params": [
             0,
@@ -6874,7 +6874,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛B",
+        "name": "Pubic Hair B",
         "note": "<acce:16>\n<backAcce:16>\n",
         "params": [
             0,
@@ -6901,7 +6901,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "陰毛C",
+        "name": "Pubic Hair C",
         "note": "<acce:17>\n<backAcce:17>\n",
         "params": [
             0,
@@ -6982,7 +6982,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きA",
+        "name": "Doodle A",
         "note": "<acce:20>\n<backAcce:20>\n",
         "params": [
             0,
@@ -7009,7 +7009,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きB",
+        "name": "Doodle B",
         "note": "<acce:21>\n<backAcce:21>\n",
         "params": [
             0,
@@ -7063,7 +7063,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "靴(ドット絵のみ)",
+        "name": "Shoes (Dot Art Only)",
         "note": "<acce:89>",
         "params": [
             0,
@@ -7090,7 +7090,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マスク",
+        "name": "Mask",
         "note": "<acce:96>\n<frontAcce:96>\n<order:239>",
         "params": [
             0,
@@ -7198,7 +7198,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ",
+        "name": "Cheek",
         "note": "<acce:99>\n<frontAcce:99>\n",
         "params": [
             0,
@@ -7252,7 +7252,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情A",
+        "name": "Expression A",
         "note": "<face:1>\n<order:501>",
         "params": [
             0,
@@ -7279,7 +7279,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情B",
+        "name": "Expression B",
         "note": "<face:2>\n<order:502>",
         "params": [
             0,
@@ -7306,7 +7306,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情C",
+        "name": "Facial expression C",
         "note": "<face:3>\n<order:503>",
         "params": [
             0,
@@ -7333,7 +7333,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情D",
+        "name": "Facial expression D",
         "note": "<face:4>\n<order:504>",
         "params": [
             0,
@@ -7360,7 +7360,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情E",
+        "name": "Facial expression E",
         "note": "<face:5>\n<order:505>",
         "params": [
             0,
@@ -7387,7 +7387,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情F",
+        "name": "Facial expression F",
         "note": "<face:6>\n<order:506>",
         "params": [
             0,
@@ -7414,7 +7414,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情G",
+        "name": "Facial expression G",
         "note": "<face:7>\n<order:507>",
         "params": [
             0,
@@ -7441,7 +7441,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情H",
+        "name": "Facial expression H",
         "note": "<face:8>\n<order:508>",
         "params": [
             0,
@@ -7468,7 +7468,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情I",
+        "name": "Expression I",
         "note": "<face:9>\n<order:509>",
         "params": [
             0,
@@ -7495,7 +7495,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情J",
+        "name": "Facial expression J",
         "note": "<face:10>\n<order:510>",
         "params": [
             0,
@@ -7522,7 +7522,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情K",
+        "name": "Expression K",
         "note": "<face:11>\n<order:511>",
         "params": [
             0,
@@ -7549,7 +7549,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情L",
+        "name": "Facial expression L",
         "note": "<face:12>\n<order:512>",
         "params": [
             0,
@@ -7576,7 +7576,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情M",
+        "name": "Expression M",
         "note": "<face:13>\n<order:513>",
         "params": [
             0,
@@ -8008,7 +8008,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ニーソなし",
+        "name": "No knee socks",
         "note": "<acce:95>\n<backAcce:95>\n<group:95>",
         "params": [
             0,
@@ -8035,7 +8035,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ニーソあり",
+        "name": "Knee-high socks included",
         "note": "<acce:96>\n<backAcce:96>\n<group:95>",
         "params": [
             0,
@@ -8062,7 +8062,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "結婚指輪",
+        "name": "Wedding Ring",
         "note": "<acce:97>\n<frontAcce:97>",
         "params": [
             0,
@@ -8089,7 +8089,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "眼帯",
+        "name": "Eyepatch",
         "note": "<acce:98>\n<frontAcce:98>",
         "params": [
             0,
@@ -8116,7 +8116,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "司祭の帽子",
+        "name": "Priest's Hat",
         "note": "<acce:35>\n<frontAcce:35>",
         "params": [
             0,
@@ -8197,7 +8197,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "焼印",
+        "name": "Burn Mark",
         "note": "<acce:13>\n<backAcce:13>\n<bote>\n<order:265>\n",
         "params": [
             0,
@@ -10779,7 +10779,7 @@
     {
         "id": 401,
         "atypeId": 5,
-        "description": "部隊のクリティカル率が１０％アップする",
+        "description": "The critical rate of the unit increases by 10%.",
         "etypeId": 2,
         "traits": [
             {
@@ -10789,7 +10789,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "★必殺の刃",
+        "name": "★Blade of Death",
         "note": "",
         "params": [
             0,
@@ -10806,11 +10806,11 @@
     {
         "id": 402,
         "atypeId": 5,
-        "description": "敵からのダメージを１カットする",
+        "description": "Reduce damage from enemies by 1 cut.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 129,
-        "name": "★全力ガード",
+        "name": "★Full Power Guard",
         "note": "<reduceDamage:1>",
         "params": [
             0,
@@ -10837,7 +10837,7 @@
             }
         ],
         "iconIndex": 204,
-        "name": "目立つ姿",
+        "name": "Eye-catching appearance",
         "note": "",
         "params": [
             0,
@@ -10864,7 +10864,7 @@
             }
         ],
         "iconIndex": 82,
-        "name": "素早い動き",
+        "name": "Swift Movement",
         "note": "",
         "params": [
             0,
@@ -10891,7 +10891,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "怪力",
+        "name": "Super Strength",
         "note": "<damageUp:10>",
         "params": [
             0,
@@ -10908,7 +10908,7 @@
     {
         "id": 406,
         "atypeId": 5,
-        "description": "部隊のクリティカル率が３％アップする",
+        "description": "The critical rate of the unit increases by 3%.",
         "etypeId": 2,
         "traits": [
             {
@@ -10923,7 +10923,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "集中力",
+        "name": "Concentration",
         "note": "",
         "params": [
             0,
@@ -10977,7 +10977,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "剛力",
+        "name": "Power",
         "note": "<damageUp:12>",
         "params": [
             0,
@@ -11004,7 +11004,7 @@
             }
         ],
         "iconIndex": 82,
-        "name": "脱兎の技",
+        "name": "Rapid Rabbit Technique",
         "note": "",
         "params": [
             0,
@@ -11048,11 +11048,11 @@
     {
         "id": 411,
         "atypeId": 5,
-        "description": "攻撃スキルの発動率が２％上がる",
+        "description": "The activation rate of the attack skill increases by 2%.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 13,
-        "name": "★号令",
+        "name": "★Command",
         "note": "<skillUp:2>",
         "params": [
             0,
@@ -12132,7 +12132,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "貧相な男",
+        "name": "Skinny man",
         "note": "<actor:51>",
         "params": [
             2,
@@ -12159,7 +12159,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "農民風の男",
+        "name": "Farmer-style man",
         "note": "<actor:52>",
         "params": [
             3,
@@ -12186,7 +12186,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "薄汚れた男",
+        "name": "Dirty man",
         "note": "<actor:53>",
         "params": [
             3,
@@ -12240,7 +12240,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "司祭",
+        "name": "Priest",
         "note": "<actor:55>",
         "params": [
             3,
@@ -12267,7 +12267,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "ブルーノ",
+        "name": "Bruno",
         "note": "<actor:56>",
         "params": [
             3,
@@ -12294,7 +12294,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "ロリコンの男",
+        "name": "Lolicon man",
         "note": "<actor:57>",
         "params": [
             3,
@@ -12392,7 +12392,7 @@
     {
         "id": 461,
         "atypeId": 5,
-        "description": "酒場に入り浸っている男。\n身なりも汚い。",
+        "description": "A man who hangs out in the bar. He also has a dirty\nappearance.",
         "etypeId": 2,
         "traits": [
             {
@@ -12402,7 +12402,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "飲んだくれの男",
+        "name": "Drunken man",
         "note": "<actor:61>",
         "params": [
             3,
@@ -12419,7 +12419,7 @@
     {
         "id": 462,
         "atypeId": 5,
-        "description": "体からすごい体臭のする男",
+        "description": "A man with a strong body odor coming from his body.",
         "etypeId": 2,
         "traits": [
             {
@@ -12429,7 +12429,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "不潔な男",
+        "name": "Dirty man",
         "note": "<actor:62>",
         "params": [
             3,
@@ -12456,7 +12456,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "足をひきずった男",
+        "name": "A man who was dragging his leg.",
         "note": "<actor:63>",
         "params": [
             3,
@@ -12473,7 +12473,7 @@
     {
         "id": 464,
         "atypeId": 5,
-        "description": "ゴルドー紹介に借金をしている戦士。\nゴルドーの護衛をしている。",
+        "description": "The warrior who owes a debt to Goludo. They are guarding\nGoludo.",
         "etypeId": 2,
         "traits": [
             {
@@ -12483,7 +12483,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "借金苦の戦士",
+        "name": "Warrior of Debt Troubles",
         "note": "<actor:64>",
         "params": [
             5,
@@ -12510,7 +12510,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "でかくてにぶい男",
+        "name": "A big and dull man.",
         "note": "<actor:65>",
         "params": [
             0,
@@ -12537,7 +12537,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "しつこい物乞い",
+        "name": "Persistent Beggar",
         "note": "<actor:66>",
         "params": [
             0,
@@ -12564,7 +12564,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "すごいにおいの男",
+        "name": "A man with an amazing scent",
         "note": "<actor:67>",
         "params": [
             0,
@@ -12591,7 +12591,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "すばしっこい男",
+        "name": "Agile man",
         "note": "<actor:68>",
         "params": [
             0,
@@ -12618,7 +12618,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "いやらしい目の男",
+        "name": "A man with lewd eyes",
         "note": "<actor:69>",
         "params": [
             0,
@@ -12645,7 +12645,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "セクハラ好きの村人",
+        "name": "Villager who likes sexual harassment",
         "note": "<actor:70>",
         "params": [
             0,
@@ -12672,7 +12672,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "むっつりな村人",
+        "name": "Sullen Villager",
         "note": "<actor:71>",
         "params": [
             0,
@@ -12699,7 +12699,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "村長",
+        "name": "Village Chief",
         "note": "<actor:72>",
         "params": [
             0,
@@ -12726,7 +12726,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "ラルゴ",
+        "name": "Largo",
         "note": "<actor:73>",
         "params": [
             0,
@@ -12753,7 +12753,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "グルカ",
+        "name": "Guruka",
         "note": "<actor:74>",
         "params": [
             0,
@@ -12780,7 +12780,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "シン",
+        "name": "Shin",
         "note": "<actor:75>",
         "params": [
             0,
@@ -12807,7 +12807,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "ゲスで雑魚な盗賊",
+        "name": "A lowly and pathetic thief",
         "note": "<actor:76>",
         "params": [
             0,
@@ -12888,7 +12888,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "野盗くずれの男",
+        "name": "Bandit Scum Man",
         "note": "<actor:79>",
         "params": [
             0,
@@ -12915,7 +12915,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "引退した戦士",
+        "name": "Retired Warrior",
         "note": "<actor:80>",
         "params": [
             0,
@@ -12996,7 +12996,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "金持ちの息子",
+        "name": "Rich son",
         "note": "<actor:83>",
         "params": [
             0,
@@ -13185,7 +13185,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "自称大魔導士",
+        "name": "Self-proclaimed Great Wizard",
         "note": "<actor:90>",
         "params": [
             0,
@@ -13212,7 +13212,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "ニセ勇者",
+        "name": "Fake Hero",
         "note": "<actor:91>",
         "params": [
             0,
@@ -13239,7 +13239,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "オーク",
+        "name": "Orc",
         "note": "<actor:92>",
         "params": [
             0,
@@ -13266,7 +13266,7 @@
             }
         ],
         "iconIndex": 1675,
-        "name": "コバック",
+        "name": "Kobak",
         "note": "<actor:93>",
         "params": [
             0,
@@ -13482,7 +13482,7 @@
             }
         ],
         "iconIndex": 1674,
-        "name": "ギルドの女",
+        "name": "Guild Girl",
         "note": "\n<hint:ギルドに加入する>",
         "params": [
             0,
@@ -13509,7 +13509,7 @@
             }
         ],
         "iconIndex": 1674,
-        "name": "はじめての浮気",
+        "name": "First Infidelity",
         "note": "<hintId:501>\n\n<hint:グルカと浮気セックス>",
         "params": [
             0,
@@ -13536,7 +13536,7 @@
             }
         ],
         "iconIndex": 1674,
-        "name": "噂のヤリマン",
+        "name": "Rumored Slut",
         "note": "<hintId:501>\n\n<hint:10人以上とセックスをする>",
         "params": [
             0,
@@ -13563,7 +13563,7 @@
             }
         ],
         "iconIndex": 1674,
-        "name": "ビッチ妻セレナ",
+        "name": "Bitch Wife Selena",
         "note": "<hintId:503>\n\n<hint:20人以上とセックスをする>",
         "params": [
             0,
@@ -13590,7 +13590,7 @@
             }
         ],
         "iconIndex": 1718,
-        "name": "口淫調教",
+        "name": "Oral Training",
         "note": "<hintId:501>\n\n<hint:フェラ解禁>",
         "params": [
             0,
@@ -13617,7 +13617,7 @@
             }
         ],
         "iconIndex": 1710,
-        "name": "アナル開発",
+        "name": "Anal Development",
         "note": "<hintId:501>\n\n<hint:アナル解禁>",
         "params": [
             0,
@@ -13644,7 +13644,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "許されない妊娠",
+        "name": "Forbidden Pregnancy",
         "note": "<hintId:502>\n\n<hint:夫以外の男の子を孕む>",
         "params": [
             0,
@@ -13671,7 +13671,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "孕み女",
+        "name": "Pregnant Woman",
         "note": "<hintId:507>\n\n<hint:夫以外の男の子を10回孕む>",
         "params": [
             0,
@@ -13698,7 +13698,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "新しい家族ができました",
+        "name": "I have a new family now.",
         "note": "<hintId:507>\n\n<hint:夫以外の男の子を生む>",
         "params": [
             0,
@@ -13725,7 +13725,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "やり場のない母乳",
+        "name": "Unutilized Breast Milk",
         "note": "<hintId:509>\n\n<hint:夫以外の男の子を2回生む>",
         "params": [
             0,
@@ -13752,7 +13752,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "親子丼",
+        "name": "Oyakodon",
         "note": "<hintId:501>\n\n<hint:親子で傭兵輪姦>",
         "params": [
             0,
@@ -13779,7 +13779,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "肉便器母娘",
+        "name": "Flesh Toilet Mother and Daughter",
         "note": "<hintId:511>\n\n\n<hint:親子で傭兵輪姦を５回>",
         "params": [
             0,
@@ -13806,7 +13806,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "親子で孕まされました",
+        "name": "Impregnated by Parent and Child",
         "note": "<hintId:511>\n\n<hint:同じ男ユニットにセレナとリンが孕まされる>",
         "params": [
             0,
@@ -13833,7 +13833,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "妊婦母娘",
+        "name": "Pregnant Mother and Daughter",
         "note": "<hintId:511>\n\n<hint:セレナとリンが同時に妊娠している>",
         "params": [
             0,
@@ -13860,7 +13860,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "そこのけそこのけ妊婦が通る",
+        "name": "Excuse me, excuse me, a pregnant woman is passing by.",
         "note": "<hintId:501>\n\n<hint:全員が同時に妊娠>",
         "params": [
             0,
@@ -13887,7 +13887,7 @@
             }
         ],
         "iconIndex": 1715,
-        "name": "市長！人口が増加しました！",
+        "name": "Mayor! The population has increased!",
         "note": "<hintId:501>\n\n<hint:全員合計で10回出産>",
         "params": [
             0,
@@ -13941,7 +13941,7 @@
             }
         ],
         "iconIndex": 89,
-        "name": "結成！セレナパーティー",
+        "name": "Formation! Selena Party",
         "note": "<hintId:501>\n\n<hint:初めて傭兵編成>",
         "params": [
             0,
@@ -13968,7 +13968,7 @@
             }
         ],
         "iconIndex": 88,
-        "name": "傭兵団の発展",
+        "name": "Mercenary Corps Development",
         "note": "<hintId:518>\n\n<hint:傭兵を5人雇用>",
         "params": [
             0,
@@ -13995,7 +13995,7 @@
             }
         ],
         "iconIndex": 87,
-        "name": "セレナ軍団の野望",
+        "name": "Selena's Army's Ambition",
         "note": "<hintId:519>\n\n<hint:傭兵を10人雇用>",
         "params": [
             0,
@@ -14022,7 +14022,7 @@
             }
         ],
         "iconIndex": 1104,
-        "name": "初めての勝利",
+        "name": "First Victory",
         "note": "\n<hint:戦闘に勝利する>\n",
         "params": [
             0,
@@ -14049,7 +14049,7 @@
             }
         ],
         "iconIndex": 1111,
-        "name": "迷宮の探索者",
+        "name": "Explorer of the Labyrinth",
         "note": "<hintId:521>\n<hint:戦闘に10回勝利する>\n",
         "params": [
             0,
@@ -14076,7 +14076,7 @@
             }
         ],
         "iconIndex": 1110,
-        "name": "ベテラン冒険者",
+        "name": "Veteran Adventurer",
         "note": "<hintId:522>\n<hint:戦闘に50回勝利する>\n",
         "params": [
             0,
@@ -14103,7 +14103,7 @@
             }
         ],
         "iconIndex": 1110,
-        "name": "百戦錬磨",
+        "name": "Battle-hardened",
         "note": "<hintId:523>\n<hint:戦闘に100回勝利する>\n",
         "params": [
             0,
@@ -14130,7 +14130,7 @@
             }
         ],
         "iconIndex": 1110,
-        "name": "伝説の冒険者",
+        "name": "Legendary Adventurer",
         "note": "<hintId:524>\n<hint:戦闘に150回勝利する>\n",
         "params": [
             0,
@@ -14184,7 +14184,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "そうそう、思い出してきた",
+        "name": "Oh yeah, I just remembered.",
         "note": "<hintId:501>\n<hint:Lv3到達>\n",
         "params": [
             0,
@@ -14211,7 +14211,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "少し勘が戻ってきました",
+        "name": "I'm starting to regain some of my senses.",
         "note": "<hintId:527>\n<hint:Lv8到達>\n",
         "params": [
             0,
@@ -14238,7 +14238,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "もう一人前",
+        "name": "One more serving",
         "note": "<hintId:528>\n<hint:Lv10到達>\n",
         "params": [
             0,
@@ -14265,7 +14265,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "マスターレベル到達！",
+        "name": "Master Level Reached!",
         "note": "<hintId:529>\n<hint:Lv13到達>\n",
         "params": [
             0,
@@ -14292,7 +14292,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "これこそセレナ・ヴィルオール",
+        "name": "This is Selena Vioruoru",
         "note": "<hintId:530>\n<hint:Lv20到達>\n",
         "params": [
             0,
@@ -14373,7 +14373,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "何故徒歩で…？",
+        "name": "Why on foot...?",
         "note": "<hintId:527>\n<hint:ロープ取得後、歩いてダンジョンを出る>\n",
         "params": [
             0,
@@ -14400,7 +14400,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "千里の道も",
+        "name": "Even a journey of a thousand miles",
         "note": "<hintId:501>\n<hint:1000歩達成>\n",
         "params": [
             0,
@@ -14427,7 +14427,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ウォーキング・奥さん",
+        "name": "Walking Wife",
         "note": "<hintId:535>\n<hint:5000歩達成>\n",
         "params": [
             0,
@@ -14454,7 +14454,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "健康は足元から",
+        "name": "Health starts from the feet.",
         "note": "<hintId:536>\n<hint:10000歩達成>\n",
         "params": [
             0,
@@ -14481,7 +14481,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ふふふ、よくぞ見つけた",
+        "name": "Hehehe, you found me well.",
         "note": "<hintId:501>\n<hint:隠し扉発見>\n",
         "params": [
             0,
@@ -14508,7 +14508,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "穴抜けネズミ",
+        "name": "Hole-Piercing Mouse",
         "note": "<hintId:538>\n<hint:隠し扉を5個発見>\n",
         "params": [
             0,
@@ -14535,7 +14535,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ダンジョンを貫くもの",
+        "name": "The one that pierces through the dungeon",
         "note": "<hintId:539>\n<hint:隠し扉を7個発見>\n",
         "params": [
             0,
@@ -14562,7 +14562,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "バカな、この私が…",
+        "name": "Stupid, me...",
         "note": "<hintId:501>\n<hint:敗北撤退>\n",
         "params": [
             0,
@@ -14589,7 +14589,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "帰ろう。帰ればまた来る事ができる。",
+        "name": "Let's go home. If we go back, we can come again.",
         "note": "<hintId:541>\n<hint:敗北撤退10回目>\n",
         "params": [
             0,
@@ -14616,7 +14616,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "私たちの冒険はこれからだ！",
+        "name": "Our adventure is just beginning!",
         "note": "\n<hintId:501>\n<hint:２層に到達する>",
         "params": [
             0,
@@ -14643,7 +14643,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "毒のダンジョンを超えて",
+        "name": "Beyond the Poison Dungeon",
         "note": "\n<hintId:543>\n<hint:３層に到達する>",
         "params": [
             0,
@@ -14670,7 +14670,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "安らかに眠れ",
+        "name": "Sleep peacefully.",
         "note": "\n<hintId:544>\n<hint:４層に到達する>",
         "params": [
             0,
@@ -14697,7 +14697,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "そして最下層",
+        "name": "And the lowest level",
         "note": "\n<hintId:545>\n<hint:５層に到達する>",
         "params": [
             0,
@@ -15636,7 +15636,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 223,
-        "name": "合成初心者",
+        "name": "Synthesis Beginner",
         "note": "<hint:装備作成を５回行う>\n<hintId:501>",
         "params": [
             0,
@@ -15657,7 +15657,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 223,
-        "name": "とんてんかん",
+        "name": "Tontenkan",
         "note": "<hint:装備作成を１５回行う>\n<hintId:581>\n",
         "params": [
             0,
@@ -15678,7 +15678,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 223,
-        "name": "錬金術の壺",
+        "name": "Alchemy Flask",
         "note": "<hint:装備作成を３０回行う>\n<hintId:582>\n",
         "params": [
             0,
@@ -15699,7 +15699,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 223,
-        "name": "名工ハンマー",
+        "name": "Master Craftsman's Hammer",
         "note": "<hint:装備作成を４０回行う>\n<hintId:583>\n",
         "params": [
             0,
@@ -15720,7 +15720,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 223,
-        "name": "アルティメットブースター",
+        "name": "Ultimate Booster",
         "note": "<hint:装備作成を５０回行う>\n<hintId:584>\n",
         "params": [
             0,
@@ -15741,7 +15741,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 210,
-        "name": "お宝ゲットだぜ！",
+        "name": "I got the treasure!",
         "note": "<hint:宝箱を１回開ける>\n<hintId:501>\n",
         "params": [
             0,
@@ -15762,7 +15762,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 210,
-        "name": "お宝さらにゲットだぜ！",
+        "name": "I got even more treasure!",
         "note": "<hint:宝箱を５回開ける>\n<hintId:586>\n",
         "params": [
             0,
@@ -15783,7 +15783,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 210,
-        "name": "おおっと",
+        "name": "Oops",
         "note": "<hint:宝箱を１０回開ける>\n<hintId:586>\n",
         "params": [
             0,
@@ -15804,7 +15804,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 210,
-        "name": "トレジャーハンター",
+        "name": "Treasure Hunter",
         "note": "<hint:宝箱を１５回開ける>\n<hintId:588>\n",
         "params": [
             0,
@@ -15825,7 +15825,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 210,
-        "name": "宝箱マニア",
+        "name": "Treasure Chest Mania",
         "note": "<hint:宝箱を２０回開ける>\n<hintId:589>\n",
         "params": [
             0,
@@ -15873,7 +15873,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 125,
-        "name": "勲章コレクター",
+        "name": "Medal Collector",
         "note": "<hint:勲章３０個達成>\n<hintId:501>\n",
         "params": [
             0,
@@ -16083,7 +16083,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 140,
-        "name": "隅から隅まで",
+        "name": "From corner to corner",
         "note": "<hint:１層のマップを埋める>\n<hintId:501>\n<gold:500>",
         "params": [
             0,
@@ -16104,7 +16104,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 140,
-        "name": "マップを埋めるよろこび…",
+        "name": "The joy of filling the map...",
         "note": "<hint:２層のマップを埋める>\n<hintId:600>\n<gold:1000>",
         "params": [
             0,
@@ -16125,7 +16125,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 140,
-        "name": "最後の1マス",
+        "name": "The Last 1 Square",
         "note": "<hint:３層のマップを埋める>\n<hintId:601>\n<gold:1500>",
         "params": [
             0,
@@ -16146,7 +16146,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 140,
-        "name": "マップを！もっとマップを！",
+        "name": "Map! More map!",
         "note": "<hint:４層のマップを埋める>\n<hintId:602>\n<gold:2000>",
         "params": [
             0,
@@ -16167,7 +16167,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 140,
-        "name": "すべてをしるもの",
+        "name": "The one who knows everything",
         "note": "<hint:５層のマップを埋める>\n<hintId:603>\n<gold:3000>",
         "params": [
             0,

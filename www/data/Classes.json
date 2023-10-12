@@ -72,7 +72,7 @@
                 "skillId": 101
             }
         ],
-        "name": "セレナ",
+        "name": "Selena",
         "note": "",
         "params": [
             [
@@ -1005,7 +1005,7 @@
                 "skillId": 149
             }
         ],
-        "name": "リン",
+        "name": "Rin",
         "note": "",
         "params": [
             [
@@ -1933,7 +1933,7 @@
                 "skillId": 411
             }
         ],
-        "name": "ロナ",
+        "name": "Rona",
         "note": "",
         "params": [
             [
@@ -2826,7 +2826,7 @@
                 "skillId": 121
             }
         ],
-        "name": "ソフィア",
+        "name": "Sophia",
         "note": "",
         "params": [
             [
@@ -3699,7 +3699,7 @@
                 "skillId": 1291
             }
         ],
-        "name": "エリス",
+        "name": "Eris",
         "note": "",
         "params": [
             [
@@ -11517,7 +11517,7 @@
             }
         ],
         "learnings": [],
-        "name": "ファイター",
+        "name": "Fighter",
         "note": "",
         "params": [
             [
@@ -12394,7 +12394,7 @@
             }
         ],
         "learnings": [],
-        "name": "傭兵たち",
+        "name": "Mercenaries",
         "note": "",
         "params": [
             [
@@ -43612,7 +43612,7 @@
                 "skillId": 701
             }
         ],
-        "name": "貧相な男",
+        "name": "Skinny man",
         "note": "",
         "params": [
             [
@@ -44485,7 +44485,7 @@
                 "skillId": 708
             }
         ],
-        "name": "農民風の男",
+        "name": "Farmer-style man",
         "note": "",
         "params": [
             [
@@ -45358,7 +45358,7 @@
                 "skillId": 707
             }
         ],
-        "name": "薄汚れた男",
+        "name": "Dirty man",
         "note": "",
         "params": [
             [
@@ -52300,7 +52300,7 @@
                 "skillId": 709
             }
         ],
-        "name": "飲んだくれの男",
+        "name": "Drunken man",
         "note": "",
         "params": [
             [
@@ -53173,7 +53173,7 @@
                 "skillId": 701
             }
         ],
-        "name": "不潔な男",
+        "name": "Dirty man",
         "note": "",
         "params": [
             [
@@ -54046,7 +54046,7 @@
                 "skillId": 704
             }
         ],
-        "name": "足をひきずった男",
+        "name": "A man who dragged his feet",
         "note": "",
         "params": [
             [
@@ -54919,7 +54919,7 @@
                 "skillId": 710
             }
         ],
-        "name": "借金苦の戦士",
+        "name": "Debt-ridden Warrior",
         "note": "",
         "params": [
             [
@@ -55792,7 +55792,7 @@
                 "skillId": 705
             }
         ],
-        "name": "でかくてにぶい男",
+        "name": "A big and dull man.",
         "note": "",
         "params": [
             [
@@ -56665,7 +56665,7 @@
                 "skillId": 701
             }
         ],
-        "name": "しつこい物乞い",
+        "name": "Persistent beggar",
         "note": "",
         "params": [
             [
@@ -57538,7 +57538,7 @@
                 "skillId": 703
             }
         ],
-        "name": "すごいにおいの男",
+        "name": "A man with an amazing smell",
         "note": "",
         "params": [
             [
@@ -58411,7 +58411,7 @@
                 "skillId": 707
             }
         ],
-        "name": "すばしっこい男",
+        "name": "Agile Man",
         "note": "",
         "params": [
             [
@@ -59284,7 +59284,7 @@
                 "skillId": 707
             }
         ],
-        "name": "いやらしい目の男",
+        "name": "A man with lewd eyes",
         "note": "",
         "params": [
             [
@@ -60157,7 +60157,7 @@
                 "skillId": 714
             }
         ],
-        "name": "セクハラ好きの村人",
+        "name": "Villager who likes sexual harassment",
         "note": "",
         "params": [
             [
@@ -61030,7 +61030,7 @@
                 "skillId": 713
             }
         ],
-        "name": "むっつりな村人",
+        "name": "Grumpy Villager",
         "note": "",
         "params": [
             [
@@ -61903,7 +61903,7 @@
                 "skillId": 712
             }
         ],
-        "name": "村長",
+        "name": "Village Chief",
         "note": "",
         "params": [
             [
@@ -62776,7 +62776,7 @@
                 "skillId": 712
             }
         ],
-        "name": "ラルゴ",
+        "name": "Largo",
         "note": "",
         "params": [
             [
@@ -63649,7 +63649,7 @@
                 "skillId": 712
             }
         ],
-        "name": "グルカ",
+        "name": "Guruka",
         "note": "",
         "params": [
             [
@@ -64522,7 +64522,7 @@
                 "skillId": 718
             }
         ],
-        "name": "シン",
+        "name": "Shin",
         "note": "",
         "params": [
             [
@@ -65395,7 +65395,7 @@
                 "skillId": 717
             }
         ],
-        "name": "ゲスで雑魚な盗賊",
+        "name": "A lowly and pathetic thief",
         "note": "",
         "params": [
             [
@@ -67135,7 +67135,7 @@
                 "skillId": 713
             }
         ],
-        "name": "ゴルドー",
+        "name": "Goludo",
         "note": "",
         "params": [
             [
@@ -68008,7 +68008,7 @@
                 "skillId": 715
             }
         ],
-        "name": "野盗くずれの男",
+        "name": "Male Bandit",
         "note": "",
         "params": [
             [
@@ -68881,7 +68881,7 @@
                 "skillId": 716
             }
         ],
-        "name": "引退した戦士",
+        "name": "Retired Warrior",
         "note": "",
         "params": [
             [
@@ -77557,7 +77557,7 @@
                 "skillId": 718
             }
         ],
-        "name": "自称大魔導士",
+        "name": "Self-proclaimed Great Wizard",
         "note": "",
         "params": [
             [
@@ -78430,7 +78430,7 @@
                 "skillId": 719
             }
         ],
-        "name": "ニセ勇者",
+        "name": "Fake Hero",
         "note": "",
         "params": [
             [

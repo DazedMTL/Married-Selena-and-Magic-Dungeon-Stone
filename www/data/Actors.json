@@ -23,7 +23,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セレナ",
+        "name": "Selena",
         "nickname": "Mage",
         "note": "<経験人数:1>\n<中出し回数:13>\n<妊娠回数:1>\n<出産回数:1>\n<膣開発度:1>\n<クリ開発度:0>\n<乳首開発度:0>\n<アナル開発度:0>\n<キス回数:25>\n<order:3>",
         "profile": ""
@@ -45,7 +45,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リン",
+        "name": "Rin",
         "nickname": "Ninja",
         "note": "<order:1>\n\n<経験人数:0>\n<中出し回数:0>\n<妊娠回数:0>\n<出産回数:0>\n<膣開発度:0>\n<クリ開発度:0>\n<乳首開発度:0>\n<アナル開発度:0>\n<キス回数:0>\n<order:2>",
         "profile": ""
@@ -67,7 +67,7 @@
         "traits": [],
         "initialLevel": 4,
         "maxLevel": 99,
-        "name": "ロナ",
+        "name": "Rona",
         "nickname": "Thief",
         "note": "<経験人数:32>\n<中出し回数:285>\n<妊娠回数:0>\n<出産回数:0>\n<膣開発度:23>\n<クリ開発度:32>\n<乳首開発度:18>\n<アナル開発度:64> \n<膣イキ:34>\n<クリイキ:53>\n<乳首イキ:5>\n<アナルイキ:19>\n<口内射精:72>\n<アナル射精:76>\n<ぶっかけ回数:37>\n<キス回数:534>\n<order:4>",
         "profile": ""
@@ -95,7 +95,7 @@
         ],
         "initialLevel": 3,
         "maxLevel": 99,
-        "name": "ソフィア",
+        "name": "Sophia",
         "nickname": "Priest",
         "note": "<経験人数:67>\n<中出し回数:1223>\n<妊娠回数:3>\n<出産回数:3>\n<膣開発度:61>\n<クリ開発度:47>\n<乳首開発度:78>\n<アナル開発度:14>\n<膣イキ:102>\n<クリイキ:157>\n<乳首イキ:30>\n<アナルイキ:57>\n<口内射精:312>\n<アナル射精:411>\n<ぶっかけ回数:203>\n<キス回数:2313>\n<order:2>",
         "profile": ""
@@ -123,7 +123,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アカサタナ",
+        "name": "Akasatana",
         "nickname": "Ninja",
         "note": "<order:1>",
         "profile": ""
@@ -145,7 +145,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ジュリア",
+        "name": "Julia",
         "nickname": "",
         "note": "<経験人数:134>\n<中出し回数:9482>\n<妊娠回数:10>\n<出産回数:10>",
         "profile": ""
@@ -167,7 +167,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ラルゴ",
+        "name": "Largo",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -189,7 +189,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ランディ",
+        "name": "Randy",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -211,7 +211,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "メル",
+        "name": "Mel",
         "nickname": "",
         "note": "<経験人数:23>\n<中出し回数:182>\n<妊娠回数:2>\n<出産回数:2>",
         "profile": ""
@@ -233,7 +233,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "判定用アクター",
+        "name": "Judgment Actor",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -267,7 +267,7 @@
         ],
         "initialLevel": 11,
         "maxLevel": 99,
-        "name": "グルカ",
+        "name": "Guruka",
         "nickname": "Fighter",
         "note": "<order:1>",
         "profile": ""
@@ -289,7 +289,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ジュリア",
+        "name": "Julia",
         "nickname": "",
         "note": "<経験人数:134>\n<中出し回数:9482>\n<妊娠回数:10>\n<出産回数:10>",
         "profile": ""
@@ -311,7 +311,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "シン",
+        "name": "Shin",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -334,7 +334,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "種親",
+        "name": "Parent",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -391,7 +391,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "コバック",
+        "name": "Kobakku",
         "nickname": "Fighter",
         "note": "<前衛>\n<傭兵>",
         "profile": ""
@@ -425,7 +425,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "傭兵部隊B",
+        "name": "Mercenary Unit B",
         "nickname": "Fighter",
         "note": "<前衛>\n<傭兵>",
         "profile": ""
@@ -516,7 +516,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セレナ",
+        "name": "Selena",
         "nickname": "Mage",
         "note": "",
         "profile": ""
@@ -790,7 +790,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "傭兵部隊",
+        "name": "Mercenary Unit",
         "nickname": "Mercenary",
         "note": "<前衛>\n<傭兵>",
         "profile": ""
@@ -823,7 +823,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "傭兵部隊2",
+        "name": "Mercenary Unit 2",
         "nickname": "Mercenary",
         "note": "<前衛>\n<傭兵>",
         "profile": ""
@@ -1237,10 +1237,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 6,
-        "name": "貧相な男",
+        "name": "Skinny man",
         "nickname": "Fighter",
         "note": "<str:2>\n<agi:1>\n<vit:2>",
-        "profile": "弱いものに強く、強いものにトコトン弱い性根の曲がった男。\n短小包茎早漏の三重苦。"
+        "profile": "A man with a twisted nature who is strong against the weak\nand extremely weak against the strong. He suffers from the\ntriple torment of being small, having a foreskin, and\npremature ejaculation."
     },
     {
         "id": 52,
@@ -1260,10 +1260,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 6,
-        "name": "農民風の男",
+        "name": "Farmer-like man",
         "nickname": "Fighter",
         "note": "<str:2>\n<agi:1>\n<vit:1>",
-        "profile": "元農民だがギャンブルで身を持ち崩しスラムまで流れてきた。粗忽な乱暴者。\n握りこぶしほどある巨根が唯一の自慢。"
+        "profile": "I used to be a farmer, but I lost everything in gambling and\nended up in the slums. I'm a rough and careless person. My\nonly pride is my huge cock, as big as a clenched fist."
     },
     {
         "id": 53,
@@ -1283,10 +1283,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 5,
-        "name": "薄汚れた男",
+        "name": "Dirty man",
         "nickname": "Fighter",
         "note": "<str:1>\n<luk:1>\n<min:1>\n<vit:2>",
-        "profile": "借金に追われスラムに逃げ込んできた。\n盗難癖があり、なんでもすぐに懐へ入れる。"
+        "profile": "I ran away to the slums, chased by debt. I have a habit of\nstealing and putting everything into my pocket right away."
     },
     {
         "id": 54,
@@ -1329,7 +1329,7 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 5,
-        "name": "司祭",
+        "name": "Priest",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -1352,7 +1352,7 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 5,
-        "name": "ブルーノ",
+        "name": "Bruno",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -1375,7 +1375,7 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 5,
-        "name": "ロリコンの男",
+        "name": "Lolicon man",
         "nickname": "Fighter",
         "note": "<str:1>\n<luk:1>\n<min:1>\n<vit:2>",
         "profile": ""
@@ -1467,10 +1467,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "飲んだくれの男",
+        "name": "Drunkard man",
         "nickname": "Fighter",
         "note": "",
-        "profile": "酒を飲んでは暴力を振るう最低な男。\n妻子に逃げられ全てを失ったが、それでも酒を飲む。"
+        "profile": "A despicable man who drinks alcohol and resorts to violence.\nHe lost everything when his wife and children left him, but\nhe still continues to drink."
     },
     {
         "id": 62,
@@ -1490,10 +1490,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "不潔な男",
+        "name": "Dirty man",
         "nickname": "Rogue",
         "note": "",
-        "profile": "ニタニタとした笑みが気持ち悪い。\n体を洗うという習慣がなく、とても不潔。"
+        "profile": "A creepy grin with a smirk. No habit of washing the body,\nvery unclean."
     },
     {
         "id": 63,
@@ -1513,10 +1513,10 @@
         "traits": [],
         "initialLevel": 4,
         "maxLevel": 11,
-        "name": "足をひきずった男",
+        "name": "A man who dragged his leg",
         "nickname": "Fighter",
         "note": "",
-        "profile": "膝に矢を受け兵士を引退して以来、\n何事も投げやりになった。"
+        "profile": "Since taking an arrow to the knee and retiring as a soldier,\nI became indifferent to everything."
     },
     {
         "id": 64,
@@ -1536,10 +1536,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 8,
-        "name": "借金苦の戦士",
+        "name": "Debt-ridden Warrior",
         "nickname": "Fighter",
         "note": "",
-        "profile": "借金を返すためにゴルドーに従っている戦士。\n稼いだ金はすぐにギャンブルに使うため、いつまでたっても返せない。"
+        "profile": "The warrior who is following Goludo in order to repay his\ndebt. He immediately spends the money he earns on gambling,\nso he can never repay it no matter how much time passes."
     },
     {
         "id": 65,
@@ -1559,10 +1559,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 8,
-        "name": "でかくてにぶい男",
+        "name": "A big and dull man",
         "nickname": "Fighter",
         "note": "",
-        "profile": "口より先に拳が出る。常に威圧的で、\n相手より優勢である事を示し続けないと気が済まない。"
+        "profile": "The fist comes out before the mouth. Always intimidating,\nand can't be satisfied unless showing dominance over the\nopponent."
     },
     {
         "id": 66,
@@ -1582,7 +1582,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "しつこい物乞い",
+        "name": "Persistent beggar",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -1605,10 +1605,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "すごいにおいの男",
+        "name": "Amazingly Smelly Man",
         "nickname": "Rogue",
         "note": "",
-        "profile": "体から異臭がする男。お風呂に入れば匂いもマシになるかもしれない"
+        "profile": "This man has a strange odor coming from his body. Maybe the\nsmell will improve if he takes a bath."
     },
     {
         "id": 68,
@@ -1628,10 +1628,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "すばしっこい男",
+        "name": "Nimble man",
         "nickname": "Rogue",
         "note": "<str:2>\n<agi:1>\n<vit:2>",
-        "profile": "素早い動きでセクハラをしてくる物乞い。\n"
+        "profile": "A beggar who comes to sexually harass with quick movements."
     },
     {
         "id": 69,
@@ -1651,10 +1651,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "いやらしい目の男",
+        "name": "A man with lewd eyes",
         "nickname": "Fighter",
         "note": "<str:2>\n<agi:1>\n<vit:2>",
-        "profile": "気持ち悪い視線を送ってくる男。\nその目つきは仲間から見ても気持ち悪く、嫌われている。"
+        "profile": "A man who sends creepy glances. His gaze is creepy even to\nhis comrades, and he is disliked."
     },
     {
         "id": 70,
@@ -1674,10 +1674,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "セクハラ好きの村人",
+        "name": "Villager who likes sexual harassment",
         "nickname": "Fighter",
         "note": "",
-        "profile": "セレナの体を触ろうとしてくる村人。\nいつも薄ら笑いを浮かべている。"
+        "profile": "The villagers try to touch Selena's body. They always have a\nfaint smile on their faces."
     },
     {
         "id": 71,
@@ -1697,10 +1697,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "むっつりな村人",
+        "name": "Grumpy Villager",
         "nickname": "Fighter",
         "note": "",
-        "profile": "セレナに愛想よくしてくれる村人。\nただ、視線が胸に行っているのがきになる。"
+        "profile": "The villagers are friendly to Selena. However, it bothers me\nthat their gaze keeps going to her chest."
     },
     {
         "id": 72,
@@ -1720,10 +1720,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "村長",
+        "name": "Village Chief",
         "nickname": "Fighter",
         "note": "",
-        "profile": "セレナが住む町の町長。\n皆から慕われているが、少女が泣きながら家から出てきたとの噂も。"
+        "profile": "The mayor of the town where Selena lives. She is admired by\neveryone, but there are also rumors that a girl came out of\nher house crying."
     },
     {
         "id": 73,
@@ -1743,10 +1743,10 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "ラルゴ",
+        "name": "Largo",
         "nickname": "Fighter",
         "note": "",
-        "profile": "セレナの夫であるランディの父。セレナの義父。"
+        "profile": "Selena's husband, Randy's father. Selena's father-in-law."
     },
     {
         "id": 74,
@@ -1766,7 +1766,7 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 7,
-        "name": "グルカ",
+        "name": "Guruka",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -1789,10 +1789,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "シン",
+        "name": "Shin",
         "nickname": "Fighter",
         "note": "",
-        "profile": "村に住む男の子。リンと仲が良く、遊びに来ることも多い。\nセレナが話しかけると頬を染める。"
+        "profile": "A boy who lives in the village. He is close with Rin and\noften comes to play. When Selena talks to him, his cheeks\nturn red."
     },
     {
         "id": 76,
@@ -1812,10 +1812,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "ゲスで雑魚な盗賊",
+        "name": "A lowly and pathetic thief",
         "nickname": "Fighter",
         "note": "",
-        "profile": "媚びと裏切りを繰り返して生きてきた。\n自分より幸せな人間は全て悪者という価値観の持ち主。"
+        "profile": "I have lived by seducing and betraying others. I see anyone\nhappier than myself as a villain."
     },
     {
         "id": 77,
@@ -1858,7 +1858,7 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 8,
-        "name": "ゴルドー",
+        "name": "Goludo",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -1881,10 +1881,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "野盗くずれの男",
+        "name": "Bandit Scum Man",
         "nickname": "Fighter",
         "note": "",
-        "profile": "快楽に弱く、我慢ができない。\n自分の思い通りにいかないと癇癪を起し何をしでかすかわからない。"
+        "profile": "I am weak to pleasure and cannot endure it. When things\ndon't go my way, I throw a tantrum and I don't know what I\nmight do."
     },
     {
         "id": 80,
@@ -1904,10 +1904,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "引退した戦士",
+        "name": "Retired warrior",
         "nickname": "Fighter",
         "note": "",
-        "profile": "戦士として戦っていたが、とある理由により引退した。\nそれ以来は酒場で酒だけを飲んでいる。"
+        "profile": "I was fighting as a warrior, but I retired for a certain\nreason. Since then, I've been drinking only at the bar."
     },
     {
         "id": 81,
@@ -1973,7 +1973,7 @@
         "traits": [],
         "initialLevel": 3,
         "maxLevel": 8,
-        "name": "金持ちの息子",
+        "name": "Rich son",
         "nickname": "Fighter",
         "note": "",
         "profile": ""
@@ -2134,10 +2134,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "自称大魔導士",
+        "name": "Self-proclaimed Great Wizard",
         "nickname": "Fighter",
         "note": "",
-        "profile": "大魔導士を名乗る男。\n見慣れない服を着ている。"
+        "profile": "A man who claims to be a great wizard. He is wearing\nunfamiliar clothes."
     },
     {
         "id": 91,
@@ -2157,10 +2157,10 @@
         "traits": [],
         "initialLevel": 2,
         "maxLevel": 7,
-        "name": "ニセ勇者",
+        "name": "Fake Hero",
         "nickname": "Fighter",
         "note": "",
-        "profile": "勇者ランディを騙る男。しかし腕前はかなりのモノ"
+        "profile": "A man pretending to be the hero Randy. However, his skills\nare quite something."
     },
     {
         "id": 92,
@@ -2180,7 +2180,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "オーク",
+        "name": "Orc",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2203,7 +2203,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "コバック",
+        "name": "Kobakku",
         "nickname": "",
         "note": "",
         "profile": ""
