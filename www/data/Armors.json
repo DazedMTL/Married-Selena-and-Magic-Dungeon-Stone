@@ -13483,7 +13483,7 @@
         ],
         "iconIndex": 1674,
         "name": "Guild Girl",
-        "note": "\n<hint:ギルドに加入する>",
+        "note": "\n<hint:Join the guild.>",
         "params": [
             0,
             0,
@@ -13510,7 +13510,7 @@
         ],
         "iconIndex": 1674,
         "name": "First Infidelity",
-        "note": "<hintId:501>\n\n<hint:グルカと浮気セックス>",
+        "note": "<hintId:501>\n\n<hint:Guruka and cheating sex.>",
         "params": [
             0,
             0,
@@ -13537,7 +13537,7 @@
         ],
         "iconIndex": 1674,
         "name": "Rumored Slut",
-        "note": "<hintId:501>\n\n<hint:10人以上とセックスをする>",
+        "note": "<hintId:501>\n\n<hint:Having sex with more than 10 people.>",
         "params": [
             0,
             0,
@@ -13564,7 +13564,7 @@
         ],
         "iconIndex": 1674,
         "name": "Bitch Wife Selena",
-        "note": "<hintId:503>\n\n<hint:20人以上とセックスをする>",
+        "note": "<hintId:503>\n\n<hint:Having sex with more than 20 people.>",
         "params": [
             0,
             0,
@@ -13591,7 +13591,7 @@
         ],
         "iconIndex": 1718,
         "name": "Oral Training",
-        "note": "<hintId:501>\n\n<hint:フェラ解禁>",
+        "note": "<hintId:501>\n\n<hint:Blowjob ban lifted>",
         "params": [
             0,
             0,
@@ -13618,7 +13618,7 @@
         ],
         "iconIndex": 1710,
         "name": "Anal Development",
-        "note": "<hintId:501>\n\n<hint:アナル解禁>",
+        "note": "<hintId:501>\n\n<hint:Anal Ban Lifted>",
         "params": [
             0,
             0,
@@ -13645,7 +13645,7 @@
         ],
         "iconIndex": 1715,
         "name": "Forbidden Pregnancy",
-        "note": "<hintId:502>\n\n<hint:夫以外の男の子を孕む>",
+        "note": "<hintId:502>\n\n<hint:Getting pregnant with a boy other than my husband.>",
         "params": [
             0,
             0,
@@ -13672,7 +13672,7 @@
         ],
         "iconIndex": 1715,
         "name": "Pregnant Woman",
-        "note": "<hintId:507>\n\n<hint:夫以外の男の子を10回孕む>",
+        "note": "<hintId:507>\n\n<hint:Get impregnated by 10 boys not from my.>",
         "params": [
             0,
             0,
@@ -13699,7 +13699,7 @@
         ],
         "iconIndex": 1715,
         "name": "I have a new family now.",
-        "note": "<hintId:507>\n\n<hint:夫以外の男の子を生む>",
+        "note": "<hintId:507>\n\n<hint:Giving birth to a boy not from my husband.>",
         "params": [
             0,
             0,
@@ -13726,7 +13726,7 @@
         ],
         "iconIndex": 1715,
         "name": "Unutilized Breast Milk",
-        "note": "<hintId:509>\n\n<hint:夫以外の男の子を2回生む>",
+        "note": "<hintId:509>\n\n<hint:Give birth to two boys not from my.>",
         "params": [
             0,
             0,
@@ -13753,7 +13753,7 @@
         ],
         "iconIndex": 1715,
         "name": "Oyakodon",
-        "note": "<hintId:501>\n\n<hint:親子で傭兵輪姦>",
+        "note": "<hintId:501>\n\n<hint:Parent and child gangbang mercenaries.>",
         "params": [
             0,
             0,
@@ -13780,7 +13780,7 @@
         ],
         "iconIndex": 1715,
         "name": "Flesh Toilet Mother and Daughter",
-        "note": "<hintId:511>\n\n\n<hint:親子で傭兵輪姦を５回>",
+        "note": "<hintId:511>\n\n\n<hint:A parent and child gangbang by mercenaries, 5 times.>",
         "params": [
             0,
             0,
@@ -13807,7 +13807,7 @@
         ],
         "iconIndex": 1715,
         "name": "Impregnated by Parent and Child",
-        "note": "<hintId:511>\n\n<hint:同じ男ユニットにセレナとリンが孕まされる>",
+        "note": "<hintId:511>\n\n<hint:Selena and Rin are impregnated by the same male unit.>",
         "params": [
             0,
             0,
@@ -13834,7 +13834,7 @@
         ],
         "iconIndex": 1715,
         "name": "Pregnant Mother and Daughter",
-        "note": "<hintId:511>\n\n<hint:セレナとリンが同時に妊娠している>",
+        "note": "<hintId:511>\n\n<hint:Selena and Rin are both pregnant at the same time.>",
         "params": [
             0,
             0,
@@ -13861,7 +13861,7 @@
         ],
         "iconIndex": 1715,
         "name": "Excuse me, excuse me, a pregnant woman is passing by.",
-        "note": "<hintId:501>\n\n<hint:全員が同時に妊娠>",
+        "note": "<hintId:501>\n\n<hint:Everyone gets pregnant at the same time.>",
         "params": [
             0,
             0,
@@ -13888,7 +13888,7 @@
         ],
         "iconIndex": 1715,
         "name": "Mayor! The population has increased!",
-        "note": "<hintId:501>\n\n<hint:全員合計で10回出産>",
+        "note": "<hintId:501>\n\n<hint:A total of 10 births for everyone.>",
         "params": [
             0,
             0,
@@ -13942,7 +13942,7 @@
         ],
         "iconIndex": 89,
         "name": "Formation! Selena Party",
-        "note": "<hintId:501>\n\n<hint:初めて傭兵編成>",
+        "note": "<hintId:501>\n\n<hint:First time mercenary formation>",
         "params": [
             0,
             0,
@@ -13969,7 +13969,7 @@
         ],
         "iconIndex": 88,
         "name": "Mercenary Corps Development",
-        "note": "<hintId:518>\n\n<hint:傭兵を5人雇用>",
+        "note": "<hintId:518>\n\n<hint:Hiring 5 mercenaries.>",
         "params": [
             0,
             0,
@@ -13996,7 +13996,7 @@
         ],
         "iconIndex": 87,
         "name": "Selena's Army's Ambition",
-        "note": "<hintId:519>\n\n<hint:傭兵を10人雇用>",
+        "note": "<hintId:519>\n\n<hint:Hired 10 mercenaries.>",
         "params": [
             0,
             0,
@@ -14023,7 +14023,7 @@
         ],
         "iconIndex": 1104,
         "name": "First Victory",
-        "note": "\n<hint:戦闘に勝利する>\n",
+        "note": "\n<hint:Win the battle.>\n",
         "params": [
             0,
             0,
@@ -14050,7 +14050,7 @@
         ],
         "iconIndex": 1111,
         "name": "Explorer of the Labyrinth",
-        "note": "<hintId:521>\n<hint:戦闘に10回勝利する>\n",
+        "note": "<hintId:521>\n<hint:Win 10 battles.>\n",
         "params": [
             0,
             0,
@@ -14077,7 +14077,7 @@
         ],
         "iconIndex": 1110,
         "name": "Veteran Adventurer",
-        "note": "<hintId:522>\n<hint:戦闘に50回勝利する>\n",
+        "note": "<hintId:522>\n<hint:Win 50 battles.>\n",
         "params": [
             0,
             0,
@@ -14104,7 +14104,7 @@
         ],
         "iconIndex": 1110,
         "name": "Battle-hardened",
-        "note": "<hintId:523>\n<hint:戦闘に100回勝利する>\n",
+        "note": "<hintId:523>\n<hint:Win 100 battles.>\n",
         "params": [
             0,
             0,
@@ -14131,7 +14131,7 @@
         ],
         "iconIndex": 1110,
         "name": "Legendary Adventurer",
-        "note": "<hintId:524>\n<hint:戦闘に150回勝利する>\n",
+        "note": "<hintId:524>\n<hint:Win 150 battles.>\n",
         "params": [
             0,
             0,
@@ -14184,8 +14184,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "Oh yeah, I just remembered.",
-        "note": "<hintId:501>\n<hint:Lv3到達>\n",
+        "name": "I see... I'm starting to remember...",
+        "note": "<hintId:501>\n<hint:Reached Level 3>\n",
         "params": [
             0,
             0,
@@ -14212,7 +14212,7 @@
         ],
         "iconIndex": 101,
         "name": "I'm starting to regain some of my senses.",
-        "note": "<hintId:527>\n<hint:Lv8到達>\n",
+        "note": "<hintId:527>\n<hint:Reached Level 8>\n",
         "params": [
             0,
             0,
@@ -14239,7 +14239,7 @@
         ],
         "iconIndex": 101,
         "name": "One more serving",
-        "note": "<hintId:528>\n<hint:Lv10到達>\n",
+        "note": "<hintId:528>\n<hint:Reached Level 10>\n",
         "params": [
             0,
             0,
@@ -14266,7 +14266,7 @@
         ],
         "iconIndex": 101,
         "name": "Master Level Reached!",
-        "note": "<hintId:529>\n<hint:Lv13到達>\n",
+        "note": "<hintId:529>\n<hint:Reached Level 13>\n",
         "params": [
             0,
             0,
@@ -14293,7 +14293,7 @@
         ],
         "iconIndex": 101,
         "name": "This is Selena Vioruoru",
-        "note": "<hintId:530>\n<hint:Lv20到達>\n",
+        "note": "<hintId:530>\n<hint:Reached Level 20>\n",
         "params": [
             0,
             0,
@@ -14374,7 +14374,7 @@
         ],
         "iconIndex": 140,
         "name": "Why on foot...?",
-        "note": "<hintId:527>\n<hint:ロープ取得後、歩いてダンジョンを出る>\n",
+        "note": "<hintId:527>\n<hint:After obtaining the rope, walk and exit the dungeon.>\n",
         "params": [
             0,
             0,
@@ -14401,7 +14401,7 @@
         ],
         "iconIndex": 140,
         "name": "Even a journey of a thousand miles",
-        "note": "<hintId:501>\n<hint:1000歩達成>\n",
+        "note": "<hintId:501>\n<hint:Achievement of 1000 steps.>\n",
         "params": [
             0,
             0,
@@ -14428,7 +14428,7 @@
         ],
         "iconIndex": 140,
         "name": "Walking Wife",
-        "note": "<hintId:535>\n<hint:5000歩達成>\n",
+        "note": "<hintId:535>\n<hint:Achieved 5000 steps.>\n",
         "params": [
             0,
             0,
@@ -14455,7 +14455,7 @@
         ],
         "iconIndex": 140,
         "name": "Health starts from the feet.",
-        "note": "<hintId:536>\n<hint:10000歩達成>\n",
+        "note": "<hintId:536>\n<hint:Achieved 10,000 steps.>\n",
         "params": [
             0,
             0,
@@ -14482,7 +14482,7 @@
         ],
         "iconIndex": 140,
         "name": "Hehehe, you found me well.",
-        "note": "<hintId:501>\n<hint:隠し扉発見>\n",
+        "note": "<hintId:501>\n<hint:Hidden door discovered.>\n",
         "params": [
             0,
             0,
@@ -14509,7 +14509,7 @@
         ],
         "iconIndex": 140,
         "name": "Hole-Piercing Mouse",
-        "note": "<hintId:538>\n<hint:隠し扉を5個発見>\n",
+        "note": "<hintId:538>\n<hint:Discovered 5 hidden doors.>\n",
         "params": [
             0,
             0,
@@ -14536,7 +14536,7 @@
         ],
         "iconIndex": 140,
         "name": "The one that pierces through the dungeon",
-        "note": "<hintId:539>\n<hint:隠し扉を7個発見>\n",
+        "note": "<hintId:539>\n<hint:Discovered 7 hidden doors.>\n",
         "params": [
             0,
             0,
@@ -14563,7 +14563,7 @@
         ],
         "iconIndex": 140,
         "name": "Stupid, me...",
-        "note": "<hintId:501>\n<hint:敗北撤退>\n",
+        "note": "<hintId:501>\n<hint:Retreat after defeat>\n",
         "params": [
             0,
             0,
@@ -14590,7 +14590,7 @@
         ],
         "iconIndex": 140,
         "name": "Let's go home. If we go back, we can come again.",
-        "note": "<hintId:541>\n<hint:敗北撤退10回目>\n",
+        "note": "<hintId:541>\n<hint:10th Retreat after Defeat>\n",
         "params": [
             0,
             0,
@@ -14617,7 +14617,7 @@
         ],
         "iconIndex": 140,
         "name": "Our adventure is just beginning!",
-        "note": "\n<hintId:501>\n<hint:２層に到達する>",
+        "note": "\n<hintId:501>\n<hint:Reach the second level.>",
         "params": [
             0,
             0,
@@ -14644,7 +14644,7 @@
         ],
         "iconIndex": 140,
         "name": "Beyond the Poison Dungeon",
-        "note": "\n<hintId:543>\n<hint:３層に到達する>",
+        "note": "\n<hintId:543>\n<hint:Reached the third level.>",
         "params": [
             0,
             0,
@@ -14671,7 +14671,7 @@
         ],
         "iconIndex": 140,
         "name": "Sleep peacefully.",
-        "note": "\n<hintId:544>\n<hint:４層に到達する>",
+        "note": "\n<hintId:544>\n<hint:Reached the 4th floor.>",
         "params": [
             0,
             0,
@@ -14698,7 +14698,7 @@
         ],
         "iconIndex": 140,
         "name": "And the lowest level",
-        "note": "\n<hintId:545>\n<hint:５層に到達する>",
+        "note": "\n<hintId:545>\n<hint:Reached the 5th floor.>",
         "params": [
             0,
             0,
@@ -15637,7 +15637,7 @@
         "traits": [],
         "iconIndex": 223,
         "name": "Synthesis Beginner",
-        "note": "<hint:装備作成を５回行う>\n<hintId:501>",
+        "note": "<hint:Perform equipment creation 5 times.>\n<hintId:501>",
         "params": [
             0,
             0,
@@ -15658,7 +15658,7 @@
         "traits": [],
         "iconIndex": 223,
         "name": "Tontenkan",
-        "note": "<hint:装備作成を１５回行う>\n<hintId:581>\n",
+        "note": "<hint:Perform equipment creation 15 times.>\n<hintId:581>\n",
         "params": [
             0,
             0,
@@ -15679,7 +15679,7 @@
         "traits": [],
         "iconIndex": 223,
         "name": "Alchemy Flask",
-        "note": "<hint:装備作成を３０回行う>\n<hintId:582>\n",
+        "note": "<hint:Perform equipment creation 30 times.>\n<hintId:582>\n",
         "params": [
             0,
             0,
@@ -15700,7 +15700,7 @@
         "traits": [],
         "iconIndex": 223,
         "name": "Master Craftsman's Hammer",
-        "note": "<hint:装備作成を４０回行う>\n<hintId:583>\n",
+        "note": "<hint:Perform equipment creation 40 times.>\n<hintId:583>\n",
         "params": [
             0,
             0,
@@ -15721,7 +15721,7 @@
         "traits": [],
         "iconIndex": 223,
         "name": "Ultimate Booster",
-        "note": "<hint:装備作成を５０回行う>\n<hintId:584>\n",
+        "note": "<hint:Perform equipment creation 50 times.>\n<hintId:584>\n",
         "params": [
             0,
             0,
@@ -15742,7 +15742,7 @@
         "traits": [],
         "iconIndex": 210,
         "name": "I got the treasure!",
-        "note": "<hint:宝箱を１回開ける>\n<hintId:501>\n",
+        "note": "<hint:Open the treasure chest once.>\n<hintId:501>\n",
         "params": [
             0,
             0,
@@ -15763,7 +15763,7 @@
         "traits": [],
         "iconIndex": 210,
         "name": "I got even more treasure!",
-        "note": "<hint:宝箱を５回開ける>\n<hintId:586>\n",
+        "note": "<hint:Open the treasure chest five times.>\n<hintId:586>\n",
         "params": [
             0,
             0,
@@ -15784,7 +15784,7 @@
         "traits": [],
         "iconIndex": 210,
         "name": "Oops",
-        "note": "<hint:宝箱を１０回開ける>\n<hintId:586>\n",
+        "note": "<hint:Open the treasure chest 10 times.>\n<hintId:586>\n",
         "params": [
             0,
             0,
@@ -15805,7 +15805,7 @@
         "traits": [],
         "iconIndex": 210,
         "name": "Treasure Hunter",
-        "note": "<hint:宝箱を１５回開ける>\n<hintId:588>\n",
+        "note": "<hint:Open the treasure chest 15 times.>\n<hintId:588>\n",
         "params": [
             0,
             0,
@@ -15826,7 +15826,7 @@
         "traits": [],
         "iconIndex": 210,
         "name": "Treasure Chest Mania",
-        "note": "<hint:宝箱を２０回開ける>\n<hintId:589>\n",
+        "note": "<hint:Open the treasure chest 20 times.>\n<hintId:589>\n",
         "params": [
             0,
             0,
@@ -15874,7 +15874,7 @@
         "traits": [],
         "iconIndex": 125,
         "name": "Medal Collector",
-        "note": "<hint:勲章３０個達成>\n<hintId:501>\n",
+        "note": "<hint:Achieved 30 medals.>\n<hintId:501>\n",
         "params": [
             0,
             0,
@@ -16084,7 +16084,7 @@
         "traits": [],
         "iconIndex": 140,
         "name": "From corner to corner",
-        "note": "<hint:１層のマップを埋める>\n<hintId:501>\n<gold:500>",
+        "note": "<hint:Fill in the first floor map.>\n<hintId:501>\n<gold:500>",
         "params": [
             0,
             0,
@@ -16105,7 +16105,7 @@
         "traits": [],
         "iconIndex": 140,
         "name": "The joy of filling the map...",
-        "note": "<hint:２層のマップを埋める>\n<hintId:600>\n<gold:1000>",
+        "note": "<hint:Fill the two-layered map.>\n<hintId:600>\n<gold:1000>",
         "params": [
             0,
             0,
@@ -16126,7 +16126,7 @@
         "traits": [],
         "iconIndex": 140,
         "name": "The Last 1 Square",
-        "note": "<hint:３層のマップを埋める>\n<hintId:601>\n<gold:1500>",
+        "note": "<hint:Fill the three-layered map.>\n<hintId:601>\n<gold:1500>",
         "params": [
             0,
             0,
@@ -16147,7 +16147,7 @@
         "traits": [],
         "iconIndex": 140,
         "name": "Map! More map!",
-        "note": "<hint:４層のマップを埋める>\n<hintId:602>\n<gold:2000>",
+        "note": "<hint:Fill in the 4th floor map.>\n<hintId:602>\n<gold:2000>",
         "params": [
             0,
             0,
@@ -16168,7 +16168,7 @@
         "traits": [],
         "iconIndex": 140,
         "name": "The one who knows everything",
-        "note": "<hint:５層のマップを埋める>\n<hintId:603>\n<gold:3000>",
+        "note": "<hint:Fill the 5th floor map.>\n<hintId:603>\n<gold:3000>",
         "params": [
             0,
             0,
