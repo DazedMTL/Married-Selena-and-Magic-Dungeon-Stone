@@ -324,7 +324,7 @@ var Saba;
         Tachie.centerPosX = parseInt(parameters['centerPosX']);
         Tachie.posY = parseInt(parameters['posY']);
         Tachie.nameLeft = parseInt(parameters['nameLeft']);
-        Tachie.fontSize = parseInt(parameters['fontSize']);
+        Tachie.fontSize = 20;
         Tachie.nameWidthPerChar = parseInt(parameters['nameWidthPerChar']);
         Tachie.newLineXWithFace = parseInt(parameters['newLineXWithFace']);
         Tachie.windowMargin = Saba.toIntArrayByStr(parameters['windowMargin'], 4);
