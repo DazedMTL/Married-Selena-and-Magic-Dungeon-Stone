@@ -2534,7 +2534,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(3).taneoya = 'グルカ'"
+                                "$gameSystem.getEro(3).taneoya = 'Guruka'"
                             ]
                         },
                         {
@@ -2554,7 +2554,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(3).taneoya = 'ロリコンの男'"
+                                "$gameSystem.getEro(3).taneoya = 'Lolicon man'"
                             ]
                         },
                         {
@@ -2574,7 +2574,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(3).taneoya = '農民風の男'"
+                                "$gameSystem.getEro(3).taneoya = 'Farmer-like man'"
                             ]
                         },
                         {
@@ -2998,7 +2998,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = 'ラルゴ'"
+                                "$gameSystem.getEro(2).taneoya = 'Largo'"
                             ]
                         },
                         {
@@ -3018,7 +3018,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = 'グルカ'"
+                                "$gameSystem.getEro(2).taneoya = 'Guruka'"
                             ]
                         },
                         {
@@ -3038,7 +3038,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = '金持ちの息子'"
+                                "$gameSystem.getEro(2).taneoya = 'Rich son'"
                             ]
                         },
                         {
@@ -3058,7 +3058,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = '農民風の男'"
+                                "$gameSystem.getEro(2).taneoya = 'Farmer-like man'"
                             ]
                         },
                         {
@@ -3360,7 +3360,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'ラルゴ'"
+                                "$gameSystem.getEro(1).taneoya = 'Largo'"
                             ]
                         },
                         {
@@ -3380,7 +3380,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'シン'"
+                                "$gameSystem.getEro(1).taneoya = 'Shin'"
                             ]
                         },
                         {
@@ -3400,7 +3400,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'ゴルドー'"
+                                "$gameSystem.getEro(1).taneoya = 'Goludo'"
                             ]
                         },
                         {
@@ -3420,7 +3420,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = '農民風の男'"
+                                "$gameSystem.getEro(1).taneoya = 'Farmer-like man'"
                             ]
                         },
                         {
@@ -4097,7 +4097,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'ラルゴ'"
+                                "$gameSystem.getEro(1).taneoya = 'Largo'"
                             ]
                         },
                         {
@@ -4117,7 +4117,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'シン'"
+                                "$gameSystem.getEro(1).taneoya = 'Shin'"
                             ]
                         },
                         {
@@ -4137,7 +4137,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'ゴルドー'"
+                                "$gameSystem.getEro(1).taneoya = 'Goludo'"
                             ]
                         },
                         {
@@ -4157,7 +4157,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = '農民風の男'"
+                                "$gameSystem.getEro(1).taneoya = 'Farmer-like man'"
                             ]
                         },
                         {
@@ -5366,7 +5366,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = '司祭'"
+                                "$gameSystem.getEro(4).taneoya = 'Priest'"
                             ]
                         },
                         {
@@ -5386,7 +5386,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = 'ブルーノ'"
+                                "$gameSystem.getEro(4).taneoya = 'Bruno'"
                             ]
                         },
                         {
@@ -5406,7 +5406,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = '農民風の男'"
+                                "$gameSystem.getEro(4).taneoya = 'Farmer-like man'"
                             ]
                         },
                         {
@@ -5672,7 +5672,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'グルカ';"
+                                "$gameSystem.getEro(1).taneoya = 'Guruka';"
                             ]
                         },
                         {
@@ -5699,7 +5699,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = '農民風の男';"
+                                "$gameSystem.getEro(1).taneoya = 'Farmer-like man';"
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'シン';"
+                                "$gameSystem.getEro(1).taneoya = 'Shin';"
                             ]
                         },
                         {
@@ -5774,7 +5774,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(1).taneoya = 'ラルゴ';"
+                                "$gameSystem.getEro(1).taneoya = 'Largo';"
                             ]
                         },
                         {
@@ -5835,7 +5835,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = 'グルカ';"
+                                "$gameSystem.getEro(2).taneoya = 'Guruka';"
                             ]
                         },
                         {
@@ -5862,7 +5862,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = 'ラルゴ';"
+                                "$gameSystem.getEro(2).taneoya = 'Largo';"
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(2).taneoya = 'シン';"
+                                "$gameSystem.getEro(2).taneoya = 'Shin';"
                             ]
                         },
                         {
@@ -5971,7 +5971,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = '司祭';"
+                                "$gameSystem.getEro(4).taneoya = 'Priest';"
                             ]
                         },
                         {
@@ -5998,7 +5998,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = '金持ち';"
+                                "$gameSystem.getEro(4).taneoya = 'Rich son';"
                             ]
                         },
                         {
@@ -6025,7 +6025,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(4).taneoya = 'シン';"
+                                "$gameSystem.getEro(4).taneoya = 'Shin';"
                             ]
                         },
                         {
@@ -6113,7 +6113,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(3).taneoya = '農民風の男';"
+                                "$gameSystem.getEro(3).taneoya = 'Farmer-like man';"
                             ]
                         },
                         {
@@ -6140,7 +6140,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "$gameSystem.getEro(3).taneoya = 'グルカ';"
+                                "$gameSystem.getEro(3).taneoya = 'Guruka';"
                             ]
                         },
                         {

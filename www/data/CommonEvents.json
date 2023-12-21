@@ -20779,7 +20779,7 @@
                 "indent": 3,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -20787,7 +20787,7 @@
                 "indent": 4,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(2).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -22909,7 +22909,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -22932,7 +22932,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(1).taneoya == 'Largo'"
                 ]
             },
             {
@@ -22955,7 +22955,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ブルーノ'"
+                    "$gameSystem.getEro(1).taneoya == 'Bruno'"
                 ]
             },
             {
@@ -22978,7 +22978,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'オーク'"
+                    "$gameSystem.getEro(1).taneoya == 'Orc'"
                 ]
             },
             {
@@ -23001,7 +23001,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'シン'"
+                    "$gameSystem.getEro(1).taneoya == 'Shin'"
                 ]
             },
             {
@@ -23024,7 +23024,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(2).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -23047,7 +23047,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(2).taneoya == 'Largo'"
                 ]
             },
             {
@@ -23070,7 +23070,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == '金持ちの息子'"
+                    "$gameSystem.getEro(2).taneoya == 'Rich son'"
                 ]
             },
             {
@@ -25953,7 +25953,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "$gameSystem.getEro(2).hatsutaiken = 'ラルゴ';"
+                    "$gameSystem.getEro(2).hatsutaiken = 'Largo';"
                 ]
             },
             {
@@ -37445,7 +37445,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "!Saba.isTaneoyaName(4, '司祭') && ! Saba.isTaneoyaName(4, 'ブルーノ')"
+                    "!Saba.isTaneoyaName(4, 'Priest') && ! Saba.isTaneoyaName(4, 'Bruno')"
                 ]
             },
             {
@@ -37739,7 +37739,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(4, '司祭')"
+                    "Saba.isTaneoyaName(4, 'Priest')"
                 ]
             },
             {
@@ -38033,7 +38033,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(4, 'ブルーノ')"
+                    "Saba.isTaneoyaName(4, 'Bruno')"
                 ]
             },
             {
@@ -38346,7 +38346,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(3, 'グルカ')"
+                    "Saba.isTaneoyaName(3, 'Guruka')"
                 ]
             },
             {
@@ -38682,7 +38682,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(3, 'ロリコンの男')"
+                    "Saba.isTaneoyaName(3, 'Lolicon man')"
                 ]
             },
             {
@@ -39039,7 +39039,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "! Saba.isTaneoyaName(3, 'ロリコンの男') && ! Saba.isTaneoyaName(3, 'グルカ')"
+                    "! Saba.isTaneoyaName(3, 'Lolicon man') && ! Saba.isTaneoyaName(3, 'Guruka')"
                 ]
             },
             {
@@ -39342,7 +39342,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "!Saba.isTaneoyaName(2, 'グルカ')"
+                    "!Saba.isTaneoyaName(2, 'Guruka')"
                 ]
             },
             {
@@ -39350,7 +39350,7 @@
                 "indent": 2,
                 "parameters": [
                     12,
-                    "!Saba.isTaneoyaName(2, 'ラルゴ')"
+                    "!Saba.isTaneoyaName(2, 'Largo')"
                 ]
             },
             {
@@ -39358,7 +39358,7 @@
                 "indent": 3,
                 "parameters": [
                     12,
-                    "!Saba.isTaneoyaName(2, '金持ちの息子')"
+                    "!Saba.isTaneoyaName(2, 'Rich son')"
                 ]
             },
             {
@@ -39679,7 +39679,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(2, 'ラルゴ')"
+                    "Saba.isTaneoyaName(2, 'Largo')"
                 ]
             },
             {
@@ -39980,7 +39980,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(2, '金持ちの息子')"
+                    "Saba.isTaneoyaName(2, 'Rich son')"
                 ]
             },
             {
@@ -40335,7 +40335,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "Saba.isTaneoyaName(2, 'グルカ')"
+                    "Saba.isTaneoyaName(2, 'Guruka')"
                 ]
             },
             {
@@ -42706,7 +42706,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == '司祭'"
+                    "$gameSystem.getEro(4).taneoya == 'Priest'"
                 ]
             },
             {
@@ -42731,7 +42731,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == 'ブルーノ'"
+                    "$gameSystem.getEro(4).taneoya == 'Bruno'"
                 ]
             },
             {
@@ -42821,7 +42821,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == '司祭'"
+                    "$gameSystem.getEro(4).taneoya == 'Priest'"
                 ]
             },
             {
@@ -42850,7 +42850,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == 'ブルーノ'"
+                    "$gameSystem.getEro(4).taneoya == 'Bruno'"
                 ]
             },
             {
@@ -43385,7 +43385,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(3).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(3).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -43455,7 +43455,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(3).taneoya == 'ロリコンの男'"
+                    "$gameSystem.getEro(3).taneoya == 'Lolicon man'"
                 ]
             },
             {
@@ -44651,7 +44651,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'シン'"
+                    "$gameSystem.getEro(1).taneoya == 'Shin'"
                 ]
             },
             {
@@ -44746,7 +44746,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(1).taneoya == 'Largo'"
                 ]
             },
             {
@@ -44854,7 +44854,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ゴルドー'"
+                    "$gameSystem.getEro(1).taneoya == 'Goludo'"
                 ]
             },
             {
@@ -44933,7 +44933,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == '不明'"
+                    "$gameSystem.getEro(1).taneoya == 'Unknown'"
                 ]
             },
             {
@@ -45012,7 +45012,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'オーク'"
+                    "$gameSystem.getEro(1).taneoya == 'Orc'"
                 ]
             },
             {
@@ -45042,7 +45042,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -45206,7 +45206,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'シン'"
+                    "$gameSystem.getEro(1).taneoya == 'Shin'"
                 ]
             },
             {
@@ -45266,7 +45266,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(1).taneoya == 'Largo'"
                 ]
             },
             {
@@ -45314,7 +45314,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ゴルドー'"
+                    "$gameSystem.getEro(1).taneoya == 'Goludo'"
                 ]
             },
             {
@@ -45355,7 +45355,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == '不明'"
+                    "$gameSystem.getEro(1).taneoya == 'Unknown'"
                 ]
             },
             {
@@ -45396,7 +45396,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'オーク'"
+                    "$gameSystem.getEro(1).taneoya == 'Orc'"
                 ]
             },
             {
@@ -45426,7 +45426,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -45513,7 +45513,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(2).taneoya == 'Largo'"
                 ]
             },
             {
@@ -45597,7 +45597,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(2).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -45672,7 +45672,7 @@
                 "indent": 0,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == '金持ちの息子'"
+                    "$gameSystem.getEro(2).taneoya == 'Rich son'"
                 ]
             },
             {
@@ -46528,7 +46528,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'シン'"
+                    "$gameSystem.getEro(1).taneoya == 'Shin'"
                 ]
             },
             {
@@ -46553,7 +46553,7 @@
                 "indent": 2,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(1).taneoya == 'Largo'"
                 ]
             },
             {
@@ -46578,7 +46578,7 @@
                 "indent": 3,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(1).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -46609,7 +46609,7 @@
                 "code": 655,
                 "indent": 4,
                 "parameters": [
-                    "if (name == '不明') {"
+                    "if (name == 'Unknown') {"
                 ]
             },
             {
@@ -46724,7 +46724,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'ラルゴ'"
+                    "$gameSystem.getEro(2).taneoya == 'Largo'"
                 ]
             },
             {
@@ -46749,7 +46749,7 @@
                 "indent": 2,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(2).taneoya == 'グルカ'"
+                    "$gameSystem.getEro(2).taneoya == 'Guruka'"
                 ]
             },
             {
@@ -46892,7 +46892,7 @@
                 "indent": 1,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == '司祭'"
+                    "$gameSystem.getEro(4).taneoya == 'Priest'"
                 ]
             },
             {
@@ -46917,7 +46917,7 @@
                 "indent": 2,
                 "parameters": [
                     12,
-                    "$gameSystem.getEro(4).taneoya == '金持ち'"
+                    "$gameSystem.getEro(4).taneoya == 'Rich son'"
                 ]
             },
             {
@@ -60237,7 +60237,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = 'ラルゴ'"
+                    "$gameSystem.getEro(1).taneoya = 'Largo'"
                 ]
             },
             {
@@ -60257,7 +60257,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = 'シン'"
+                    "$gameSystem.getEro(1).taneoya = 'Shin'"
                 ]
             },
             {
@@ -60277,7 +60277,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = 'ゴルドー'"
+                    "$gameSystem.getEro(1).taneoya = 'Goludo'"
                 ]
             },
             {
@@ -60297,7 +60297,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = 'グルカ'"
+                    "$gameSystem.getEro(1).taneoya = 'Guruka'"
                 ]
             },
             {
@@ -60317,7 +60317,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = 'オーク'"
+                    "$gameSystem.getEro(1).taneoya = 'Orc'"
                 ]
             },
             {
@@ -60337,7 +60337,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(1).taneoya = '農民風の男'"
+                    "$gameSystem.getEro(1).taneoya = 'Farmer-like man'"
                 ]
             },
             {
@@ -60473,7 +60473,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(2).taneoya = 'ラルゴ'"
+                    "$gameSystem.getEro(2).taneoya = 'Largo'"
                 ]
             },
             {
@@ -60493,7 +60493,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(2).taneoya = 'グルカ'"
+                    "$gameSystem.getEro(2).taneoya = 'Guruka'"
                 ]
             },
             {
@@ -60513,7 +60513,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(2).taneoya = '金持ちの息子'"
+                    "$gameSystem.getEro(2).taneoya = 'Rich son'"
                 ]
             },
             {
@@ -60533,7 +60533,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(2).taneoya = '農民風の男'"
+                    "$gameSystem.getEro(2).taneoya = 'Farmer-like man'"
                 ]
             },
             {
@@ -60683,7 +60683,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(3).taneoya = 'グルカ'"
+                    "$gameSystem.getEro(3).taneoya = 'Guruka'"
                 ]
             },
             {
@@ -60703,7 +60703,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(3).taneoya = '農民風の男'"
+                    "$gameSystem.getEro(3).taneoya = 'Farmer-like man'"
                 ]
             },
             {
@@ -60836,7 +60836,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(4).taneoya = '司祭'"
+                    "$gameSystem.getEro(4).taneoya = 'Priest'"
                 ]
             },
             {
@@ -60856,7 +60856,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(4).taneoya = 'ブルーノ'"
+                    "$gameSystem.getEro(4).taneoya = 'Bruno'"
                 ]
             },
             {
@@ -60876,7 +60876,7 @@
                 "code": 355,
                 "indent": 1,
                 "parameters": [
-                    "$gameSystem.getEro(4).taneoya = '農民風の男'"
+                    "$gameSystem.getEro(4).taneoya = 'Farmer-like man'"
                 ]
             },
             {
