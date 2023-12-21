@@ -924,7 +924,7 @@
         ],
         "iconIndex": 101,
         "name": "Oak Staff",
-        "note": "<LV:1>\n<掲載レシピ:W32>\n<分類:セレナ>\n",
+        "note": "<LV:1>\n<掲載レシピ:W32>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -952,7 +952,7 @@
         ],
         "iconIndex": 101,
         "name": "Sakura's Staff",
-        "note": "<LV:2>\n<掲載レシピ:W33>\n<分類:セレナ>\n",
+        "note": "<LV:2>\n<掲載レシピ:W33>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -980,7 +980,7 @@
         ],
         "iconIndex": 101,
         "name": "Staff of Wisdom",
-        "note": "<LV:3>\n<掲載レシピ:W34>\n<分類:セレナ>\n",
+        "note": "<LV:3>\n<掲載レシピ:W34>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1008,7 +1008,7 @@
         ],
         "iconIndex": 101,
         "name": "Staff of Power",
-        "note": "<LV:4>\n<掲載レシピ:W35>\n<分類:セレナ>",
+        "note": "<LV:4>\n<掲載レシピ:W35>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1036,7 +1036,7 @@
         ],
         "iconIndex": 101,
         "name": "Wand of Magic Thoughts",
-        "note": "<LV:5>\n<掲載レシピ:W36>\n<分類:セレナ>",
+        "note": "<LV:5>\n<掲載レシピ:W36>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1064,7 +1064,7 @@
         ],
         "iconIndex": 101,
         "name": "Mage's Staff",
-        "note": "<LV:6>\n<掲載レシピ:W37>\n<分類:セレナ>",
+        "note": "<LV:6>\n<掲載レシピ:W37>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1092,7 +1092,7 @@
         ],
         "iconIndex": 101,
         "name": "Metis",
-        "note": "<LV:7>\n<掲載レシピ:W38>\n<分類:セレナ>",
+        "note": "<LV:7>\n<掲載レシピ:W38>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1120,7 +1120,7 @@
         ],
         "iconIndex": 101,
         "name": "Staff of the Celestial Realm",
-        "note": "<LV:8>\n<分類:セレナ>",
+        "note": "<LV:8>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1181,7 +1181,7 @@
         ],
         "iconIndex": 121,
         "name": "Beginner's Grimoire",
-        "note": "<LV:0>\n\n<分類:セレナ>\n<合成材料:I71:1,I81:2>",
+        "note": "<LV:0>\n\n<分類:Selena>\n<合成材料:I71:1,I81:2>",
         "params": [
             0,
             0,
@@ -1209,7 +1209,7 @@
         ],
         "iconIndex": 121,
         "name": "Intermediate Grimoire",
-        "note": "<LV:1>\n<掲載レシピ:W42>\n<分類:セレナ>\n",
+        "note": "<LV:1>\n<掲載レシピ:W42>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1237,7 +1237,7 @@
         ],
         "iconIndex": 121,
         "name": "Advanced Grimoire",
-        "note": "<LV:2>\n<掲載レシピ:W43>\n<分類:セレナ>\n",
+        "note": "<LV:2>\n<掲載レシピ:W43>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1265,7 +1265,7 @@
         ],
         "iconIndex": 186,
         "name": "Book of Fantasia",
-        "note": "<LV:3>\n<掲載レシピ:W44>\n<分類:セレナ>",
+        "note": "<LV:3>\n<掲載レシピ:W44>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1293,7 +1293,7 @@
         ],
         "iconIndex": 121,
         "name": "Cardia's Book",
-        "note": "<LV:4>\n<掲載レシピ:W45>\n<分類:セレナ>\n",
+        "note": "<LV:4>\n<掲載レシピ:W45>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1321,7 +1321,7 @@
         ],
         "iconIndex": 101,
         "name": "Prinkipia",
-        "note": "<LV:5>\n<掲載レシピ:W46>\n<分類:セレナ>",
+        "note": "<LV:5>\n<掲載レシピ:W46>\n<分類:Selena>",
         "params": [
             0,
             0,
@@ -1349,7 +1349,7 @@
         ],
         "iconIndex": 121,
         "name": "Forbidden Book of Valhalla",
-        "note": "<LV:6>\n<掲載レシピ:W47>\n<分類:セレナ>\n",
+        "note": "<LV:6>\n<掲載レシピ:W47>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1377,7 +1377,7 @@
         ],
         "iconIndex": 121,
         "name": "Infinity Book",
-        "note": "<LV:7>\n<掲載レシピ:W48>\n<分類:セレナ>\n",
+        "note": "<LV:7>\n<掲載レシピ:W48>\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1405,7 +1405,7 @@
         ],
         "iconIndex": 121,
         "name": "Grimoire",
-        "note": "<LV:8>\n\n<分類:セレナ>\n",
+        "note": "<LV:8>\n\n<分類:Selena>\n",
         "params": [
             0,
             0,
@@ -1466,7 +1466,7 @@
         ],
         "iconIndex": 101,
         "name": "Staff",
-        "note": "<LV:0>\n<分類:セレナ>",
+        "note": "<LV:0>\n<分類:Selena>",
         "params": [
             0,
             0,
