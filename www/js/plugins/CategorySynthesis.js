@@ -2119,7 +2119,7 @@ Imported['CategorySythesis'] = 1.00;
     };
     var getActor = function (item) {
         var categories = DataManager.itemSecondaryCategories(item);
-        if (categories.indexOf('セレナ') >= 0) {
+        if (categories.indexOf('Selena') >= 0) {
             return $gameActors.actor(1);
         }
         if (categories.indexOf('シーフ') >= 0) {
